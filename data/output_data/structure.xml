@@ -6,7 +6,9 @@
    <headerInfo active="1"/>
    <bibliography active="1"/>
    <front active="1"/>
-   <translation active="1"/>
+   <translation active="1">
+      <lang>de</lang>
+   </translation>
    <liste>
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
    </liste>
@@ -17,11 +19,15 @@
    <textpage>
       <text n="parzival_text" label="Parzival">
          <pb n="1r">co_fol_1r</pb>
+         <pb n="1v">co_fol_1v</pb>
       </text>
    </textpage>
    <pages>
       <pair>
          <pb n="1r">co_fol_1r</pb>
+      </pair>
+      <pair>
+         <pb n="1v">co_fol_1v</pb>
       </pair>
    </pages>
    <idno>VB</idno>

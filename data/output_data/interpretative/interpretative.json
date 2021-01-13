@@ -11,7 +11,7 @@
 							
 										{ 
 											"line" : "no line info|no line info",
-											"text" : "Der Parzival ",
+											"text" : "Der Parcival ",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
@@ -67,7 +67,63 @@
 									
 										{ 
 											"line" : "7|line 7",
-											"text" : "07 der mac dennoch wesen geil.",
+											"text" : "07 der mac dennoc wesen geil.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "08 wand an im sint eidiv teil.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "09 des himels vnd der helle.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "10 der unstete geselle",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "11 hat di swarzen varwe gâr",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "12 vnd wirt ouch nah der vinster varn",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "13 so habt sich an die blanken.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "14 der mit steten gedanken",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
@@ -75,9 +131,17 @@
 									
 										{ 
 											"line" : "15|line 15",
-											"text" : "15 ",
+											"text" : "15 Diz fligende bîspel.",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "Schrottladen mit Ketchup und Pommes ",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									 

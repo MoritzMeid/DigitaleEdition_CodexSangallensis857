@@ -2,6 +2,51 @@
 				{ "pages": [
 					
 					
+					{ 
+						"line" : "no line info|no line info",
+						"text" : "",
+						"tags" : "parzival_text|Parzival",
+						"loc" : "",
+						"inFront": "",
+						"lang": "de"
+					},
+				
+					{ 
+						"line" : "no line info|no line info",
+						"text" : "Der Parzival",
+						"tags" : "parzival_text|Parzival",
+						"loc" : "",
+						"inFront": "",
+						"lang": "de"
+					},
+				
+					{ 
+						"line" : "no line info|no line info",
+						"text" : "",
+						"tags" : "parzival_text|Parzival",
+						"loc" : "",
+						"inFront": "",
+						"lang": "de"
+					},
+				
+					{ 
+						"line" : "no line info|no line info",
+						"text" : "  1  Wenn Zweifel nah beim Herzen wohnt,   2  das muss der Seele sauer werden.   3  Schande und Geschmeide   4  sind beieinander, wo eines   5  wo eines Mannes unverzagter Mut   6  konfus gemustert gehen will wie Elsternfarben.   7  Trotzdem, der kann noch glücklich sein,   8  denn an ihm ist etwas von beiden:   9  Vom Himmel und von der Hölle. 10  Wer sich mit Treulosigkeit zusammentut, 11  der hat die schwarze Farbe ganz 12  und muss auch nach der Finsternis geraten. 13  So halte sich an den Weißen, 14  der fest steht und treu ist. 15  Dieses fliegende Beispiel 16  ist für dumme Menschen gar zu flink 17  sie können es nicht nachvollziehen: 18  Denn es kann vor ihnen Haken schlagen 19  ebenso wie ein verschreckter Hase. 20  Zinn hinten am Glas",
+						"tags" : "parzival_text|Parzival",
+						"loc" : "",
+						"inFront": "",
+						"lang": "de"
+					},
+				
+					{ 
+						"line" : "no line info|no line info",
+						"text" : "",
+						"tags" : "parzival_text|Parzival",
+						"loc" : "",
+						"inFront": "",
+						"lang": "de"
+					},
+				
 				{
 				"line" : "",
 				"text" : "",

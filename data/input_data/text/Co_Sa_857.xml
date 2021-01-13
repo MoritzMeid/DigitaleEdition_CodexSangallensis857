@@ -150,7 +150,7 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="co_facs">
-        
+     
         <surface xml:id="co_surf_1r" corresp="#co_fol_1r">
             <graphic url="/co_fol_1r.jpg" width='1431px' height='2010px' />
             <!-- left Collum -->
@@ -372,7 +372,11 @@
                 ulx="407" uly="50" lrx="672" lry="83" /> <!-- Überschrift -->
             <zone ulx="506" uly="1651" lrx="691" lry="1722" /> <!-- N. 101 -->
             <zone ulx="1127" uly="48" lrx="1229" lry="114" /> <!-- O.57 -->
-            
+        </surface>
+        <surface xml:id="co_surf_1v" corresp="#co_fol_1v">
+            <graphic url="/co_fol_1v.jpg" width='1431px' height='2010px' />
+            <zone xml:id="co_line_1v_01" corresp="#co_lb_1v_01" rend="visible" rendition="Line"
+                ulx="213" uly="110" lrx="500" lry="127" />
         </surface>
     </facsimile>
     <text>
@@ -387,23 +391,90 @@
                     <head style="text-align: center">
                         <l><lb facs="#co_line_1r_00" xml:id="co_lb_1r_00" />Der Parcival</l> 
                     </head> 
-                    <l n="1"><lb facs="#co_line_1r_01" xml:id="co_lb_1r_01" n="1" />Ist zwiuel der <choice><abbr>h'zen</abbr><expan>herzen</expan></choice> nahgebur</l>
+                    <l n="1"><lb facs="#co_line_1r_01" xml:id="co_lb_1r_01" n="1"/>Ist zwiuel der <choice><abbr>h'zen</abbr><expan>herzen</expan></choice> nahgebur</l>
                     <l n="2"><lb facs="#co_line_1r_02" xml:id="co_lb_1r_02" n="2"/>daz muͦz der sele werden sur</l>
                     <l n="3"><lb facs="#co_line_1r_03" xml:id="co_lb_1r_03" n="3"/>gesmehet unde gezieret.</l>
                     <l n="4"><lb facs="#co_line_1r_04" xml:id="co_lb_1r_04" n="4"/>ist swa sich parrieret.</l>
                     <l n="5"><lb facs="#co_line_1r_05" xml:id="co_lb_1r_05" n="5"/>vn verzaget mannes muͦt.</l>
                     <l n="6"><lb facs="#co_line_1r_06" xml:id="co_lb_1r_06" n="6"/>als agelstern varwe tuͦt.</l>
-                    <l n="7"><lb facs="#co_line_1r_07" xml:id="co_lb_1r_07" n="7"/> der mac dennoch wesen geil.</l>
-                    <l n="8"><lb facs="#co_line_1r_08" xml:id="co_lb_1r_08" n="8"/></l>
-                    <l n="9"><lb facs="#co_line_1r_09" xml:id="co_lb_1r_09" n="9"/></l>
-                    <l n="10"><lb facs="#co_line_1r_10" xml:id="co_lb_1r_10" n="10"/></l>
-                    <l n="11"><lb facs="#co_line_1r_11" xml:id="co_lb_1r_11" n="11"/></l>
-                    <l n="12"><lb facs="#co_line_1r_12" xml:id="co_lb_1r_12" n="12"/></l>
-                    <l n="13"><lb facs="#co_line_1r_13" xml:id="co_lb_1r_13" n="13"/></l>
-                    <l n="14"><lb facs="#co_line_1r_14" xml:id="co_lb_1r_14" n="14"/></l>
-                    <l n="15"><lb facs="#co_line_1r_15" xml:id="co_lb_1r_15" n="15"/></l>
+                    <l n="7"><lb facs="#co_line_1r_07" xml:id="co_lb_1r_07" n="7"/> der mac <choice><sic>dennoc</sic><corr>dennoch</corr></choice> wesen geil.</l>
+                    <l n="8"><lb facs="#co_line_1r_08" xml:id="co_lb_1r_08" n="8"/>wand an im sint <choice><sic>eidiv</sic><corr>beidiv</corr></choice> teil.</l>
+                    <l n="9"><lb facs="#co_line_1r_09" xml:id="co_lb_1r_09" n="9"/>des himels vnd der helle.</l>
+                    <l n="10"><lb facs="#co_line_1r_10" xml:id="co_lb_1r_10" n="10"/>der unstete <choice><sic>geselle</sic><corr>gesell</corr></choice></l>
+                    <l n="11"><lb facs="#co_line_1r_11" xml:id="co_lb_1r_11" n="11"/>hat di swarzen <choice><sic>varwe</sic><corr>va</corr></choice> gâr</l>
+                    <l n="12"><lb facs="#co_line_1r_12" xml:id="co_lb_1r_12" n="12"/>vnd wirt ouch nah der vinster <choice><sic>varn</sic><corr>var</corr></choice></l>
+                    <l n="13"><lb facs="#co_line_1r_13" xml:id="co_lb_1r_13" n="13"/>so habt sich an die blanken.</l>
+                    <l n="14"><lb facs="#co_line_1r_14" xml:id="co_lb_1r_14" n="14"/>der mit steten gedanken</l>
+                    <l n="15"><lb facs="#co_line_1r_15" xml:id="co_lb_1r_15" n="15"/>Diz fligende bîspel.</l>
+                    <l n="16"><lb facs="#co_line_1r_16" xml:id="co_lb_1r_16" n="16"/></l>
+                    <l n="17"><lb facs="#co_line_1r_17" xml:id="co_lb_1r_17" n="17"/></l>
+                    <l n="18"><lb facs="#co_line_1r_18" xml:id="co_lb_1r_18" n="18"/></l>
+                    <l n="19"><lb facs="#co_line_1r_19" xml:id="co_lb_1r_19" n="19"/></l>
+                    <l n="20"><lb facs="#co_line_1r_20" xml:id="co_lb_1r_20" n="20"/></l>
+                    <l n="21"><lb facs="#co_line_1r_21" xml:id="co_lb_1r_21" n="21"/></l>
+                    <l n="22"><lb facs="#co_line_1r_22" xml:id="co_lb_1r_22" n="22"/></l>
+                    <l n="23"><lb facs="#co_line_1r_23" xml:id="co_lb_1r_23" n="23"/></l>
+                    <l n="24"><lb facs="#co_line_1r_24" xml:id="co_lb_1r_24" n="24"/></l>
+                    <l n="25"><lb facs="#co_line_1r_25" xml:id="co_lb_1r_25" n="25"/></l>
+                    <l n="26"><lb facs="#co_line_1r_26" xml:id="co_lb_1r_26" n="26"/></l>
+                    <l n="27"><lb facs="#co_line_1r_27" xml:id="co_lb_1r_27" n="27"/></l>
+                    <l n="28"><lb facs="#co_line_1r_28" xml:id="co_lb_1r_28" n="28"/></l>
+                    <l n="29"><lb facs="#co_line_1r_29" xml:id="co_lb_1r_29" n="29"/></l>
+                    <l n="30"><lb facs="#co_line_1r_30" xml:id="co_lb_1r_30" n="30"/></l>
+                    <l n="31"><lb facs="#co_line_1r_31" xml:id="co_lb_1r_31" n="31"/></l>
+                    <l n="32"><lb facs="#co_line_1r_32" xml:id="co_lb_1r_32" n="32"/></l>
+                    <l n="33"><lb facs="#co_line_1r_33" xml:id="co_lb_1r_33" n="33"/></l>
+                    <l n="34"><lb facs="#co_line_1r_34" xml:id="co_lb_1r_34" n="34"/></l>
+                    <l n="35"><lb facs="#co_line_1r_35" xml:id="co_lb_1r_35" n="35"/></l>
+                    <l n="36"><lb facs="#co_line_1r_36" xml:id="co_lb_1r_36" n="36"/></l>
+                    <l n="37"><lb facs="#co_line_1r_37" xml:id="co_lb_1r_37" n="37"/></l>
+                    <l n="38"><lb facs="#co_line_1r_38" xml:id="co_lb_1r_38" n="38"/></l>
+                    <l n="39"><lb facs="#co_line_1r_39" xml:id="co_lb_1r_39" n="39"/></l>
+                    <l n="40"><lb facs="#co_line_1r_40" xml:id="co_lb_1r_40" n="40"/></l>
+                    <l n="41"><lb facs="#co_line_1r_41" xml:id="co_lb_1r_41" n="41"/></l>
+                    <l n="42"><lb facs="#co_line_1r_42" xml:id="co_lb_1r_42" n="42"/></l>
+                    <l n="43"><lb facs="#co_line_1r_43" xml:id="co_lb_1r_43" n="43"/></l>
+                    <l n="44"><lb facs="#co_line_1r_44" xml:id="co_lb_1r_44" n="44"/></l>
+                    <l n="45"><lb facs="#co_line_1r_45" xml:id="co_lb_1r_45" n="45"/></l>
+                    <l n="46"><lb facs="#co_line_1r_46" xml:id="co_lb_1r_46" n="46"/></l>
+                    <l n="47"><lb facs="#co_line_1r_47" xml:id="co_lb_1r_47" n="47"/></l>
+                    <l n="48"><lb facs="#co_line_1r_48" xml:id="co_lb_1r_48" n="48"/></l>
+                    <l n="49"><lb facs="#co_line_1r_49" xml:id="co_lb_1r_49" n="49"/></l>
+                    <l n="50"><lb facs="#co_line_1r_50" xml:id="co_lb_1r_50" n="50"/></l>
                     
-                </body> 
+                    <pb xml:id="co_fol_1v" corresp="#co_surf_1v" n="1v"/>
+                    <l><lb facs="#co_line_1v_01" xml:id="co_lb_1v_01" n="1"/>Schrottladen mit Ketchup und Pommes</l> 
+                     
+                    
+                </body>
+                <back>
+                    <!-- <note n="1" xml:id="en_19r_note_1">The text continues in the margin</note> --> 
+                    <div n="Übersetzung" type="translation" xml:lang="de" xml:id="co_trans_de">
+                        <head>Der Parzival</head>
+                        <div corresp="#co_fol_1r">
+                            <l n="1">Wenn Zweifel nah beim Herzen wohnt,</l>
+                            <l n="2">das muss der Seele sauer werden.</l>
+                            <l n="3">Schande und Geschmeide</l>
+                            <l n="4">sind beieinander, wo eines</l>
+                            <l n="5">wo eines Mannes unverzagter Mut</l>
+                            <l n="6">konfus gemustert gehen will wie Elsternfarben.</l>
+                            <l n="7">Trotzdem, der kann noch glücklich sein,</l>
+                            <l n="8">denn an ihm ist etwas von beiden:</l>
+                            <l n="9">Vom Himmel und von der Hölle.</l>
+                            <l n="10">Wer sich mit Treulosigkeit zusammentut,</l>
+                            <l n="11">der hat die schwarze Farbe ganz</l>
+                            <l n="12">und muss auch nach der Finsternis geraten.</l>
+                            <l n="13">So halte sich an den Weißen,</l>
+                            <l n="14">der fest steht und treu ist.</l>
+                            <l n="15">Dieses fliegende Beispiel</l>
+                            <l n="16">ist für dumme Menschen gar zu flink</l>
+                            <l n="17">sie können es nicht nachvollziehen:</l>
+                            <l n="18">Denn es kann vor ihnen Haken schlagen</l>
+                            <l n="19">ebenso wie ein verschreckter Hase.</l>
+                            <l n="20">Zinn hinten am Glas</l>
+                        </div>
+                    </div>
+                </back>
             </text>
             <!-- <text n="Das Nibelungenlied">
                 <body>
@@ -415,6 +486,7 @@
         </group>
         <back>
             
+               
         </back>
     </text>
 </TEI>
