@@ -150,6 +150,10 @@
         </revisionDesc>
     </teiHeader>
     <facsimile xml:id="co_facs">
+        
+        <surface xml:id="co_surf_EinbandV" corresp="#co_fol_EinbandV">
+            <graphic url="/co_fol_EinbandV.jpg" width='1431px' height='2010px' />
+        </surface>
      
         <surface xml:id="co_surf_1r" corresp="#co_fol_1r">
             <graphic url="/co_fol_1r.jpg" width='1431px' height='2010px' />
@@ -381,7 +385,8 @@
     </facsimile>
     <text>
         <front>
-       
+            <pb xml:id="co_fol_EinbandV" corresp="#co_surf_EinbandV" n="EinbandVorne"/>
+                
         </front>
         <group>
             <text xml:id="parzival_text" n="Parzival">
