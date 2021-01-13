@@ -6,7 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Codex Sangallensis 857</title>
+                <title>St. Galler Epenhandschrift - Codex Sangallensis 857</title>
+                
                 <respStmt>
                     <resp>in TEI überführt durch</resp>
                     <name>Moritz Meid</name>
@@ -295,41 +296,76 @@
                 ulx="654" uly="529" lrx="932" lry="552" />
             <zone xml:id="co_line_1r_70" corresp="#co_lb_1r_70" rend="visible" rendition="Line"
                 ulx="657" uly="563" lrx="937" lry="581" />
-            <zone ulx="655" uly="587" lrx="1011" lry="609" />
-            <zone ulx="656" uly="617" lrx="910" lry="642" />
-            <zone ulx="654" uly="647" lrx="874" lry="668" />
-            <zone ulx="656" uly="675" lrx="836" lry="695" />
-            <zone ulx="652" uly="702" lrx="985" lry="724" />
-            <zone ulx="656" uly="730" lrx="943" lry="751" />
-            <zone ulx="650" uly="760" lrx="890" lry="783" />
-            <zone ulx="651" uly="793" lrx="877" lry="813" />
-            <zone ulx="650" uly="825" lrx="965" lry="843" />
-            <zone ulx="653" uly="850" lrx="892" lry="874" />
-            <zone ulx="649" uly="882" lrx="957" lry="903" />
-            <zone ulx="649" uly="907" lrx="944" lry="931" />
-            <zone ulx="650" uly="939" lrx="961" lry="958" />
-            <zone ulx="649" uly="963" lrx="974" lry="985" />
-            <zone ulx="870" uly="1027" lrx="1135" lry="1053" />
-            <zone ulx="866" uly="1056" lrx="1143" lry="1079" />
-            <zone ulx="861" uly="1086" lrx="1119" lry="1108" />
-            <zone ulx="864" uly="1116" lrx="1116" lry="1139" />
-            <zone ulx="865" uly="1147" lrx="1104" lry="1169" />
-            <zone ulx="866" uly="1176" lrx="1129" lry="1201" />
-            <zone ulx="865" uly="1206" lrx="1130" lry="1230" />
-            <zone ulx="626" uly="1235" lrx="916" lry="1263" />
-            <zone ulx="633" uly="1267" lrx="943" lry="1289" />
-            <zone ulx="644" uly="1295" lrx="926" lry="1316" />
-            <zone ulx="642" uly="1322" lrx="895" lry="1344" />
-            <zone ulx="642" uly="1350" lrx="927" lry="1372" />
-            <zone ulx="645" uly="1378" lrx="855" lry="1400" />
-            <zone ulx="642" uly="1408" lrx="897" lry="1432" />
-            <zone ulx="637" uly="1438" lrx="926" lry="1461" />
-            <zone ulx="644" uly="1471" lrx="864" lry="1492" />
-            <zone ulx="644" uly="1501" lrx="947" lry="1522" />
-            <zone ulx="637" uly="1532" lrx="967" lry="1553" />
-            <zone ulx="641" uly="1562" lrx="972" lry="1583" />
-            <zone ulx="643" uly="1593" lrx="950" lry="1613" />
-            <zone ulx="640" uly="1620" lrx="924" lry="1644" />
+            <zone xml:id="co_line_1r_71" corresp="#co_lb_1r_71" rend="visible" rendition="Line"
+                ulx="655" uly="587" lrx="1011" lry="609" />
+            <zone xml:id="co_line_1r_72" corresp="#co_lb_1r_72" rend="visible" rendition="Line"
+                ulx="656" uly="617" lrx="910" lry="642" />
+            <zone xml:id="co_line_1r_73" corresp="#co_lb_1r_73" rend="visible" rendition="Line"
+                ulx="654" uly="647" lrx="874" lry="668" />
+            <zone xml:id="co_line_1r_74" corresp="#co_lb_1r_74" rend="visible" rendition="Line"
+                ulx="656" uly="675" lrx="836" lry="695" />
+            <zone xml:id="co_line_1r_75" corresp="#co_lb_1r_75" rend="visible" rendition="Line"
+                ulx="652" uly="702" lrx="985" lry="724" />
+            <zone xml:id="co_line_1r_76" corresp="#co_lb_1r_76" rend="visible" rendition="Line"
+                ulx="656" uly="730" lrx="943" lry="751" />
+            <zone xml:id="co_line_1r_77" corresp="#co_lb_1r_77" rend="visible" rendition="Line"
+                ulx="650" uly="760" lrx="890" lry="783" />
+            <zone xml:id="co_line_1r_78" corresp="#co_lb_1r_78" rend="visible" rendition="Line"
+                ulx="651" uly="793" lrx="877" lry="813" />
+            <zone xml:id="co_line_1r_79" corresp="#co_lb_1r_79" rend="visible" rendition="Line"
+                ulx="650" uly="825" lrx="965" lry="843" />
+            <zone xml:id="co_line_1r_80" corresp="#co_lb_1r_80" rend="visible" rendition="Line"
+                ulx="653" uly="850" lrx="892" lry="874" />
+            <zone xml:id="co_line_1r_81" corresp="#co_lb_1r_81" rend="visible" rendition="Line"
+                ulx="649" uly="882" lrx="957" lry="903" />
+            <zone xml:id="co_line_1r_82" corresp="#co_lb_1r_82" rend="visible" rendition="Line"
+                ulx="649" uly="907" lrx="944" lry="931" />
+            <zone xml:id="co_line_1r_83" corresp="#co_lb_1r_83" rend="visible" rendition="Line"
+                ulx="650" uly="939" lrx="961" lry="958" />
+            <zone xml:id="co_line_1r_84" corresp="#co_lb_1r_84" rend="visible" rendition="Line"
+                ulx="649" uly="963" lrx="974" lry="985" />
+            <zone xml:id="co_line_1r_85" corresp="#co_lb_1r_85" rend="visible" rendition="Line"
+                ulx="870" uly="1027" lrx="1135" lry="1053" />
+            <zone xml:id="co_line_1r_86" corresp="#co_lb_1r_86" rend="visible" rendition="Line"
+                ulx="866" uly="1056" lrx="1143" lry="1079" />
+            <zone xml:id="co_line_1r_87" corresp="#co_lb_1r_87" rend="visible" rendition="Line"
+                ulx="861" uly="1086" lrx="1119" lry="1108" />
+            <zone xml:id="co_line_1r_88" corresp="#co_lb_1r_88" rend="visible" rendition="Line"
+                ulx="864" uly="1116" lrx="1116" lry="1139" />
+            <zone xml:id="co_line_1r_89" corresp="#co_lb_1r_89" rend="visible" rendition="Line"
+                ulx="865" uly="1147" lrx="1104" lry="1169" />
+            <zone xml:id="co_line_1r_90" corresp="#co_lb_1r_90" rend="visible" rendition="Line"
+                ulx="866" uly="1176" lrx="1129" lry="1201" />
+            <zone xml:id="co_line_1r_91" corresp="#co_lb_1r_91" rend="visible" rendition="Line"
+                ulx="865" uly="1206" lrx="1130" lry="1230" />
+            <zone xml:id="co_line_1r_92" corresp="#co_lb_1r_92" rend="visible" rendition="Line"
+                ulx="626" uly="1235" lrx="916" lry="1263" />
+            <zone xml:id="co_line_1r_93" corresp="#co_lb_1r_93" rend="visible" rendition="Line"
+                ulx="633" uly="1267" lrx="943" lry="1289" />
+            <zone xml:id="co_line_1r_94" corresp="#co_lb_1r_94" rend="visible" rendition="Line"
+                ulx="644" uly="1295" lrx="926" lry="1316" />
+            <zone xml:id="co_line_1r_95" corresp="#co_lb_1r_95" rend="visible" rendition="Line"
+                ulx="642" uly="1322" lrx="895" lry="1344" />
+            <zone xml:id="co_line_1r_96" corresp="#co_lb_1r_96" rend="visible" rendition="Line"
+                ulx="642" uly="1350" lrx="927" lry="1372" />
+            <zone xml:id="co_line_1r_97" corresp="#co_lb_1r_97" rend="visible" rendition="Line"
+                ulx="645" uly="1378" lrx="855" lry="1400" />
+            <zone xml:id="co_line_1r_98" corresp="#co_lb_1r_98" rend="visible" rendition="Line"
+                ulx="642" uly="1408" lrx="897" lry="1432" />
+            <zone xml:id="co_line_1r_99" corresp="#co_lb_1r_99" rend="visible" rendition="Line"
+                ulx="637" uly="1438" lrx="926" lry="1461" />
+            <zone xml:id="co_line_1r_100" corresp="#co_lb_1r_100" rend="visible" rendition="Line"
+                ulx="644" uly="1471" lrx="864" lry="1492" />
+            <zone xml:id="co_line_1r_101" corresp="#co_lb_1r_101" rend="visible" rendition="Line"
+                ulx="644" uly="1501" lrx="947" lry="1522" />
+            <zone xml:id="co_line_1r_102" corresp="#co_lb_1r_102" rend="visible" rendition="Line"
+                ulx="637" uly="1532" lrx="967" lry="1553" />
+            <zone xml:id="co_line_1r_103" corresp="#co_lb_1r_103" rend="visible" rendition="Line"
+                ulx="641" uly="1562" lrx="972" lry="1583" />
+            <zone xml:id="co_line_1r_104" corresp="#co_lb_1r_104" rend="visible" rendition="Line"
+                ulx="643" uly="1593" lrx="950" lry="1613" />
+            <zone xml:id="co_line_1r_105" corresp="#co_lb_1r_105" rend="visible" rendition="Line"
+                ulx="640" uly="1620" lrx="924" lry="1644" />
             <!-- Optional -->
             
             <zone xml:id="co_line_1r_00" corresp="#co_lb_1r_00" rend="visible" rendition="Line"
@@ -349,7 +385,7 @@
                 
                   <pb xml:id="co_fol_1r" corresp="#co_surf_1r" n="1r"/>
                     <head style="text-align: center">
-                        <l><lb facs="#co_line_1r_00" xml:id="co_lb_1r_00" />Der Parzival</l> 
+                        <l><lb facs="#co_line_1r_00" xml:id="co_lb_1r_00" />Der Parcival</l> 
                     </head> 
                     <l n="1"><lb facs="#co_line_1r_01" xml:id="co_lb_1r_01" n="1" />Ist zwiuel der <choice><abbr>h'zen</abbr><expan>herzen</expan></choice> nahgebur</l>
                     <l n="2"><lb facs="#co_line_1r_02" xml:id="co_lb_1r_02" n="2"/>daz muͦz der sele werden sur</l>
