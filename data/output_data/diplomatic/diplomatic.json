@@ -1,0 +1,85 @@
+
+				{"pages": [
+				
+					 
+								{ 
+									"line" : "no line info|no line info", 
+									"text" : "", 
+									"tags" : "parzival_text|Parzival", 
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "false" 
+								}, 
+							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "Der Parzival ",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 Ist zwiuel der herzenh'zen nahgebur",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 daz muͦz der sele werden sur",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 gesmehet unde gezieret.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 ist swa sich parrieret.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 vn verzaget mannes muͦt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 als agelstern varwe tuͦt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "07 der mac dennoch wesen geil.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "15 ",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									 { "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			

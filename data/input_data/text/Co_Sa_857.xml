@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Codex Sangallensis 857</title>
+                <respStmt>
+                    <resp>in TEI überführt durch</resp>
+                    <name>Moritz Meid</name>
+                    <orgName>Universität zu Köln</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Nicht für die Veröffentlichung bestimmt</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>Schweiz</country>
+                        <settlement>St. Gallen</settlement>
+                        <repository>Stiftsbibliothek St. Gallen</repository>
+                        <idno>Cod. Sang. 857</idno>
+                        <objectName>Codex Sangallensis 857</objectName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" xml:id="co_san_parzival">
+                            <locus>1r-115v</locus>
+                            <locus>5-288</locus>
+                            <title>Parzival</title>
+                            <author>Wolfram von Eschenbach</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                        <msItem n="2">
+                            <locus>116v-179r</locus>
+                            <locus>291-416</locus>
+                            <title>Das Nibelungenlied</title>
+                            <author>unbekannt</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                        <msItem n="3">
+                            <locus>179r-196v</locus>
+                            <locus>416-451</locus>
+                            <title>Die Klage</title>
+                            <author>unbekannt</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                        <msItem n="4">
+                            <locus>197r-252r</locus>
+                            <locus>452-558</locus>
+                            <title>Karl der Große</title>
+                            <author>Der Stricker</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                        <msItem n="5">
+                            <locus>253v-317V</locus>
+                            <locus>561-691</locus>
+                            <title>Willehalm</title>
+                            <author>Wolfram von Eschenbach</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                        <msItem n="6">
+                            <locus>318v</locus>
+                            <locus>693</locus>
+                            <title>Spruchstrophen Friedrichs von Sonnenburg</title>
+                            <author>Friedrich von Sonnenburg</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                       <!-- <msItem n="7">
+                            <locus>319r-323v</locus>
+                            <title>Kindheit Jesu</title>
+                            <author>Konrad von Fußesbrunnen</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem>
+                        <msItem n="8">
+                            <locus>Fragment</locus>
+                            <title>Unser vrouwen hinvart</title>
+                            <author>Konrad von Heimesfurt</author>
+                            <textLang>Mittelhochdeutsch</textLang>
+                        </msItem> --> 
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="parch">
+                                <extent>i + 318 Blätter 
+                                    <dimensions unit="cm" type="leaves">
+                                    <width atLeast="31" atMost="31.5">31-31.5</width>
+                                    <height>21.5</height>
+                                </dimensions>
+                                <dimensions unit="cm" type="written">
+                                    <width atLeast="25.5" atMost="26">25.5-26</width>
+                                    <height >16.5</height>
+                                </dimensions>
+                                </extent>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="2" writtenLines="55" >
+                                    <p>Pro Blattseite sind je zwei Spalten mit jeweils 51 bis 55 Zeilen in frühgotischer Buchschrift 
+                                       (südöstliches Alemanisch/ südwestliches Bairisch) beschrieben.
+                                       Die Verse sind beim Parzival, beim Karl der Große und Willehalm abgesetzt, beim Nibelungenlied, 
+                                       der sich daran anschließenden Nibelungenklage, den Sangspruchstrophen Friedrichs von Sonnenburg, 
+                                       der Kindheit Jesu und Unser vrouwen hinvart jedoch nicht.</p>
+                                    <p>Abschnittsgliederung durch qualitativ hochstehende Zierinitialen in Gold auf Farbgrund oder farbig auf Goldgrund, 
+                                       aus einer norditalienischen Malschule sowie durch rote und blaue Lombarden</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <bindingDesc>
+                            <binding contemporary="false" >
+                                <p>Ledereinband aus der zweiten Hälfte des 15. Jahrhunderts. Holzdeckelband mit Metallschließen und einer Heftung auf vier Doppelbünden. 
+                                   Überzug aus vegetabil gegerbtem (braunem) Leder. Buckelbeschläge auf den Ober- und Unterkanten sowie auf den Deckeln. 
+                                   Die Dekorprägung zeigt Linien und Stempel mit Rosetten, Rauten, Lilien und Längsbändern (spätgotische Inschrift: Laus Deo).
+                                   Zwei weitere Ansichten des Einbands (Profil, Rücken) befinden sich unter “Materialien”.
+                                </p>
+                            </binding>
+                            <binding contemporary="false">
+                                <p>Innendeckel:
+                                    Es sind (spiegelschriftlich) Spuren eines quer eingeklebten Fragments mit Text in lateinischer Sprache sichtbar.
+                                    In der linken oberen Ecke ist ein Blättchen mit der Inventarnummer des Codex (857) angebracht. 
+                                    Am rechten Rand des Innendeckels befindet sich ein Rest des ehemals im hinteren Innendeckel eingeklebten Pergamentblatts, 
+                                    zu dem auch das heute in Karlruhe aufbewahrte Fragment von ›Unser vrouwen hinvart‹ (Cod. K 2037) gehörte.
+                                    Die Verso-Seite zeigt nach vorne.
+                                </p>
+                            </binding>
+                            <binding contemporary="false">
+                                <p>Vorsatzblatt: 
+                                    Auf der Vorderseite Eintragungen des 19. Jahrhunderts über Benutzer und Editoren der Handschrift. 
+                                   Hinweis auf die Strophen Friedrichs von Sonnenburg auf S. 693 des Codex (“Lob der Welt, oder der Schöpfung”). 
+                                   Angaben des Photographen der Universitätsbibliothek Basel (1956).
+                                   Auf der Rückseite ein Verzeichnis mittelhochdeutscher Wörter (erstellt durch Aegidius Tschudi, 16. Jh.).
+                                   [Auf S. 5 (erste Seite des ›Parzival‹) ist die Nachlassnummer 101 des Verkaufskatalogs von 1767 eingetragen.]
+                                </p>
+                            </binding>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <origin notBefore="1233" notAfter="1267" cert="unknown">zweites Drittel des
+                            13. Jhs.</origin>
+                        <provenance>südostalemannisch-südwestbairischer Raum
+                            </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc> 
+        <revisionDesc>
+            <change when="2021-01" who="mm">Created first part of Edition</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:id="co_facs">
+        
+        <surface xml:id="co_surf_1r" corresp="#co_fol_1r">
+            <graphic url="/co_fol_1r.jpg" width='1431px' height='2010px' />
+            <!-- left Collum -->
+            <zone xml:id="co_line_1r_01" corresp="#co_lb_1r_01" rend="visible" rendition="Line"
+                ulx="213" uly="110" lrx="500" lry="127" />
+            <zone xml:id="co_line_1r_02" corresp="#co_lb_1r_02" rend="visible" rendition="Line"
+                ulx="213" uly="142" lrx="510" lry="155" />
+            <zone xml:id="co_line_1r_03" corresp="#co_lb_1r_03" rend="visible" rendition="Line"
+                ulx="216" uly="175" lrx="468" lry="182" />
+            <zone xml:id="co_line_1r_04" corresp="#co_lb_1r_04" rend="visible" rendition="Line" 
+                ulx="215" uly="200" lrx="460" lry="211" />
+            <zone xml:id="co_line_1r_05" corresp="#co_lb_1r_05" rend="visible" rendition="Line" 
+                ulx="213" uly="227" lrx="491" lry="239" />
+            <zone xml:id="co_line_1r_06" corresp="#co_lb_1r_06" rend="visible" rendition="Line"
+                ulx="211" uly="250" lrx="470" lry="262" />
+            <zone xml:id="co_line_1r_07" corresp="#co_lb_1r_07" rend="visible" rendition="Line" 
+                ulx="210" uly="277" lrx="499" lry="298" />
+            <zone xml:id="co_line_1r_08" corresp="#co_lb_1r_08" rend="visible" rendition="Line"
+                ulx="216" uly="309" lrx="493" lry="331" />
+            <zone xml:id="co_line_1r_09" corresp="#co_lb_1r_09" rend="visible" rendition="Line" 
+                ulx="216" uly="334" lrx="466" lry="355" />
+            <zone xml:id="co_line_1r_10" corresp="#co_lb_1r_10" rend="visible" rendition="Line"
+                ulx="213" uly="364" lrx="402" lry="379" />
+            <zone xml:id="co_line_1r_11" corresp="#co_lb_1r_11" rend="visible" rendition="Line" 
+                ulx="215" uly="390" lrx="488" lry="411" />
+            <zone xml:id="co_line_1r_12" corresp="#co_lb_1r_12" rend="visible" rendition="Line" 
+                ulx="215" uly="422" lrx="579" lry="438" />
+            <zone xml:id="co_line_1r_13" corresp="#co_lb_1r_13" rend="visible" rendition="Line"  
+                ulx="211" uly="445" lrx="498" lry="472" />
+            <zone xml:id="co_line_1r_14" corresp="#co_lb_1r_14" rend="visible" rendition="Line" 
+                ulx="211" uly="476" lrx="471" lry="501" />
+            <zone xml:id="co_line_1r_15" corresp="#co_lb_1r_15" rend="visible" rendition="Line" 
+                ulx="122" uly="509" lrx="338" lry="527" />
+            <zone xml:id="co_line_1r_16" corresp="#co_lb_1r_16" rend="visible" rendition="Line"
+                ulx="136" uly="536" lrx="439" lry="558" />
+            <zone xml:id="co_line_1r_17" corresp="#co_lb_1r_17" rend="visible" rendition="Line"
+                ulx="137" uly="563" lrx="432" lry="585" />
+            <zone xml:id="co_line_1r_18" corresp="#co_lb_1r_18" rend="visible" rendition="Line" 
+                ulx="141" uly="594" lrx="435" lry="613" />
+            <zone xml:id="co_line_1r_19" corresp="#co_lb_1r_19" rend="visible" rendition="Line"
+                ulx="138" uly="622" lrx="435" lry="645" />
+            <zone xml:id="co_line_1r_20" corresp="#co_lb_1r_20" rend="visible" rendition="Line"
+                ulx="139" uly="651" lrx="428" lry="673" />
+            <zone xml:id="co_line_1r_21" corresp="#co_lb_1r_21" rend="visible" rendition="Line"
+                ulx="141" uly="680" lrx="480" lry="700" />
+            <zone xml:id="co_line_1r_22" corresp="#co_lb_1r_22" rend="visible" rendition="Line"
+                ulx="136" uly="708" lrx="401" lry="727" />
+            <zone xml:id="co_line_1r_23" corresp="#co_lb_1r_23" rend="visible" rendition="Line"
+                ulx="138" uly="732" lrx="440" lry="757" />
+            <zone xml:id="co_line_1r_24" corresp="#co_lb_1r_24" rend="visible" rendition="Line"
+                ulx="136" uly="764" lrx="376" lry="787" />
+            <zone xml:id="co_line_1r_25" corresp="#co_lb_1r_25" rend="visible" rendition="Line"
+                ulx="137" uly="795" lrx="463" lry="816" />
+            <zone xml:id="co_line_1r_26" corresp="#co_lb_1r_26" rend="visible" rendition="Line"
+                ulx="141" uly="823" lrx="497" lry="849" />
+            <zone xml:id="co_line_1r_27" corresp="#co_lb_1r_27" rend="visible" rendition="Line"
+                ulx="136" uly="856" lrx="448" lry="880" />
+            <zone xml:id="co_line_1r_28" corresp="#co_lb_1r_28" rend="visible" rendition="Line"
+                ulx="130" uly="883" lrx="429" lry="905" />
+            <zone xml:id="co_line_1r_29" corresp="#co_lb_1r_29" rend="visible" rendition="Line"
+                ulx="131" uly="906" lrx="447" lry="936" />
+            <zone xml:id="co_line_1r_30" corresp="#co_lb_1r_30" rend="visible" rendition="Line"
+                ulx="131" uly="939" lrx="447" lry="960" />
+            <zone xml:id="co_line_1r_31" corresp="#co_lb_1r_31" rend="visible" rendition="Line"
+                ulx="136" uly="961" lrx="346" lry="987" />
+            <zone xml:id="co_line_1r_32" corresp="#co_lb_1r_32" rend="visible" rendition="Line"
+                ulx="134" uly="989" lrx="386" lry="1018" />
+            <zone xml:id="co_line_1r_33" corresp="#co_lb_1r_33" rend="visible" rendition="Line"
+                ulx="132" uly="1023" lrx="407" lry="1048" />
+            <zone xml:id="co_line_1r_34" corresp="#co_lb_1r_34" rend="visible" rendition="Line"
+                ulx="132" uly="1055" lrx="399" lry="1079" />
+            <zone xml:id="co_line_1r_35" corresp="#co_lb_1r_35" rend="visible" rendition="Line"
+                ulx="120" uly="1082" lrx="461" lry="1106" />
+            <zone xml:id="co_line_1r_36" corresp="#co_lb_1r_36" rend="visible" rendition="Line"
+                ulx="127" uly="1113" lrx="409" lry="1137" />
+            <zone xml:id="co_line_1r_37" corresp="#co_lb_1r_37" rend="visible" rendition="Line"
+                ulx="134" uly="1142" lrx="451" lry="1167" />
+            <zone xml:id="co_line_1r_38" corresp="#co_lb_1r_38" rend="visible" rendition="Line"
+                ulx="132" uly="1172" lrx="425" lry="1199" />
+            <zone xml:id="co_line_1r_39" corresp="#co_lb_1r_39" rend="visible" rendition="Line"
+                ulx="132" uly="1204" lrx="429" lry="1229" />
+            <zone xml:id="co_line_1r_40" corresp="#co_lb_1r_40" rend="visible" rendition="Line"
+                ulx="131" uly="1234" lrx="418" lry="1256" />
+            <zone xml:id="co_line_1r_41" corresp="#co_lb_1r_41" rend="visible" rendition="Line"
+                ulx="131" uly="1261" lrx="401" lry="1283" />
+            <zone xml:id="co_line_1r_42" corresp="#co_lb_1r_42" rend="visible" rendition="Line"
+                ulx="127" uly="1287" lrx="291" lry="1311" />
+            <zone xml:id="co_line_1r_43" corresp="#co_lb_1r_43" rend="visible" rendition="Line"
+                ulx="129" uly="1319" lrx="481" lry="1347" />
+            <zone xml:id="co_line_1r_44" corresp="#co_lb_1r_44" rend="visible" rendition="Line" 
+                ulx="130" uly="1349" lrx="429" lry="1374" />
+            <zone xml:id="co_line_1r_45" corresp="#co_lb_1r_45" rend="visible" rendition="Line"
+                ulx="128" uly="1374" lrx="468" lry="1398" />
+            <zone xml:id="co_line_1r_46" corresp="#co_lb_1r_46" rend="visible" rendition="Line"
+                ulx="130" uly="1405" lrx="409" lry="1428" />
+            <zone xml:id="co_line_1r_47" corresp="#co_lb_1r_47" rend="visible" rendition="Line"
+                ulx="131" uly="1432" lrx="369" lry="1455" />
+            <zone xml:id="co_line_1r_48" corresp="#co_lb_1r_48" rend="visible" rendition="Line"
+                ulx="127" uly="1461" lrx="360" lry="1488" />
+            <zone xml:id="co_line_1r_49" corresp="#co_lb_1r_49" rend="visible" rendition="Line"
+                ulx="126" uly="1494" lrx="456" lry="1519" />
+            <zone xml:id="co_line_1r_50" corresp="#co_lb_1r_50" rend="visible" rendition="Line"
+                ulx="130" uly="1514" lrx="429" lry="1549" />
+            <zone xml:id="co_line_1r_51" corresp="#co_lb_1r_51" rend="visible" rendition="Line"
+                ulx="124" uly="1544" lrx="432" lry="1581" />
+            <zone xml:id="co_line_1r_52" corresp="#co_lb_1r_52" rend="visible" rendition="Line"
+                ulx="132" uly="1572" lrx="420" lry="1615" />
+            <!-- right collum -->
+            <zone points = ' 650,995 636,1232 863,1238 860,1020 1032,1024 1039,997 861,992 ' />
+            <zone xml:id="co_line_1r_53" corresp="#co_lb_1r_53" rend="visible" rendition="Line" 
+                ulx="658" uly="78" lrx="961" lry="100" />
+            <zone xml:id="co_line_1r_54" corresp="#co_lb_1r_54" rend="visible" rendition="Line" 
+                ulx="661" uly="105" lrx="992" lry="124" />
+            <zone xml:id="co_line_1r_55" corresp="#co_lb_1r_55" rend="visible" rendition="Line"
+                ulx="658" uly="130" lrx="955" lry="153" />
+            <zone xml:id="co_line_1r_56" corresp="#co_lb_1r_56" rend="visible" rendition="Line"
+                ulx="656" uly="159" lrx="967" lry="181" />
+            <zone xml:id="co_line_1r_57" corresp="#co_lb_1r_57" rend="visible" rendition="Line"
+                ulx="655" uly="185" lrx="927" lry="206" />
+            <zone xml:id="co_line_1r_58" corresp="#co_lb_1r_58" rend="visible" rendition="Line"
+                ulx="653" uly="213" lrx="843" lry="234" />
+            <zone xml:id="co_line_1r_59" corresp="#co_lb_1r_59" rend="visible" rendition="Line"
+                ulx="653" uly="241" lrx="922" lry="260" />
+            <zone xml:id="co_line_1r_60" corresp="#co_lb_1r_60" rend="visible" rendition="Line"
+                ulx="653" uly="270" lrx="904" lry="287" />
+            <zone xml:id="co_line_1r_61" corresp="#co_lb_1r_61" rend="visible" rendition="Line"
+                ulx="659" uly="300" lrx="870" lry="320" />
+            <zone xml:id="co_line_1r_62" corresp="#co_lb_1r_62" rend="visible" rendition="Line"
+                ulx="655" uly="328" lrx="889" lry="346" />
+            <zone xml:id="co_line_1r_63" corresp="#co_lb_1r_63" rend="visible" rendition="Line"
+                ulx="602" uly="336" lrx="939" lry="378" />
+            <zone xml:id="co_line_1r_64" corresp="#co_lb_1r_64" rend="visible" rendition="Line"
+                ulx="642" uly="384" lrx="946" lry="402" />
+            <zone xml:id="co_line_1r_65" corresp="#co_lb_1r_65" rend="visible" rendition="Line"
+                ulx="650" uly="415" lrx="944" lry="436" />
+            <zone xml:id="co_line_1r_66" corresp="#co_lb_1r_66" rend="visible" rendition="Line"
+                ulx="654" uly="445" lrx="990" lry="462" />
+            <zone xml:id="co_line_1r_67" corresp="#co_lb_1r_67" rend="visible" rendition="Line"
+                ulx="645" uly="473" lrx="984" lry="491" />
+            <zone xml:id="co_line_1r_68" corresp="#co_lb_1r_68" rend="visible" rendition="Line"
+                ulx="652" uly="499" lrx="914" lry="523" />
+            <zone xml:id="co_line_1r_69" corresp="#co_lb_1r_69" rend="visible" rendition="Line"
+                ulx="654" uly="529" lrx="932" lry="552" />
+            <zone xml:id="co_line_1r_70" corresp="#co_lb_1r_70" rend="visible" rendition="Line"
+                ulx="657" uly="563" lrx="937" lry="581" />
+            <zone ulx="655" uly="587" lrx="1011" lry="609" />
+            <zone ulx="656" uly="617" lrx="910" lry="642" />
+            <zone ulx="654" uly="647" lrx="874" lry="668" />
+            <zone ulx="656" uly="675" lrx="836" lry="695" />
+            <zone ulx="652" uly="702" lrx="985" lry="724" />
+            <zone ulx="656" uly="730" lrx="943" lry="751" />
+            <zone ulx="650" uly="760" lrx="890" lry="783" />
+            <zone ulx="651" uly="793" lrx="877" lry="813" />
+            <zone ulx="650" uly="825" lrx="965" lry="843" />
+            <zone ulx="653" uly="850" lrx="892" lry="874" />
+            <zone ulx="649" uly="882" lrx="957" lry="903" />
+            <zone ulx="649" uly="907" lrx="944" lry="931" />
+            <zone ulx="650" uly="939" lrx="961" lry="958" />
+            <zone ulx="649" uly="963" lrx="974" lry="985" />
+            <zone ulx="870" uly="1027" lrx="1135" lry="1053" />
+            <zone ulx="866" uly="1056" lrx="1143" lry="1079" />
+            <zone ulx="861" uly="1086" lrx="1119" lry="1108" />
+            <zone ulx="864" uly="1116" lrx="1116" lry="1139" />
+            <zone ulx="865" uly="1147" lrx="1104" lry="1169" />
+            <zone ulx="866" uly="1176" lrx="1129" lry="1201" />
+            <zone ulx="865" uly="1206" lrx="1130" lry="1230" />
+            <zone ulx="626" uly="1235" lrx="916" lry="1263" />
+            <zone ulx="633" uly="1267" lrx="943" lry="1289" />
+            <zone ulx="644" uly="1295" lrx="926" lry="1316" />
+            <zone ulx="642" uly="1322" lrx="895" lry="1344" />
+            <zone ulx="642" uly="1350" lrx="927" lry="1372" />
+            <zone ulx="645" uly="1378" lrx="855" lry="1400" />
+            <zone ulx="642" uly="1408" lrx="897" lry="1432" />
+            <zone ulx="637" uly="1438" lrx="926" lry="1461" />
+            <zone ulx="644" uly="1471" lrx="864" lry="1492" />
+            <zone ulx="644" uly="1501" lrx="947" lry="1522" />
+            <zone ulx="637" uly="1532" lrx="967" lry="1553" />
+            <zone ulx="641" uly="1562" lrx="972" lry="1583" />
+            <zone ulx="643" uly="1593" lrx="950" lry="1613" />
+            <zone ulx="640" uly="1620" lrx="924" lry="1644" />
+            <!-- Optional -->
+            
+            <zone xml:id="co_line_1r_00" corresp="#co_lb_1r_00" rend="visible" rendition="Line"
+                ulx="407" uly="50" lrx="672" lry="83" /> <!-- Überschrift -->
+            <zone ulx="506" uly="1651" lrx="691" lry="1722" /> <!-- N. 101 -->
+            <zone ulx="1127" uly="48" lrx="1229" lry="114" /> <!-- O.57 -->
+            
+        </surface>
+    </facsimile>
+    <text>
+        <front>
+       
+        </front>
+        <group>
+            <text xml:id="parzival_text" n="Parzival">
+                <body>
+                
+                  <pb xml:id="co_fol_1r" corresp="#co_surf_1r" n="1r"/>
+                    <head style="text-align: center">
+                        <l><lb facs="#co_line_1r_00" xml:id="co_lb_1r_00" />Der Parzival</l> 
+                    </head> 
+                    <l n="1"><lb facs="#co_line_1r_01" xml:id="co_lb_1r_01" n="1" />Ist zwiuel der <choice><abbr>h'zen</abbr><expan>herzen</expan></choice> nahgebur</l>
+                    <l n="2"><lb facs="#co_line_1r_02" xml:id="co_lb_1r_02" n="2"/>daz muͦz der sele werden sur</l>
+                    <l n="3"><lb facs="#co_line_1r_03" xml:id="co_lb_1r_03" n="3"/>gesmehet unde gezieret.</l>
+                    <l n="4"><lb facs="#co_line_1r_04" xml:id="co_lb_1r_04" n="4"/>ist swa sich parrieret.</l>
+                    <l n="5"><lb facs="#co_line_1r_05" xml:id="co_lb_1r_05" n="5"/>vn verzaget mannes muͦt.</l>
+                    <l n="6"><lb facs="#co_line_1r_06" xml:id="co_lb_1r_06" n="6"/>als agelstern varwe tuͦt.</l>
+                    <l n="7"><lb facs="#co_line_1r_07" xml:id="co_lb_1r_07" n="7"/> der mac dennoch wesen geil.</l>
+                    <l n="8"><lb facs="#co_line_1r_08" xml:id="co_lb_1r_08" n="8"/></l>
+                    <l n="9"><lb facs="#co_line_1r_09" xml:id="co_lb_1r_09" n="9"/></l>
+                    <l n="10"><lb facs="#co_line_1r_10" xml:id="co_lb_1r_10" n="10"/></l>
+                    <l n="11"><lb facs="#co_line_1r_11" xml:id="co_lb_1r_11" n="11"/></l>
+                    <l n="12"><lb facs="#co_line_1r_12" xml:id="co_lb_1r_12" n="12"/></l>
+                    <l n="13"><lb facs="#co_line_1r_13" xml:id="co_lb_1r_13" n="13"/></l>
+                    <l n="14"><lb facs="#co_line_1r_14" xml:id="co_lb_1r_14" n="14"/></l>
+                    <l n="15"><lb facs="#co_line_1r_15" xml:id="co_lb_1r_15" n="15"/></l>
+                    
+                </body> 
+            </text>
+            <!-- <text n="Das Nibelungenlied">
+                <body>
+                    <pb/>
+                    <l>tbd</l>
+                </body>
+            </text>  -->
+           
+        </group>
+        <back>
+            
+        </back>
+    </text>
+</TEI>
+
