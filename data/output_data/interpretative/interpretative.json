@@ -43,7 +43,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 ist swa sich parrieret.",
+											"text" : "04 ist swa sich parrieret",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
@@ -51,7 +51,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "05 vn verzaget mannes muͦt.",
+											"text" : "05 vn verzaget mannes muͦt",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
@@ -67,7 +67,7 @@
 									
 										{ 
 											"line" : "7|line 7",
-											"text" : "07 der mac dennoc wesen geil.",
+											"text" : "07 der mac dennoc wesen geil",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
@@ -75,7 +75,7 @@
 									
 										{ 
 											"line" : "8|line 8",
-											"text" : "08 wand an im sint eidiv teil.",
+											"text" : "08 wand an im sint eidiv teil",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
@@ -132,6 +132,366 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "15 Diz fligende bîspel.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "16 ist tumben lîvten gár zesnêl",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "17 sine mugens niht erdenken.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "18 wand iz kan vor in wenkn wenken",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "19 rehte alsam ein schelbich hase.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "20 zin anderhalb an dem glase",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "21 gelichent und des blinden trovm.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "22 di gebent antluzes rovm.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "23 doh mac mit stête niht gesin.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "24 dirre trûbe lihte schin.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "25 er machet kuͦrze froude al war",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "26 wer rovfet mich da nîe dehein har",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "27 gewuͦchs innen an miner",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "28 der hat vil nahe griffe erkant",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "29 ih gein den vorhten och",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "30 daz glîchet miner witze idoch.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "31 wil ich triwe finden.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "32 al da si chan verswinden",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "33|line 33",
+											"text" : "33 als fiwer in den brunnen",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "34|line 34",
+											"text" : "34 vnd daz tvͦ an der sunnen.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "35|line 35",
+											"text" : "35 nôh erkante ich nîe so wisen man",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "36|line 36",
+											"text" : "36 den mohte gerne de han.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "37|line 37",
+											"text" : "37 welher stîvre disîv mere gernt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "38|line 38",
+											"text" : "38 unt waz si guͦter le wernt",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "39|line 39",
+											"text" : "39 dar an si ni des verzagent.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "40|line 40",
+											"text" : "40 beide si vlihent unde iagent",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "41|line 41",
+											"text" : "41 si entwichent unde kêrent",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "42|line 42",
+											"text" : "42 si iustern und nt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "43|line 43",
+											"text" : "43 swer mit disen schanden allen kan.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "44|line 44",
+											"text" : "44 an dem hat witze wol getan",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "45|line 45",
+											"text" : "45 der sih niht versitzet noh vergêt",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "46|line 46",
+											"text" : "46 vnd sich anders wol verstêt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "47|line 47",
+											"text" : "47 valsch geselleclicher mvͦt",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "48|line 48",
+											"text" : "48 ist dem helle fîvre guͦt",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "49|line 49",
+											"text" : "49 unde hoher werdekeit ein hagel.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "50|line 50",
+											"text" : "50 sin triwe hat so kurzen zagel",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "51|line 51",
+											"text" : "51 daz si den dritten biz niht galt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "52|line 52",
+											"text" : "52 fvͦr si bi bremen in den walt.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "53|line 53",
+											"text" : "53 isen maneger  slahte",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "54|line 54",
+											"text" : "54 idoch niht gar von sint",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "55|line 55",
+											"text" : "55 fv̂r div wip stoze ih",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "56|line 56",
+											"text" : "56 swelhiv min raten merchen wil",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "57|line 57",
+											"text" : "57 div sol wîzen war si chêre",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "58|line 58",
+											"text" : "58 ir pris und ir ere.",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "59|line 59",
+											"text" : "59 vnd wem si danach si bereit",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "60|line 60",
+											"text" : "60 minne und ir werdekeit",
 											"tags" : "parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
