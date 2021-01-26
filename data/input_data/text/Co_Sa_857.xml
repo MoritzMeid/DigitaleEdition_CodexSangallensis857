@@ -604,12 +604,449 @@
         </surface>
         <surface xml:id="co_surf_2r" corresp="#co_fol_2r">
             <graphic url="/co_fol_2r.jpg" width='1431px' height='2010px'/>
+            <zone xml:id="co_line_2r_01" corresp="#co_lb_2r_01" rend="visible" rendition="Line"
+                ulx="116" uly="79" lrx="417" lry="109" />
+            <zone xml:id="co_line_2r_02" corresp="#co_lb_2r_02" rend="visible" rendition="Line"
+                ulx="125" uly="107" lrx="486" lry="141" />
+            <zone xml:id="co_line_2r_03" corresp="#co_lb_2r_03" rend="visible" rendition="Line"
+                ulx="118" uly="146" lrx="432" lry="172" />
+            <zone xml:id="co_line_2r_04" corresp="#co_lb_2r_04" rend="visible" rendition="Line"
+                ulx="117" uly="175" lrx="382" lry="202" />
+            <zone xml:id="co_line_2r_05" corresp="#co_lb_2r_05" rend="visible" rendition="Line" 
+                ulx="117" uly="199" lrx="417" lry="227" />
+            <zone xml:id="co_line_2r_06" corresp="#co_lb_2r_06" rend="visible" rendition="Line" 
+                ulx="116" uly="223" lrx="419" lry="254" />
+            <zone xml:id="co_line_2r_07" corresp="#co_lb_2r_07" rend="visible" rendition="Line" 
+                ulx="121" uly="246" lrx="432" lry="280" />
+            <zone xml:id="co_line_2r_08" corresp="#co_lb_2r_08" rend="visible" rendition="Line" 
+                ulx="118" uly="273" lrx="408" lry="304" />
+            <zone xml:id="co_line_2r_09" corresp="#co_lb_2r_09" rend="visible" rendition="Line" 
+                ulx="112" uly="302" lrx="384" lry="331" />
+            <zone xml:id="co_line_2r_10" corresp="#co_lb_2r_10" rend="visible" rendition="Line" 
+                ulx="119" uly="332" lrx="389" lry="365" />
+            <zone xml:id="co_line_2r_11" corresp="#co_lb_2r_11" rend="visible" rendition="Line" 
+                ulx="116" uly="363" lrx="457" lry="391" />
+            <zone xml:id="co_line_2r_12" corresp="#co_lb_2r_12" rend="visible" rendition="Line" 
+                ulx="119" uly="392" lrx="430" lry="427" />
+            <zone xml:id="co_line_2r_13" corresp="#co_lb_2r_13" rend="visible" rendition="Line" 
+                ulx="119" uly="419" lrx="356" lry="448" />
+            <zone xml:id="co_line_2r_14" corresp="#co_lb_2r_14" rend="visible" rendition="Line" 
+                ulx="119" uly="454" lrx="358" lry="479" />
+            <zone xml:id="co_line_2r_15" corresp="#co_lb_2r_15" rend="visible" rendition="Line" 
+                ulx="118" uly="478" lrx="345" lry="507" />
+            <zone xml:id="co_line_2r_16" corresp="#co_lb_2r_16" rend="visible" rendition="Line" 
+                ulx="117" uly="503" lrx="419" lry="539" />
+            <zone xml:id="co_line_2r_17" corresp="#co_lb_2r_17" rend="visible" rendition="Line" 
+                ulx="120" uly="537" lrx="395" lry="563" />
+            <zone xml:id="co_line_2r_18" corresp="#co_lb_2r_18" rend="visible" rendition="Line" 
+                ulx="120" uly="562" lrx="382" lry="594" />
+            <zone xml:id="co_line_2r_19" corresp="#co_lb_2r_19" rend="visible" rendition="Line" 
+                ulx="119" uly="591" lrx="410" lry="618" />
+            <zone xml:id="co_line_2r_20" corresp="#co_lb_2r_20" rend="visible" rendition="Line" 
+                ulx="120" uly="619" lrx="488" lry="651" />
+            <zone xml:id="co_line_2r_21" corresp="#co_lb_2r_21" rend="visible" rendition="Line"
+                ulx="119" uly="646" lrx="432" lry="677" />
+            <zone xml:id="co_line_2r_22" corresp="#co_lb_2r_22" rend="visible" rendition="Line"
+                ulx="116" uly="673" lrx="475" lry="706" />
+            <zone xml:id="co_line_2r_23" corresp="#co_lb_2r_23" rend="visible" rendition="Line"
+                ulx="114" uly="705" lrx="465" lry="739" />
+            <zone xml:id="co_line_2r_24" corresp="#co_lb_2r_24" rend="visible" rendition="Line"
+                ulx="113" uly="737" lrx="399" lry="771" />
+            <zone xml:id="co_line_2r_25" corresp="#co_lb_2r_25" rend="visible" rendition="Line"
+                ulx="115" uly="765" lrx="426" lry="801" />
+            <zone xml:id="co_line_2r_26" corresp="#co_lb_2r_26" rend="visible" rendition="Line"
+                ulx="116" uly="795" lrx="476" lry="829" />
+            <zone xml:id="co_line_2r_27" corresp="#co_lb_2r_27" rend="visible" rendition="Line"
+                ulx="114" uly="823" lrx="418" lry="856" />
+            <zone xml:id="co_line_2r_28" corresp="#co_lb_2r_28" rend="visible" rendition="Line"
+                ulx="110" uly="855" lrx="408" lry="889" />
+            <zone xml:id="co_line_2r_29" corresp="#co_lb_2r_29" rend="visible" rendition="Line"
+                ulx="108" uly="887" lrx="350" lry="921" />
+            <zone xml:id="co_line_2r_30" corresp="#co_lb_2r_30" rend="visible" rendition="Line"
+                ulx="109" uly="910" lrx="402" lry="947" />
+            <zone xml:id="co_line_2r_31" corresp="#co_lb_2r_31" rend="visible" rendition="Line"
+                ulx="122" uly="942" lrx="403" lry="974" />
+            <zone xml:id="co_line_2r_32" corresp="#co_lb_2r_32" rend="visible" rendition="Line"
+                ulx="120" uly="975" lrx="364" lry="1004" />
+            <zone xml:id="co_line_2r_33" corresp="#co_lb_2r_33" rend="visible" rendition="Line"
+                ulx="119" uly="999" lrx="379" lry="1033" />
+            <zone xml:id="co_line_2r_34" corresp="#co_lb_2r_34" rend="visible" rendition="Line"
+                ulx="116" uly="1028" lrx="428" lry="1065" />
+            <zone xml:id="co_line_2r_35" corresp="#co_lb_2r_35" rend="visible" rendition="Line"
+                ulx="117" uly="1060" lrx="437" lry="1095" />
+            <zone xml:id="co_line_2r_36" corresp="#co_lb_2r_36" rend="visible" rendition="Line"
+                ulx="117" uly="1089" lrx="427" lry="1126" />
+            <zone xml:id="co_line_2r_37" corresp="#co_lb_2r_37" rend="visible" rendition="Line"
+                ulx="119" uly="1125" lrx="390" lry="1159" />
+            <zone xml:id="co_line_2r_38" corresp="#co_lb_2r_38" rend="visible" rendition="Line"
+                ulx="121" uly="1154" lrx="441" lry="1186" />
+            <zone xml:id="co_line_2r_39" corresp="#co_lb_2r_39" rend="visible" rendition="Line"
+                ulx="119" uly="1186" lrx="441" lry="1219" />
+            <zone xml:id="co_line_2r_40" corresp="#co_lb_2r_40" rend="visible" rendition="Line"
+                ulx="123" uly="1214" lrx="446" lry="1248" />
+            <zone xml:id="co_line_2r_41" corresp="#co_lb_2r_41" rend="visible" rendition="Line"
+                ulx="124" uly="1247" lrx="431" lry="1279" />
+            <zone xml:id="co_line_2r_42" corresp="#co_lb_2r_42" rend="visible" rendition="Line"
+                ulx="125" uly="1275" lrx="453" lry="1307" />
+            <zone xml:id="co_line_2r_43" corresp="#co_lb_2r_43" rend="visible" rendition="Line"
+                ulx="114" uly="1305" lrx="407" lry="1340" />
+            <zone xml:id="co_line_2r_44" corresp="#co_lb_2r_44" rend="visible" rendition="Line"
+                ulx="116" uly="1335" lrx="354" lry="1366" />
+            <zone xml:id="co_line_2r_45" corresp="#co_lb_2r_45" rend="visible" rendition="Line"
+                ulx="123" uly="1362" lrx="422" lry="1396" />
+            <zone xml:id="co_line_2r_46" corresp="#co_lb_2r_46" rend="visible" rendition="Line"
+                ulx="123" uly="1394" lrx="419" lry="1425" />
+            <zone xml:id="co_line_2r_47" corresp="#co_lb_2r_47" rend="visible" rendition="Line"
+                ulx="129" uly="1422" lrx="426" lry="1455" />
+            <zone xml:id="co_line_2r_48" corresp="#co_lb_2r_48" rend="visible" rendition="Line"
+                ulx="127" uly="1453" lrx="433" lry="1483" />
+            <zone xml:id="co_line_2r_49" corresp="#co_lb_2r_49" rend="visible" rendition="Line"
+                ulx="127" uly="1477" lrx="485" lry="1514" />
+            <zone xml:id="co_line_2r_50" corresp="#co_lb_2r_50" rend="visible" rendition="Line"
+                ulx="126" uly="1512" lrx="464" lry="1543" />
+            <zone xml:id="co_line_2r_51" corresp="#co_lb_2r_51" rend="visible" rendition="Line"
+                ulx="124" uly="1529" lrx="520" lry="1573" />
+            <zone xml:id="co_line_2r_52" corresp="#co_lb_2r_52" rend="visible" rendition="Line"
+                ulx="123" uly="1567" lrx="465" lry="1598" />
+            <zone xml:id="co_line_2r_53" corresp="#co_lb_2r_53" rend="visible" rendition="Line"
+                ulx="125" uly="1598" lrx="437" lry="1635" />
+            <zone xml:id="co_line_2r_54" corresp="#co_lb_2r_54" rend="visible" rendition="Line"
+                ulx="129" uly="1630" lrx="425" lry="1663" />
+            <!-- right Collum -->
+            <zone xml:id="co_line_2r_55" corresp="#co_lb_2r_55" rend="visible" rendition="Line"
+                ulx="635" uly="65" lrx="906" lry="103" />
+            <zone xml:id="co_line_2r_56" corresp="#co_lb_2r_56" rend="visible" rendition="Line"
+                ulx="639" uly="98" lrx="892" lry="133" />
+            <zone xml:id="co_line_2r_57" corresp="#co_lb_2r_57" rend="visible" rendition="Line"
+                ulx="640" uly="132" lrx="932" lry="166" />
+            <zone xml:id="co_line_2r_58" corresp="#co_lb_2r_58" rend="visible" rendition="Line"
+                ulx="637" uly="165" lrx="894" lry="193" />
+            <zone xml:id="co_line_2r_59" corresp="#co_lb_2r_59" rend="visible" rendition="Line"
+                ulx="638" uly="191" lrx="863" lry="218" />
+            <zone xml:id="co_line_2r_60" corresp="#co_lb_2r_60" rend="visible" rendition="Line"
+                ulx="639" uly="217" lrx="863" lry="246" />
+            <zone xml:id="co_line_2r_61" corresp="#co_lb_2r_61" rend="visible" rendition="Line"
+                ulx="640" uly="237" lrx="923" lry="271" />
+            <zone xml:id="co_line_2r_62" corresp="#co_lb_2r_62" rend="visible" rendition="Line"
+                ulx="637" uly="267" lrx="946" lry="298" />
+            <zone xml:id="co_line_2r_63" corresp="#co_lb_2r_63" rend="visible" rendition="Line"
+                ulx="638" uly="297" lrx="957" lry="326" />
+            <zone xml:id="co_line_2r_64" corresp="#co_lb_2r_64" rend="visible" rendition="Line"
+                ulx="641" uly="325" lrx="947" lry="362" />
+            <zone xml:id="co_line_2r_65" corresp="#co_lb_2r_65" rend="visible" rendition="Line"
+                ulx="623" uly="358" lrx="842" lry="389" />
+            <zone xml:id="co_line_2r_66" corresp="#co_lb_2r_66" rend="visible" rendition="Line"
+                ulx="642" uly="387" lrx="874" lry="418" />
+            <zone xml:id="co_line_2r_67" corresp="#co_lb_2r_67" rend="visible" rendition="Line"
+                ulx="643" uly="413" lrx="982" lry="449" />
+            <zone xml:id="co_line_2r_68" corresp="#co_lb_2r_68" rend="visible" rendition="Line"
+                ulx="642" uly="443" lrx="965" lry="473" />
+            <zone xml:id="co_line_2r_69" corresp="#co_lb_2r_69" rend="visible" rendition="Line"
+                ulx="638" uly="474" lrx="921" lry="503" />
+            <zone xml:id="co_line_2r_70" corresp="#co_lb_2r_70" rend="visible" rendition="Line"
+                ulx="644" uly="499" lrx="933" lry="532" />
+            <zone xml:id="co_line_2r_71" corresp="#co_lb_2r_71" rend="visible" rendition="Line"
+                ulx="642" uly="532" lrx="815" lry="558" />
+            <zone xml:id="co_line_2r_72" corresp="#co_lb_2r_72" rend="visible" rendition="Line"
+                ulx="643" uly="551" lrx="952" lry="589" />
+            <zone xml:id="co_line_2r_73" corresp="#co_lb_2r_73" rend="visible" rendition="Line"
+                ulx="643" uly="590" lrx="902" lry="621" />
+            <zone xml:id="co_line_2r_74" corresp="#co_lb_2r_74" rend="visible" rendition="Line"
+                ulx="645" uly="613" lrx="959" lry="646" />
+            <zone xml:id="co_line_2r_75" corresp="#co_lb_2r_75" rend="visible" rendition="Line"
+                ulx="644" uly="645" lrx="926" lry="673" />
+            <zone xml:id="co_line_2r_76" corresp="#co_lb_2r_76" rend="visible" rendition="Line"
+                ulx="644" uly="674" lrx="919" lry="705" />
+            <zone xml:id="co_line_2r_77" corresp="#co_lb_2r_77" rend="visible" rendition="Line"
+                ulx="643" uly="702" lrx="903" lry="734" />
+            <zone xml:id="co_line_2r_78" corresp="#co_lb_2r_78" rend="visible" rendition="Line"
+                ulx="641" uly="732" lrx="899" lry="764" />
+            <zone xml:id="co_line_2r_79" corresp="#co_lb_2r_79" rend="visible" rendition="Line"
+                ulx="643" uly="761" lrx="973" lry="792" />
+            <zone xml:id="co_line_2r_80" corresp="#co_lb_2r_80" rend="visible" rendition="Line"
+                ulx="646" uly="790" lrx="1018" lry="823" />
+            <zone xml:id="co_line_2r_81" corresp="#co_lb_2r_81" rend="visible" rendition="Line"
+                ulx="643" uly="825" lrx="865" lry="850" />
+            <zone xml:id="co_line_2r_82" corresp="#co_lb_2r_82" rend="visible" rendition="Line"
+                ulx="643" uly="850" lrx="932" lry="883" />
+            <zone xml:id="co_line_2r_83" corresp="#co_lb_2r_83" rend="visible" rendition="Line"
+                ulx="644" uly="882" lrx="890" lry="908" />
+            <zone xml:id="co_line_2r_84" corresp="#co_lb_2r_84" rend="visible" rendition="Line"
+                ulx="644" uly="912" lrx="897" lry="940" />
+            <zone xml:id="co_line_2r_85" corresp="#co_lb_2r_85" rend="visible" rendition="Line"
+                ulx="642" uly="932" lrx="957" lry="971" />
+            <zone xml:id="co_line_2r_86" corresp="#co_lb_2r_86" rend="visible" rendition="Line"
+                ulx="645" uly="972" lrx="958" lry="997" />
+            <zone xml:id="co_line_2r_87" corresp="#co_lb_2r_87" rend="visible" rendition="Line"
+                ulx="642" uly="1000" lrx="943" lry="1029" />
+            <zone xml:id="co_line_2r_88" corresp="#co_lb_2r_88" rend="visible" rendition="Line"
+                ulx="637" uly="1023" lrx="1023" lry="1066" />
+            <zone xml:id="co_line_2r_89" corresp="#co_lb_2r_89" rend="visible" rendition="Line"
+                ulx="638" uly="1061" lrx="1014" lry="1093" />
+            <zone xml:id="co_line_2r_90" corresp="#co_lb_2r_90" rend="visible" rendition="Line"
+                ulx="643" uly="1093" lrx="1020" lry="1122" />
+            <zone xml:id="co_line_2r_91" corresp="#co_lb_2r_91" rend="visible" rendition="Line"
+                ulx="641" uly="1123" lrx="905" lry="1153" />
+            <zone xml:id="co_line_2r_92" corresp="#co_lb_2r_92" rend="visible" rendition="Line"
+                ulx="648" uly="1149" lrx="994" lry="1184" />
+            <zone xml:id="co_line_2r_93" corresp="#co_lb_2r_93" rend="visible" rendition="Line"
+                ulx="648" uly="1181" lrx="994" lry="1211" />
+            <zone xml:id="co_line_2r_94" corresp="#co_lb_2r_94" rend="visible" rendition="Line"
+                ulx="645" uly="1213" lrx="905" lry="1241" />
+            <zone xml:id="co_line_2r_95" corresp="#co_lb_2r_95" rend="visible" rendition="Line"
+                ulx="639" uly="1243" lrx="904" lry="1271" />
+            <zone xml:id="co_line_2r_96" corresp="#co_lb_2r_96" rend="visible" rendition="Line"
+                ulx="650" uly="1272" lrx="911" lry="1298" />
+            <zone xml:id="co_line_2r_97" corresp="#co_lb_2r_97" rend="visible" rendition="Line"
+                ulx="648" uly="1299" lrx="926" lry="1329" />
+            <zone xml:id="co_line_2r_98" corresp="#co_lb_2r_98" rend="visible" rendition="Line"
+                ulx="645" uly="1333" lrx="923" lry="1364" />
+            <zone xml:id="co_line_2r_99" corresp="#co_lb_2r_99" rend="visible" rendition="Line"
+                ulx="644" uly="1360" lrx="941" lry="1390" />
+            <zone xml:id="co_line_2r_100" corresp="#co_lb_2r_100" rend="visible" rendition="Line"
+                ulx="643" uly="1392" lrx="899" lry="1420" />
+            <zone xml:id="co_line_2r_101" corresp="#co_lb_2r_101" rend="visible" rendition="Line"
+                ulx="648" uly="1424" lrx="829" lry="1449" />
+            <zone xml:id="co_line_2r_102" corresp="#co_lb_2r_102" rend="visible" rendition="Line"
+                ulx="652" uly="1446" lrx="904" lry="1479" />
+            <zone xml:id="co_line_2r_103" corresp="#co_lb_2r_103" rend="visible" rendition="Line"
+                ulx="646" uly="1480" lrx="939" lry="1511" />
+            <zone xml:id="co_line_2r_104" corresp="#co_lb_2r_104" rend="visible" rendition="Line"
+                ulx="650" uly="1512" lrx="944" lry="1541" />
+            <zone xml:id="co_line_2r_105" corresp="#co_lb_2r_105" rend="visible" rendition="Line"
+                ulx="644" uly="1543" lrx="917" lry="1571" />
+            <zone xml:id="co_line_2r_106" corresp="#co_lb_2r_106" rend="visible" rendition="Line"
+                ulx="650" uly="1570" lrx="919" lry="1595" />
+            <zone xml:id="co_line_2r_107" corresp="#co_lb_2r_107" rend="visible" rendition="Line"
+                ulx="650" uly="1595" lrx="982" lry="1626" />
+            <zone xml:id="co_line_2r_108" corresp="#co_lb_2r_108" rend="visible" rendition="Line"
+                ulx="646" uly="1623" lrx="1015" lry="1657" />
+        </surface>
+        <surface>
+            <graphic url="/co_fol_2v.jpg" width='1431px' height='2010px' />
+            <!-- right column -->
+            <zone xml:id="co_line_2v_01" corresp="#co_lb_2v_01" rend="visible" rendition="Line"
+                ulx="319" uly="76" lrx="574" lry="109" />
+            <zone xml:id="co_line_2v_02" corresp="#co_lb_2v_02" rend="visible" rendition="Line"
+                ulx="334" uly="109" lrx="643" lry="129" />
+            <zone xml:id="co_line_2v_03" corresp="#co_lb_2v_03" rend="visible" rendition="Line"
+                ulx="336" uly="140" lrx="604" lry="161" />
+            <zone xml:id="co_line_2v_04" corresp="#co_lb_2v_04" rend="visible" rendition="Line"
+                ulx="335" uly="167" lrx="575" lry="188" />
+            <zone xml:id="co_line_2v_05" corresp="#co_lb_2v_05" rend="visible" rendition="Line"
+                ulx="337" uly="197" lrx="649" lry="221" />
+            <zone xml:id="co_line_2v_06" corresp="#co_lb_2v_06" rend="visible" rendition="Line"
+                ulx="332" uly="226" lrx="637" lry="250" />
+            <zone xml:id="co_line_2v_07" corresp="#co_lb_2v_07" rend="visible" rendition="Line"
+                ulx="339" uly="251" lrx="634" lry="278" />
+            <zone xml:id="co_line_2v_08" corresp="#co_lb_2v_08" rend="visible" rendition="Line"
+                ulx="338" uly="278" lrx="602" lry="307" />
+            <zone xml:id="co_line_2v_09" corresp="#co_lb_2v_09" rend="visible" rendition="Line"
+                ulx="336" uly="310" lrx="596" lry="333" />
+            <zone xml:id="co_line_2v_10" corresp="#co_lb_2v_10" rend="visible" rendition="Line"
+                ulx="333" uly="336" lrx="641" lry="361" />
+            <zone xml:id="co_line_2v_11" corresp="#co_lb_2v_11" rend="visible" rendition="Line"
+                ulx="311" uly="371" lrx="607" lry="405" />
+            <zone xml:id="co_line_2v_12" corresp="#co_lb_2v_12" rend="visible" rendition="Line"
+                ulx="330" uly="395" lrx="618" lry="421" />
+            <zone xml:id="co_line_2v_13" corresp="#co_lb_2v_13" rend="visible" rendition="Line"
+                ulx="332" uly="422" lrx="630" lry="451" />
+            <zone xml:id="co_line_2v_14" corresp="#co_lb_2v_14" rend="visible" rendition="Line"
+                ulx="330" uly="451" lrx="640" lry="481" />
+            <zone xml:id="co_line_2v_15" corresp="#co_lb_2v_15" rend="visible" rendition="Line"
+                ulx="330" uly="484" lrx="638" lry="509" />
+            <zone xml:id="co_line_2v_16" corresp="#co_lb_2v_16" rend="visible" rendition="Line"
+                ulx="327" uly="514" lrx="641" lry="538" />
+            <zone xml:id="co_line_2v_17" corresp="#co_lb_2v_17" rend="visible" rendition="Line"
+                ulx="330" uly="542" lrx="614" lry="566" />
+            <zone xml:id="co_line_2v_18" corresp="#co_lb_2v_18" rend="visible" rendition="Line"
+                ulx="326" uly="572" lrx="635" lry="595" />
+            <zone xml:id="co_line_2v_19" corresp="#co_lb_2v_19" rend="visible" rendition="Line"
+                ulx="327" uly="601" lrx="609" lry="625" />
+            <zone xml:id="co_line_2v_20" corresp="#co_lb_2v_20" rend="visible" rendition="Line"
+                ulx="325" uly="628" lrx="600" lry="653" />
+            <zone xml:id="co_line_2v_21" corresp="#co_lb_2v_21" rend="visible" rendition="Line"
+                ulx="325" uly="653" lrx="619" lry="687" />
+            <zone xml:id="co_line_2v_22" corresp="#co_lb_2v_22" rend="visible" rendition="Line"
+                ulx="324" uly="679" lrx="670" lry="710" />
+            <zone xml:id="co_line_2v_23" corresp="#co_lb_2v_23" rend="visible" rendition="Line"
+                ulx="326" uly="711" lrx="575" lry="734" />
+            <zone xml:id="co_line_2v_24" corresp="#co_lb_2v_24" rend="visible" rendition="Line"
+                ulx="324" uly="739" lrx="620" lry="771" />
+            <zone xml:id="co_line_2v_25" corresp="#co_lb_2v_25" rend="visible" rendition="Line"
+                ulx="326" uly="770" lrx="623" lry="800" />
+            <zone xml:id="co_line_2v_26" corresp="#co_lb_2v_26" rend="visible" rendition="Line"
+                ulx="320" uly="800" lrx="654" lry="831" />
+            <zone xml:id="co_line_2v_27" corresp="#co_lb_2v_27" rend="visible" rendition="Line"
+                ulx="327" uly="834" lrx="600" lry="862" />
+            <zone xml:id="co_line_2v_28" corresp="#co_lb_2v_28" rend="visible" rendition="Line"
+                ulx="325" uly="869" lrx="604" lry="897" />
+            <zone xml:id="co_line_2v_29" corresp="#co_lb_2v_29" rend="visible" rendition="Line"
+                ulx="329" uly="893" lrx="636" lry="923" />
+            <zone xml:id="co_line_2v_30" corresp="#co_lb_2v_30" rend="visible" rendition="Line"
+                ulx="326" uly="923" lrx="651" lry="950" />
+            <zone xml:id="co_line_2v_31" corresp="#co_lb_2v_31" rend="visible" rendition="Line"
+                ulx="330" uly="952" lrx="629" lry="974" />
+            <zone xml:id="co_line_2v_32" corresp="#co_lb_2v_32" rend="visible" rendition="Line"
+                ulx="327" uly="980" lrx="622" lry="1005" />
+            <zone xml:id="co_line_2v_33" corresp="#co_lb_2v_33" rend="visible" rendition="Line"
+                ulx="321" uly="1009" lrx="559" lry="1035" />
+            <zone xml:id="co_line_2v_34" corresp="#co_lb_2v_34" rend="visible" rendition="Line"
+                ulx="326" uly="1037" lrx="644" lry="1066" />
+            <zone xml:id="co_line_2v_35" corresp="#co_lb_2v_35" rend="visible" rendition="Line"
+                ulx="327" uly="1070" lrx="633" lry="1099" />
+            <zone xml:id="co_line_2v_36" corresp="#co_lb_2v_36" rend="visible" rendition="Line"
+                ulx="322" uly="1100" lrx="613" lry="1130" />
+            <zone xml:id="co_line_2v_37" corresp="#co_lb_2v_37" rend="visible" rendition="Line"
+                ulx="325" uly="1129" lrx="631" lry="1156" />
+            <zone xml:id="co_line_2v_38" corresp="#co_lb_2v_38" rend="visible" rendition="Line"
+                ulx="331" uly="1163" lrx="611" lry="1185" />
+            <zone xml:id="co_line_2v_39" corresp="#co_lb_2v_39" rend="visible" rendition="Line"
+                ulx="323" uly="1190" lrx="642" lry="1221" />
+            <zone xml:id="co_line_2v_40" corresp="#co_lb_2v_40" rend="visible" rendition="Line"
+                ulx="323" uly="1223" lrx="572" lry="1249" />
+            <zone xml:id="co_line_2v_41" corresp="#co_lb_2v_41" rend="visible" rendition="Line" 
+                ulx="276" uly="1254" lrx="560" lry="1285" />
+            <zone xml:id="co_line_2v_42" corresp="#co_lb_2v_42" rend="visible" rendition="Line"
+                ulx="313" uly="1282" lrx="611" lry="1304" />
+            <zone xml:id="co_line_2v_43" corresp="#co_lb_2v_43" rend="visible" rendition="Line"
+                ulx="317" uly="1309" lrx="605" lry="1336" />
+            <zone xml:id="co_line_2v_44" corresp="#co_lb_2v_44" rend="visible" rendition="Line"
+                ulx="316" uly="1339" lrx="608" lry="1363" />
+            <zone xml:id="co_line_2v_45" corresp="#co_lb_2v_45" rend="visible" rendition="Line"
+                ulx="316" uly="1366" lrx="597" lry="1398" />
+            <zone xml:id="co_line_2v_46" corresp="#co_lb_2v_46" rend="visible" rendition="Line"
+                ulx="318" uly="1398" lrx="631" lry="1424" />
+            <zone xml:id="co_line_2v_47" corresp="#co_lb_2v_47" rend="visible" rendition="Line"
+                ulx="313" uly="1427" lrx="575" lry="1454" />
+            <zone xml:id="co_line_2v_48" corresp="#co_lb_2v_48" rend="visible" rendition="Line"
+                ulx="314" uly="1459" lrx="582" lry="1487" />
+            <zone xml:id="co_line_2v_49" corresp="#co_lb_2v_49" rend="visible" rendition="Line"
+                ulx="317" uly="1489" lrx="592" lry="1512" />
+            <zone xml:id="co_line_2v_50" corresp="#co_lb_2v_50" rend="visible" rendition="Line"
+                ulx="314" uly="1516" lrx="584" lry="1545" />
+            <zone xml:id="co_line_2v_51" corresp="#co_lb_2v_51" rend="visible" rendition="Line"
+                ulx="317" uly="1545" lrx="663" lry="1573" />
+            <zone xml:id="co_line_2v_52" corresp="#co_lb_2v_52" rend="visible" rendition="Line"
+                ulx="320" uly="1576" lrx="634" lry="1603" />
+            <zone xml:id="co_line_2v_53" corresp="#co_lb_2v_53" rend="visible" rendition="Line"
+                ulx="320" uly="1604" lrx="639" lry="1630" />
+            <zone xml:id="co_line_2v_54" corresp="#co_lb_2v_54" rend="visible" rendition="Line"
+                ulx="318" uly="1635" lrx="625" lry="1668" />
+            <!-- left column -->
+            <zone xml:id="co_line_2v_55" corresp="#co_lb_2v_55" rend="visible" rendition="Line"
+                ulx="816" uly="81" lrx="1092" lry="105" />
+            <zone xml:id="co_line_2v_56" corresp="#co_lb_2v_56" rend="visible" rendition="Line"
+                ulx="813" uly="112" lrx="1076" lry="133" />
+            <zone xml:id="co_line_2v_57" corresp="#co_lb_2v_57" rend="visible" rendition="Line"
+                ulx="825" uly="138" lrx="1124" lry="165" />
+            <zone xml:id="co_line_2v_58" corresp="#co_lb_2v_58" rend="visible" rendition="Line"
+                ulx="819" uly="168" lrx="1143" lry="196" />
+            <zone xml:id="co_line_2v_59" corresp="#co_lb_2v_59" rend="visible" rendition="Line"
+                ulx="818" uly="199" lrx="1113" lry="224" />
+            <zone xml:id="co_line_2v_60" corresp="#co_lb_2v_60" rend="visible" rendition="Line"
+                ulx="817" uly="223" lrx="1131" lry="253" />
+            <zone xml:id="co_line_2v_61" corresp="#co_lb_2v_61" rend="visible" rendition="Line"
+                ulx="818" uly="256" lrx="1113" lry="280" />
+            <zone xml:id="co_line_2v_62" corresp="#co_lb_2v_62" rend="visible" rendition="Line"
+                ulx="816" uly="284" lrx="1109" lry="310" />
+            <zone xml:id="co_line_2v_63" corresp="#co_lb_2v_63" rend="visible" rendition="Line"
+                ulx="818" uly="312" lrx="1117" lry="335" />
+            <zone xml:id="co_line_2v_64" corresp="#co_lb_2v_64" rend="visible" rendition="Line"
+                ulx="821" uly="337" lrx="1126" lry="365" />
+            <zone xml:id="co_line_2v_65" corresp="#co_lb_2v_65" rend="visible" rendition="Line"
+                ulx="820" uly="365" lrx="1151" lry="394" />
+            <zone xml:id="co_line_2v_66" corresp="#co_lb_2v_66" rend="visible" rendition="Line"
+                ulx="817" uly="398" lrx="1135" lry="428" />
+            <zone xml:id="co_line_2v_67" corresp="#co_lb_2v_67" rend="visible" rendition="Line"
+                ulx="816" uly="424" lrx="1178" lry="451" />
+            <zone xml:id="co_line_2v_68" corresp="#co_lb_2v_68" rend="visible" rendition="Line"
+                ulx="820" uly="456" lrx="1175" lry="482" />
+            <zone xml:id="co_line_2v_69" corresp="#co_lb_2v_69" rend="visible" rendition="Line"
+                ulx="818" uly="485" lrx="1070" lry="511" />
+            <zone xml:id="co_line_2v_70" corresp="#co_lb_2v_70" rend="visible" rendition="Line"
+                ulx="813" uly="512" lrx="1054" lry="542" />
+            <zone xml:id="co_line_2v_71" corresp="#co_lb_2v_71" rend="visible" rendition="Line"
+                ulx="783" uly="536" lrx="1098" lry="572" />
+            <zone xml:id="co_line_2v_72" corresp="#co_lb_2v_72" rend="visible" rendition="Line"
+                ulx="821" uly="575" lrx="1095" lry="602" />
+            <zone xml:id="co_line_2v_73" corresp="#co_lb_2v_73" rend="visible" rendition="Line"
+                ulx="819" uly="604" lrx="1103" lry="624" />
+            <zone xml:id="co_line_2v_74" corresp="#co_lb_2v_74" rend="visible" rendition="Line"
+                ulx="815" uly="629" lrx="1077" lry="655" />
+            <zone xml:id="co_line_2v_75" corresp="#co_lb_2v_75" rend="visible" rendition="Line"
+                ulx="804" uly="649" lrx="1136" lry="685" />
+            <zone xml:id="co_line_2v_76" corresp="#co_lb_2v_76" rend="visible" rendition="Line"
+                ulx="811" uly="687" lrx="1126" lry="710" />
+            <zone xml:id="co_line_2v_77" corresp="#co_lb_2v_77" rend="visible" rendition="Line"
+                ulx="815" uly="712" lrx="1131" lry="742" />
+            <zone xml:id="co_line_2v_78" corresp="#co_lb_2v_78" rend="visible" rendition="Line"
+                ulx="812" uly="745" lrx="1154" lry="771" />
+            <zone xml:id="co_line_2v_79" corresp="#co_lb_2v_79" rend="visible" rendition="Line"
+                ulx="813" uly="773" lrx="1100" lry="801" />
+            <zone xml:id="co_line_2v_80" corresp="#co_lb_2v_80" rend="visible" rendition="Line"
+                ulx="813" uly="801" lrx="1163" lry="828" />
+            <zone xml:id="co_line_2v_81" corresp="#co_lb_2v_81" rend="visible" rendition="Line"
+                ulx="807" uly="836" lrx="1140" lry="865" />
+            <zone xml:id="co_line_2v_82" corresp="#co_lb_2v_82" rend="visible" rendition="Line"
+                ulx="812" uly="868" lrx="1083" lry="893" />
+            <zone xml:id="co_line_2v_83" corresp="#co_lb_2v_83" rend="visible" rendition="Line"
+                ulx="820" uly="897" lrx="1176" lry="926" />
+            <zone xml:id="co_line_2v_84" corresp="#co_lb_2v_84" rend="visible" rendition="Line"
+                ulx="819" uly="926" lrx="1110" lry="953" />
+            <zone xml:id="co_line_2v_85" corresp="#co_lb_2v_85" rend="visible" rendition="Line"
+                ulx="818" uly="959" lrx="1040" lry="981" />
+            <zone xml:id="co_line_2v_86" corresp="#co_lb_2v_86" rend="visible" rendition="Line"
+                ulx="817" uly="979" lrx="1150" lry="1006" />
+            <zone xml:id="co_line_2v_87" corresp="#co_lb_2v_87" rend="visible" rendition="Line"
+                ulx="819" uly="1011" lrx="1156" lry="1037" />
+            <zone xml:id="co_line_2v_88" corresp="#co_lb_2v_88" rend="visible" rendition="Line"
+                ulx="823" uly="1041" lrx="1146" lry="1070" />
+            <zone xml:id="co_line_2v_89" corresp="#co_lb_2v_89" rend="visible" rendition="Line"
+                ulx="823" uly="1074" lrx="1138" lry="1097" />
+            <zone xml:id="co_line_2v_90" corresp="#co_lb_2v_90" rend="visible" rendition="Line"
+                ulx="822" uly="1103" lrx="1135" lry="1130" />
+            <zone xml:id="co_line_2v_91" corresp="#co_lb_2v_91" rend="visible" rendition="Line"
+                ulx="818" uly="1135" lrx="1062" lry="1160" />
+            <zone xml:id="co_line_2v_92" corresp="#co_lb_2v_92" rend="visible" rendition="Line"
+                ulx="821" uly="1162" lrx="1095" lry="1190" />
+            <zone xml:id="co_line_2v_93" corresp="#co_lb_2v_93" rend="visible" rendition="Line"
+                ulx="827" uly="1195" lrx="1080" lry="1224" />
+            <zone xml:id="co_line_2v_94" corresp="#co_lb_2v_94" rend="visible" rendition="Line"
+                ulx="814" uly="1220" lrx="1135" lry="1253" />
+            <zone xml:id="co_line_2v_95" corresp="#co_lb_2v_95" rend="visible" rendition="Line"
+                ulx="819" uly="1252" lrx="1113" lry="1280" />
+            <zone xml:id="co_line_2v_96" corresp="#co_lb_2v_96" rend="visible" rendition="Line"
+                ulx="815" uly="1280" lrx="1088" lry="1313" />
+            <zone xml:id="co_line_2v_97" corresp="#co_lb_2v_97" rend="visible" rendition="Line"
+                ulx="820" uly="1306" lrx="1146" lry="1335" />
+            <zone xml:id="co_line_2v_98" corresp="#co_lb_2v_98" rend="visible" rendition="Line"
+                ulx="815" uly="1340" lrx="1131" lry="1370" />
+            <zone xml:id="co_line_2v_99" corresp="#co_lb_2v_99" rend="visible" rendition="Line"
+                ulx="814" uly="1365" lrx="1182" lry="1394" />
+            <zone xml:id="co_line_2v_100" corresp="#co_lb_2v_100" rend="visible" rendition="Line"
+                ulx="815" uly="1403" lrx="1127" lry="1429" />
+            <zone xml:id="co_line_2v_101" corresp="#co_lb_2v_101" rend="visible" rendition="Line"
+                ulx="809" uly="1428" lrx="1063" lry="1460" />
+            <zone xml:id="co_line_2v_102" corresp="#co_lb_2v_102" rend="visible" rendition="Line"
+                ulx="817" uly="1452" lrx="1155" lry="1482" />
+            <zone xml:id="co_line_2v_103" corresp="#co_lb_2v_103" rend="visible" rendition="Line"
+                ulx="804" uly="1489" lrx="1101" lry="1507" />
+            <zone xml:id="co_line_2v_104" corresp="#co_lb_2v_104" rend="visible" rendition="Line"
+                ulx="810" uly="1520" lrx="1093" lry="1541" />
+            <zone xml:id="co_line_2v_105" corresp="#co_lb_2v_105" rend="visible" rendition="Line"
+                ulx="811" uly="1546" lrx="1084" lry="1571" />
+            <zone xml:id="co_line_2v_106" corresp="#co_lb_2v_106" rend="visible" rendition="Line"
+                ulx="810" uly="1580" lrx="1111" lry="1593" />
+            <zone xml:id="co_line_2v_107" corresp="#co_lb_2v_107" rend="visible" rendition="Line"
+                ulx="819" uly="1604" lrx="1106" lry="1630" />
+            <zone xml:id="co_line_2v_108" corresp="#co_lb_2v_108" rend="visible" rendition="Line"
+                ulx="815" uly="1633" lrx="1072" lry="1659" />
         </surface>
     </facsimile>
     <text>
         <front>
-            <pb xml:id="co_fol_EinbandV" corresp="#co_surf_EinbandV" n="EinbandVorne"/>
-                
+            <pb xml:id="co_fol_EinbandV" corresp="#co_surf_EinbandV" n="EinbandVorne"/>                
         </front>
         <group>
             <text xml:id="parzival_text" n="Parzival">
@@ -840,6 +1277,7 @@
                     <l n="108"><lb facs="#co_line_1v_108" xml:id="co_lb_1v_108" n="108"/>dar zvͦ gebt mir vier kint.</l>
                     
                     
+                    
                     <pb xml:id="co_fol_2r" corresp="#co_surf_2r" n="2r"/>
                     <l n="1"><lb facs="#co_line_2r_01" xml:id="co_lb_2r_01" n="1"/>mit gvͦter zvht an hoher art</l>
                     <l n="2"><lb facs="#co_line_2r_02" xml:id="co_lb_2r_02" n="2"/>vor den wirt nimmer niht gespart.</l>
@@ -856,7 +1294,6 @@
                     <l n="13"><lb facs="#co_line_2r_13" xml:id="co_lb_2r_13" n="13"/>wir fvren gesellecliche.</l>
                     <l n="14"><lb facs="#co_line_2r_14" xml:id="co_lb_2r_14" n="14"/>dennoch het iwer riche.</l>
                     <l n="15"><lb facs="#co_line_2r_15" xml:id="co_lb_2r_15" n="15"/>unser vater Gandin.</l>
-                    
                     <l n="16"><lb facs="#co_line_2r_16" xml:id="co_lb_2r_16" n="16"/>manegen chvmberlichen pin.</l>
                     <l n="17"><lb facs="#co_line_2r_17" xml:id="co_lb_2r_17" n="17"/>wir bede dolten vmbe lîp.</l>
                     <l n="18"><lb facs="#co_line_2r_18" xml:id="co_lb_2r_18" n="18"/>ir waret ritter unde dîp.</l>
@@ -896,72 +1333,182 @@
                     <l n="52"><lb facs="#co_line_2r_52" xml:id="co_lb_2r_52" n="52"/>owe war iaget mich min gelvst.</l>
                     <l n="53"><lb facs="#co_line_2r_53" xml:id="co_lb_2r_53" n="53"/>ich solz versvchen ob ich mach.</l>
                     <l n="54"><lb facs="#co_line_2r_54" xml:id="co_lb_2r_54" n="54"/>nv nahet min vrloͮbes tach.</l>
+                    <l n="55"><lb facs="#co_line_2r_55" xml:id="co_lb_2r_55" n="55"/>Der kvͦnech in alles werte</l>
+                    <l n="56"><lb facs="#co_line_2r_56" xml:id="co_lb_2r_56" n="56"/>mer denne er selbe gerte.</l>
+                    <l n="57"><lb facs="#co_line_2r_57" xml:id="co_lb_2r_57" n="57"/>fivnf ôrs erwelt vnd erkant.</l>
+                    <l n="58"><lb facs="#co_line_2r_58" xml:id="co_lb_2r_58" n="58"/>de besten uber al sin lant.</l>
+                    <l n="59"><lb facs="#co_line_2r_59" xml:id="co_lb_2r_59" n="59"/>kvͦne. starc. niht zelaz.</l>
+                    <l n="60"><lb facs="#co_line_2r_60" xml:id="co_lb_2r_60" n="60"/>manec tiwer golt vaz.</l>
+                    <l n="61"><lb facs="#co_line_2r_61" xml:id="co_lb_2r_61" n="61"/>vnd manegen guldinen clôz.</l>
+                    <l n="62"><lb facs="#co_line_2r_62" xml:id="co_lb_2r_62" n="62"/>den kvͦnech wenec des verdrôz.</l>
+                    <l n="63"><lb facs="#co_line_2r_63" xml:id="co_lb_2r_63" n="63"/>er en fvltes im vier sovmschrin.</l>
+                    <l n="64"><lb facs="#co_line_2r_64" xml:id="co_lb_2r_64" n="64"/>gesteines mvse ouch vil dar in.</l>
+                    <l n="65"><lb facs="#co_line_2r_65" xml:id="co_lb_2r_65" n="65"/>Do si gefvllet lagen.</l>
+                    <l n="66"><lb facs="#co_line_2r_66" xml:id="co_lb_2r_66" n="66"/>knappen di des pflagen.</l>
+                    <l n="67"><lb facs="#co_line_2r_67" xml:id="co_lb_2r_67" n="67"/>waren wol gecleidet und geriten.</l>
+                    <l n="68"><lb facs="#co_line_2r_68" xml:id="co_lb_2r_68" n="68"/>da newart iamer niht vermiten.</l>
+                    <l n="69"><lb facs="#co_line_2r_69" xml:id="co_lb_2r_69" n="69"/>do er fvr sine mvter giench.</l>
+                    <l n="70"><lb facs="#co_line_2r_70" xml:id="co_lb_2r_70" n="70"/>vnd si in so vaste zv ir viench.</l>
+                    <l n="71"><lb facs="#co_line_2r_71" xml:id="co_lb_2r_71" n="71"/>filluroẏ Gandin. Fillu Roy Gandin</l>
+                    <l n="72"><lb facs="#co_line_2r_72" xml:id="co_lb_2r_72" n="72"/>wil wilt du niht langer bi mir sin.</l>
+                    <l n="73"><lb facs="#co_line_2r_73" xml:id="co_lb_2r_73" n="73"/>sprach daz wipliche wip.</l>
+                    <l n="74"><lb facs="#co_line_2r_74" xml:id="co_lb_2r_74" n="74"/>owe nv trvͦch dich doch min lip.</l>
+                    <l n="75"><lb facs="#co_line_2r_75" xml:id="co_lb_2r_75" n="75"/>dv bist ovch Gandins kint.</l>
+                    <l n="76"><lb facs="#co_line_2r_76" xml:id="co_lb_2r_76" n="76"/>ist got an siner helfe blint.</l>
+                    <l n="77"><lb facs="#co_line_2r_77" xml:id="co_lb_2r_77" n="77"/>oder ist er dran betovbet.</l>
+                    <l n="78"><lb facs="#co_line_2r_78" xml:id="co_lb_2r_78" n="78"/>daz er mir niht gelovbet.</l>
+                    <l n="79"><lb facs="#co_line_2r_79" xml:id="co_lb_2r_79" n="79"/>sol ich nv niwen kvmber haben.</l>
+                    <l n="80"><lb facs="#co_line_2r_80" xml:id="co_lb_2r_80" n="80"/>ich han mines herzen craft begraben.</l>
+                    <l n="81"><lb facs="#co_line_2r_81" xml:id="co_lb_2r_81" n="81"/>di svͦze miner ougen</l>
+                    <l n="82"><lb facs="#co_line_2r_82" xml:id="co_lb_2r_82" n="82"/>wil er mich furbaz rovben.</l>
+                    <l n="83"><lb facs="#co_line_2r_83" xml:id="co_lb_2r_83" n="83"/>und ist doch ein rihtêre.</l>
+                    <l n="84"><lb facs="#co_line_2r_84" xml:id="co_lb_2r_84" n="84"/>so liuget mir daz mere.</l>
+                    <l n="85"><lb facs="#co_line_2r_85" xml:id="co_lb_2r_85" n="85"/>als man von siner helfe saget</l>
+                    <l n="86"><lb facs="#co_line_2r_86" xml:id="co_lb_2r_86" n="86"/>sit er an mir ist sus verzaget.</l>
+                    <l n="87"><lb facs="#co_line_2r_87" xml:id="co_lb_2r_87" n="87"/>o Do sprach der ivnge Ansoiuin.</l>
+                    <l n="88"><lb facs="#co_line_2r_88" xml:id="co_lb_2r_88" n="88"/>got trôste ivch frowe des vater min.</l>
+                    <l n="89"><lb facs="#co_line_2r_89" xml:id="co_lb_2r_89" n="89"/>den svln wir beidiv gerne clagen.</l>
+                    <l n="90"><lb facs="#co_line_2r_90" xml:id="co_lb_2r_90" n="90"/>iv enmac niman von mir gesagen.</l>
+                    <l n="91"><lb facs="#co_line_2r_91" xml:id="co_lb_2r_91" n="91"/>deheiniv clagelichiv leit.</l>
+                    <l n="92"><lb facs="#co_line_2r_92" xml:id="co_lb_2r_92" n="92"/>ich var durch mine werdecheit.</l>
+                    <l n="93"><lb facs="#co_line_2r_93" xml:id="co_lb_2r_93" n="93"/>nah ritterschaft in fremdiv lant.</l>
+                    <l n="94"><lb facs="#co_line_2r_94" xml:id="co_lb_2r_94" n="94"/>frowe ez ist sus bewant.</l>
+                    <l n="95"><lb facs="#co_line_2r_95" xml:id="co_lb_2r_95" n="95"/>Do sprach div kvͦneginne.</l>
+                    <l n="96"><lb facs="#co_line_2r_96" xml:id="co_lb_2r_96" n="96"/>sit dv nach hoher minne.</l>
+                    <l n="97"><lb facs="#co_line_2r_97" xml:id="co_lb_2r_97" n="97"/>wendest dinest und mvͦt.</l>
+                    <l n="98"><lb facs="#co_line_2r_98" xml:id="co_lb_2r_98" n="98"/>liber svn la dir min guͦt.</l>
+                    <l n="99"><lb facs="#co_line_2r_99" xml:id="co_lb_2r_99" n="99"/>vf di vart niht versmahen.</l>
+                    <l n="100"><lb facs="#co_line_2r_100" xml:id="co_lb_2r_100" n="100"/>heiz von mir enpfahen.</l>
+                    <l n="101"><lb facs="#co_line_2r_101" xml:id="co_lb_2r_101" n="101"/>dine kamerêre.</l>
+                    <l n="102"><lb facs="#co_line_2r_102" xml:id="co_lb_2r_102" n="102"/>vier sovmschrin swêre.</l>
+                    <l n="103"><lb facs="#co_line_2r_103" xml:id="co_lb_2r_103" n="103"/>da ligent inne phelle breit.</l>
+                    <l n="104"><lb facs="#co_line_2r_104" xml:id="co_lb_2r_104" n="104"/>ganze di man nie versneit.</l>
+                    <l n="105"><lb facs="#co_line_2r_105" xml:id="co_lb_2r_105" n="105"/>vnd manec tiwer samit.</l>
+                    <l n="106"><lb facs="#co_line_2r_106" xml:id="co_lb_2r_106" n="106"/>svͦzer man la mich di zit.</l>
+                    <l n="107"><lb facs="#co_line_2r_107" xml:id="co_lb_2r_107" n="107"/>horen wenne dv wider kvmest.</l>
+                    <l n="108"><lb facs="#co_line_2r_108" xml:id="co_lb_2r_108" n="108"/>an minen frovden dv mir frvmest.</l>
                     
                     
-                    <l n="55"><lb facs="#co_line_2r_55" xml:id="co_lb_2r_55" n="55"/>nv horet wi siz anegevingen.</l>
-                    <l n="56"><lb facs="#co_line_2r_56" xml:id="co_lb_2r_56" n="56"/>si gerten als ir triwe riet.</l>
-                    <l n="57"><lb facs="#co_line_2r_57" xml:id="co_lb_2r_57" n="57"/>rich und arme gar div diet.</l>
-                    <l n="58"><lb facs="#co_line_2r_58" xml:id="co_lb_2r_58" n="58"/>einer chranchen erntslicher bete.</l>
-                    <l n="59"><lb facs="#co_line_2r_59" xml:id="co_lb_2r_59" n="59"/>daz der chvͦnech an gahmvrete.</l>
-                    <l n="60"><lb facs="#co_line_2r_60" xml:id="co_lb_2r_60" n="60"/>bruderliche triwe mêrte.</l>
-                    <l n="61"><lb facs="#co_line_2r_61" xml:id="co_lb_2r_61" n="61"/>und sih selben êrte.</l>
-                    <l n="62"><lb facs="#co_line_2r_62" xml:id="co_lb_2r_62" n="62"/>daz er in niht gar verstîeze.</l>
-                    <l n="63"><lb facs="#co_line_2r_63" xml:id="co_lb_2r_63" n="63"/>und im sines landes liezen.</l>
-                    <l n="64"><lb facs="#co_line_2r_64" xml:id="co_lb_2r_64" n="64"/>hant gemêlde daz man mohte sehen.</l>
-                    <l n="65"><lb facs="#co_line_2r_65" xml:id="co_lb_2r_65" n="65"/>da von der herre mvͦse iehen.</l>
-                    <l n="66"><lb facs="#co_line_2r_66" xml:id="co_lb_2r_66" n="66"/>sines namen und siner vriheit.</l>
-                    <l n="67"><lb facs="#co_line_2r_67" xml:id="co_lb_2r_67" n="67"/>daz was dem kvnege niht zeleit.</l>
-                    <l n="68"><lb facs="#co_line_2r_68" xml:id="co_lb_2r_68" n="68"/>er sprach ir kvnnet maze gern.</l>
-                    <l n="69"><lb facs="#co_line_2r_69" xml:id="co_lb_2r_69" n="69"/>ich wil ivch des und furbaz wern.</l>
-                    <l n="70"><lb facs="#co_line_2r_70" xml:id="co_lb_2r_70" n="70"/>wan nennet ir den bruͦder min.</l>
-                    <l n="71"><lb facs="#co_line_2r_71" xml:id="co_lb_2r_71" n="71"/>Gahmvret Anscivin.</l>
-                    <l n="72"><lb facs="#co_line_2r_72" xml:id="co_lb_2r_72" n="72"/>Anscowe ist min lant.</l>
-                    <l n="73"><lb facs="#co_line_2r_73" xml:id="co_lb_2r_73" n="73"/>da wesen beide von genant.</l>
-                    <l n="74"><lb facs="#co_line_2r_74" xml:id="co_lb_2r_74" n="74"/>Do sprach der kvͦnech hêre.</l>
-                    <l n="75"><lb facs="#co_line_2r_75" xml:id="co_lb_2r_75" n="75"/>min brvͦder der mach sich mêre.</l>
-                    <l n="76"><lb facs="#co_line_2r_76" xml:id="co_lb_2r_76" n="76"/>der steten hilfe an mich versehen.</l>
-                    <l n="77"><lb facs="#co_line_2r_77" xml:id="co_lb_2r_77" n="77"/>denne ich so gahes welle iehen.</l>
-                    <l n="78"><lb facs="#co_line_2r_78" xml:id="co_lb_2r_78" n="78"/>er sol min ingesinde sîn.</l>
-                    <l n="79"><lb facs="#co_line_2r_79" xml:id="co_lb_2r_79" n="79"/>deiswar ich tvͦn iv allen schîn.</l>
-                    <l n="80"><lb facs="#co_line_2r_80" xml:id="co_lb_2r_80" n="80"/>daz uns beide ein mvͦter truͦch.</l>
-                    <l n="81"><lb facs="#co_line_2r_81" xml:id="co_lb_2r_81" n="81"/>er hat wenik und ich genvͦch.</l>
-                    <l n="82"><lb facs="#co_line_2r_82" xml:id="co_lb_2r_82" n="82"/>daz sol im teilen so min hant</l>
-                    <l n="83"><lb facs="#co_line_2r_83" xml:id="co_lb_2r_83" n="83"/>daz des min selde niht si pfant.</l>
-                    <l n="84"><lb facs="#co_line_2r_84" xml:id="co_lb_2r_84" n="84"/>vor dem der gibt und nimt.</l>
-                    <l n="85"><lb facs="#co_line_2r_85" xml:id="co_lb_2r_85" n="85"/>vͦf reht in beder der gezimt.</l>
-                    <l n="86"><lb facs="#co_line_2r_86" xml:id="co_lb_2r_86" n="86"/>do die fvrsten riche.</l>
-                    <l n="87"><lb facs="#co_line_2r_87" xml:id="co_lb_2r_87" n="87"/>vernamen al geliche.</l>
-                    <l n="88"><lb facs="#co_line_2r_88" xml:id="co_lb_2r_88" n="88"/>daz ir herre triwen phlac.</l>
-                    <l n="89"><lb facs="#co_line_2r_89" xml:id="co_lb_2r_89" n="89"/>diz was in ein liber tac.</l>
-                    <l n="90"><lb facs="#co_line_2r_90" xml:id="co_lb_2r_90" n="90"/>ieslicher im svnder neich.</l>
-                    <l n="91"><lb facs="#co_line_2r_91" xml:id="co_lb_2r_91" n="91"/>Gahmvret niht langer sweich.</l>
-                    <l n="92"><lb facs="#co_line_2r_92" xml:id="co_lb_2r_92" n="92"/>der volge als im sin herze iach.</l>
-                    <l n="93"><lb facs="#co_line_2r_93" xml:id="co_lb_2r_93" n="93"/>zem kvͦnege er gvͦtliche sprach.</l>
-                    <l n="94"><lb facs="#co_line_2r_94" xml:id="co_lb_2r_94" n="94"/>herre unde brvͦder min.</l>
-                    <l n="95"><lb facs="#co_line_2r_95" xml:id="co_lb_2r_95" n="95"/>wolt ich ingesinde sin.</l>
-                    <l n="96"><lb facs="#co_line_2r_96" xml:id="co_lb_2r_96" n="96"/>iwer oder decheines man.</l>
-                    <l n="97"><lb facs="#co_line_2r_97" xml:id="co_lb_2r_97" n="97"/>so het ich min gemach getan.</l>
-                    <l n="98"><lb facs="#co_line_2r_98" xml:id="co_lb_2r_98" n="98"/>nv pruͦvet dar nach minen pris.</l>
-                    <l n="99"><lb facs="#co_line_2r_99" xml:id="co_lb_2r_99" n="99"/>ir sit getriwe unde wis</l>
-                    <l n="100"><lb facs="#co_line_2r_100" xml:id="co_lb_2r_100" n="100"/>vnd ratet als iz geziehe nvͦ.</l>
-                    <l n="101"><lb facs="#co_line_2r_101" xml:id="co_lb_2r_101" n="101"/>da grifet helfliche zvͦ.</l>
-                    <l n="102"><lb facs="#co_line_2r_102" xml:id="co_lb_2r_102" n="102"/>niht wan harnasch ich han.</l>
-                    <l n="103"><lb facs="#co_line_2r_103" xml:id="co_lb_2r_103" n="103"/>het ich dar inne mêr getan.</l>
-                    <l n="104"><lb facs="#co_line_2r_104" xml:id="co_lb_2r_104" n="104"/>daz virrech lop mir brehte.</l>
-                    <l n="105"><lb facs="#co_line_2r_105" xml:id="co_lb_2r_105" n="105"/>etswa man min gedehte.</l>
-                    <l n="106"><lb facs="#co_line_2r_106" xml:id="co_lb_2r_106" n="106"/>Gahmvͦreth sprach ave san. Gahmuret</l>
-                    <l n="107"><lb facs="#co_line_2r_107" xml:id="co_lb_2r_107" n="107"/>sehzehen knappen ich han.</l>
-                    <l n="108"><lb facs="#co_line_2r_108" xml:id="co_lb_2r_108" n="108"/>der sehse von iser sint.</l>
-                    <l n="109"><lb facs="#co_line_2r_109" xml:id="co_lb_2r_109" n="109"/>dar zvͦ gebt mir vier kint.</l>
+                    
+                    <pb xml:id="co_fol_2v" corresp="#co_surf_2v" n="2v"/>
+                    <l n="1"><lb facs="#co_line_2v_01" xml:id="co_lb_2v_01" n="1"/>Frowe des enweiz ich niht</l>
+                    <l n="2"><lb facs="#co_line_2v_02" xml:id="co_lb_2v_02" n="2"/>in welhem lande man mich siht.</l>
+                    <l n="3"><lb facs="#co_line_2v_03" xml:id="co_lb_2v_03" n="3"/>wan swar ich von iv kére</l>
+                    <l n="4"><lb facs="#co_line_2v_04" xml:id="co_lb_2v_04" n="4"/>ir habt nach ritters ére.</l>
+                    <l n="5"><lb facs="#co_line_2v_05" xml:id="co_lb_2v_05" n="5"/>iwer werdecheit an mir getan.</l>
+                    <l n="6"><lb facs="#co_line_2v_06" xml:id="co_lb_2v_06" n="6"/>ovch hat mich der kvͦnich lan.</l>
+                    <l n="7"><lb facs="#co_line_2v_07" xml:id="co_lb_2v_07" n="7"/>als im min dinest danken sol.</l>
+                    <l n="8"><lb facs="#co_line_2v_08" xml:id="co_lb_2v_08" n="8"/>ich getruͦwe iv des uil wol.</l>
+                    <l n="9"><lb facs="#co_line_2v_09" xml:id="co_lb_2v_09" n="9"/>daz ir in deste werder hat.</l>
+                    <l n="10"><lb facs="#co_line_2v_10" xml:id="co_lb_2v_10" n="10"/>Als uns div aventiure saget</l>
+                    <l n="11"><lb facs="#co_line_2v_11" xml:id="co_lb_2v_11" n="11"/>Do helt he-*-t der helt vnverzaget.</l>
+                    <l n="12"><lb facs="#co_line_2v_12" xml:id="co_lb_2v_12" n="12"/>enpfangen durch liebe chraft.</l>
+                    <l n="13"><lb facs="#co_line_2v_13" xml:id="co_lb_2v_13" n="13"/>unt dur wiplich geselleschaft.</l>
+                    <l n="14"><lb facs="#co_line_2v_14" xml:id="co_lb_2v_14" n="14"/>chleinôtes tvsent marke wert.</l>
+                    <l n="15"><lb facs="#co_line_2v_15" xml:id="co_lb_2v_15" n="15"/>swa noch ein ivde pfandes gert.</l>
+                    <l n="16"><lb facs="#co_line_2v_16" xml:id="co_lb_2v_16" n="16"/>er mohtez der fvr enphahen.</l>
+                    <l n="17"><lb facs="#co_line_2v_17" xml:id="co_lb_2v_17" n="17"/>ez endorft im niht versmahen.</l>
+                    <l n="18"><lb facs="#co_line_2v_18" xml:id="co_lb_2v_18" n="18"/>daz sande im ein sin frivdin.</l>
+                    <l n="19"><lb facs="#co_line_2v_19" xml:id="co_lb_2v_19" n="19"/>an sinem dinste lac gewin.</l>
+                    <l n="20"><lb facs="#co_line_2v_20" xml:id="co_lb_2v_20" n="20"/>der wibe minne und ir gruͦz.</l>
+                    <l n="21"><lb facs="#co_line_2v_21" xml:id="co_lb_2v_21" n="21"/>doch wart im selten kvmbers bvͦz.</l>
+                    <l n="22"><lb facs="#co_line_2v_22" xml:id="co_lb_2v_22" n="22"/>vrloͮp nam der wigant.</l>
+                    <l n="23"><lb facs="#co_line_2v_23" xml:id="co_lb_2v_23" n="23"/>mvͦter. bruder. noch des lant.</l>
+                    <l n="24"><lb facs="#co_line_2v_24" xml:id="co_lb_2v_24" n="24"/>sin ovge nimmer mer erkós.</l>
+                    <l n="25"><lb facs="#co_line_2v_25" xml:id="co_lb_2v_25" n="25"/>dar an doch maneger vil verlós.</l>
+                    <l n="26"><lb facs="#co_line_2v_26" xml:id="co_lb_2v_26" n="26"/>der sich hete an im erkant.</l>
+                    <l n="27"><lb facs="#co_line_2v_27" xml:id="co_lb_2v_27" n="27"/>é daz er were dan gewant.</l>
+                    <l n="28"><lb facs="#co_line_2v_28" xml:id="co_lb_2v_28" n="28"/>mit deheinerslahte gvnste zil.</l>
+                    <l n="29"><lb facs="#co_line_2v_29" xml:id="co_lb_2v_29" n="29"/>den wart von im gedanket vil.</l>
+                    <l n="30"><lb facs="#co_line_2v_30" xml:id="co_lb_2v_30" n="30"/>es dvͦhte in mére denne gnuͦc</l>
+                    <l n="31"><lb facs="#co_line_2v_31" xml:id="co_lb_2v_31" n="31"/>durch sine zvht er nie gewͦc.</l>
+                    <l n="32"><lb facs="#co_line_2v_32" xml:id="co_lb_2v_32" n="32"/>daz siz teten vmbe reht.</l>
+                    <l n="33"><lb facs="#co_line_2v_33" xml:id="co_lb_2v_33" n="33"/>sin mvͦt was ebener denne sleht.</l>
+                    <l n="34"><lb facs="#co_line_2v_34" xml:id="co_lb_2v_34" n="34"/>swer selbe sagt wi werd er si.</l>
+                    <l n="35"><lb facs="#co_line_2v_35" xml:id="co_lb_2v_35" n="35"/>da ist lihte ein vngelovbe bi.</l>
+                    <l n="36"><lb facs="#co_line_2v_36" xml:id="co_lb_2v_36" n="36"/>ez solten die vmbesezen iehen</l>
+                    <l n="37"><lb facs="#co_line_2v_37" xml:id="co_lb_2v_37" n="37"/>vnd ovch di heten gesehen</l>
+                    <l n="38"><lb facs="#co_line_2v_38" xml:id="co_lb_2v_38" n="38"/>siniv werch da er fromde fremde were</l>
+                    <l n="39"><lb facs="#co_line_2v_39" xml:id="co_lb_2v_39" n="39"/>so gelovpte manz mêre.</l>
+                    <l n="40"><lb facs="#co_line_2v_40" xml:id="co_lb_2v_40" n="40"/>[x]Ahmvͦret GAhmvͦret der site phlac.</l>
+                    <l n="41"><lb facs="#co_line_2v_41" xml:id="co_lb_2v_41" n="41"/>den rehtiv maze widerwac.</l>
+                    <l n="42"><lb facs="#co_line_2v_42" xml:id="co_lb_2v_42" n="42"/>und ander schanze encheine.</l>
+                    <l n="43"><lb facs="#co_line_2v_43" xml:id="co_lb_2v_43" n="43"/>sin rv̂men daz was chleine.</l>
+                    <l n="44"><lb facs="#co_line_2v_44" xml:id="co_lb_2v_44" n="44"/>groze ere er lidenliche leit.</l>
+                    <l n="45"><lb facs="#co_line_2v_45" xml:id="co_lb_2v_45" n="45"/>der lose wille in gar vermeit.</l>
+                    <l n="46"><lb facs="#co_line_2v_46" xml:id="co_lb_2v_46" n="46"/>doch wande der gefvͦge.</l>
+                    <l n="47"><lb facs="#co_line_2v_47" xml:id="co_lb_2v_47" n="47"/>daz niman chrone trvͦge.</l>
+                    <l n="48"><lb facs="#co_line_2v_48" xml:id="co_lb_2v_48" n="48"/>chvͦnech. keiser keiserin.</l>
+                    <l n="49"><lb facs="#co_line_2v_49" xml:id="co_lb_2v_49" n="49"/>des messenie er wolde sin.</l>
+                    <l n="50"><lb facs="#co_line_2v_50" xml:id="co_lb_2v_50" n="50"/>niwan eines der die hoͤhsten hant</l>
+                    <l n="51"><lb facs="#co_line_2v_51" xml:id="co_lb_2v_51" n="51"/>trvͦge vͦf erde vber elliv lant.</l>
+                    <l n="52"><lb facs="#co_line_2v_52" xml:id="co_lb_2v_52" n="52"/>der wille in sinem herzen lach.</l>
+                    <l n="53"><lb facs="#co_line_2v_53" xml:id="co_lb_2v_53" n="53"/>im wart gesagt ze Baldach.</l>
+                    <l n="54"><lb facs="#co_line_2v_54" xml:id="co_lb_2v_54" n="54"/>were ein so gewaltic man.</l>
+                    <l n="55"><lb facs="#co_line_2v_55" xml:id="co_lb_2v_55" n="55"/>daz im der erde undertan</l>
+                    <l n="56"><lb facs="#co_line_2v_56" xml:id="co_lb_2v_56" n="56"/>div zwei teil weren oder mér.</l>
+                    <l n="57"><lb facs="#co_line_2v_57" xml:id="co_lb_2v_57" n="57"/>sin namen heidinsch was so hér.</l>
+                    <l n="58"><lb facs="#co_line_2v_58" xml:id="co_lb_2v_58" n="58"/>daz man in hiez der Baruͦch</l>
+                    <l n="59"><lb facs="#co_line_2v_59" xml:id="co_lb_2v_59" n="59"/>er hete an krefte alsolhen zvͦch.</l>
+                    <l n="60"><lb facs="#co_line_2v_60" xml:id="co_lb_2v_60" n="60"/>vil kvͦnege waren sine man.</l>
+                    <l n="61"><lb facs="#co_line_2v_61" xml:id="co_lb_2v_61" n="61"/>mit chrontem libe undertan.</l>
+                    <l n="62"><lb facs="#co_line_2v_62" xml:id="co_lb_2v_62" n="62"/>dez Barvͦch ambet hivte stét.</l>
+                    <l n="63"><lb facs="#co_line_2v_63" xml:id="co_lb_2v_63" n="63"/>seht wi man christen é begét.</l>
+                    <l n="64"><lb facs="#co_line_2v_64" xml:id="co_lb_2v_64" n="64"/>zerome als uns der tovf vergiht.</l>
+                    <l n="65"><lb facs="#co_line_2v_65" xml:id="co_lb_2v_65" n="65"/>heidensch orden man dort siht.</l>
+                    <l n="66"><lb facs="#co_line_2v_66" xml:id="co_lb_2v_66" n="66"/>ze Baldach nement si ir babest reht.</l>
+                    <l n="67"><lb facs="#co_line_2v_67" xml:id="co_lb_2v_67" n="67"/>daz dunchet si ane krvmben sleht.</l>
+                    <l n="68"><lb facs="#co_line_2v_68" xml:id="co_lb_2v_68" n="68"/>der Barvͦch in fvr svnde.</l>
+                    <l n="69"><lb facs="#co_line_2v_69" xml:id="co_lb_2v_69" n="69"/>git wandels vrkvnde.</l>
+                    <l n="70"><lb facs="#co_line_2v_70" xml:id="co_lb_2v_70" n="70"/>Zwene brvder von Babilon.</l>
+                    <l n="71"><lb facs="#co_line_2v_71" xml:id="co_lb_2v_71" n="71"/>Pompeius und Jpomidon.</l>
+                    <l n="72"><lb facs="#co_line_2v_72" xml:id="co_lb_2v_72" n="72"/>den nam der Baruͦch ninivé.</l>
+                    <l n="73"><lb facs="#co_line_2v_73" xml:id="co_lb_2v_73" n="73"/>daz was al ir vordern é.</l>
+                    <l n="74"><lb facs="#co_line_2v_74" xml:id="co_lb_2v_74" n="74"/>si taten wer mit chrefte schin.</l>
+                    <l n="75"><lb facs="#co_line_2v_75" xml:id="co_lb_2v_75" n="75"/>dar chom der iunge Anscivin.</l>
+                    <l n="76"><lb facs="#co_line_2v_76" xml:id="co_lb_2v_76" n="76"/>dem wart der Barvͦch vil holt.</l>
+                    <l n="77"><lb facs="#co_line_2v_77" xml:id="co_lb_2v_77" n="77"/>ia nam nach dinste al da den solt.</l>
+                    <l n="78"><lb facs="#co_line_2v_78" xml:id="co_lb_2v_78" n="78"/>Gahmvͦreth der werde man.</l>
+                    <l n="79"><lb facs="#co_line_2v_79" xml:id="co_lb_2v_79" n="79"/>nuͦ erlovbet im daz er muͦze han.</l>
+                    <l n="80"><lb facs="#co_line_2v_80" xml:id="co_lb_2v_80" n="80"/>ander wapen denne im Gaudîn.</l>
+                    <l n="81"><lb facs="#co_line_2v_81" xml:id="co_lb_2v_81" n="81"/>da vor gap der uater sin.</l>
+                    <l n="82"><lb facs="#co_line_2v_82" xml:id="co_lb_2v_82" n="82"/>der herre phlac mit gernden siten.</l>
+                    <l n="83"><lb facs="#co_line_2v_83" xml:id="co_lb_2v_83" n="83"/>vf sine kovertivre gesniten.</l>
+                    <l n="84"><lb facs="#co_line_2v_84" xml:id="co_lb_2v_84" n="84"/>æncher. liht hermin.</l>
+                    <l n="85"><lb facs="#co_line_2v_85" xml:id="co_lb_2v_85" n="85"/>da nach mvͦse ovch daz ander sin</l>
+                    <l n="86"><lb facs="#co_line_2v_86" xml:id="co_lb_2v_86" n="86"/>vͦf sime schilte und an der wât.</l>
+                    <l n="87"><lb facs="#co_line_2v_87" xml:id="co_lb_2v_87" n="87"/>noch grvͦner denne ein smarát.</l>
+                    <l n="88"><lb facs="#co_line_2v_88" xml:id="co_lb_2v_88" n="88"/>was gepruvet sin gereite gar.</l>
+                    <l n="89"><lb facs="#co_line_2v_89" xml:id="co_lb_2v_89" n="89"/>und nach dem Achmardi var.</l>
+                    <l n="90"><lb facs="#co_line_2v_90" xml:id="co_lb_2v_90" n="90"/>daz ist ein sidin lachen.</l>
+                    <l n="91"><lb facs="#co_line_2v_91" xml:id="co_lb_2v_91" n="91"/>dar zvͦ hiez er im machen.</l>
+                    <l n="92"><lb facs="#co_line_2v_92" xml:id="co_lb_2v_92" n="92"/>wapenroch und kursit.</l>
+                    <l n="93"><lb facs="#co_line_2v_93" xml:id="co_lb_2v_93" n="93"/>ez ist bezzer denne der samit.</l>
+                    <l n="94"><lb facs="#co_line_2v_94" xml:id="co_lb_2v_94" n="94"/>hermin ancher drvͦf genêt.</l>
+                    <l n="95"><lb facs="#co_line_2v_95" xml:id="co_lb_2v_95" n="95"/>guldiniv seil dran gedrêt.</l>
+                    <l n="96"><lb facs="#co_line_2v_96" xml:id="co_lb_2v_96" n="96"/>sine anchere heten niht bekort.</l>
+                    <l n="97"><lb facs="#co_line_2v_97" xml:id="co_lb_2v_97" n="97"/>ganzes landes. noch landes ort.</l>
+                    <l n="98"><lb facs="#co_line_2v_98" xml:id="co_lb_2v_98" n="98"/>da ne waren si ninder in geslagen.</l>
+                    <l n="99"><lb facs="#co_line_2v_99" xml:id="co_lb_2v_99" n="99"/>der herre mvͦse fvrbaz tragen.</l>
+                    <l n="100"><lb facs="#co_line_2v_100" xml:id="co_lb_2v_100" n="100"/>disen wapenlichen last.</l>
+                    <l n="101"><lb facs="#co_line_2v_101" xml:id="co_lb_2v_101" n="101"/>in manegiv lant der werde gast.</l>
+                    <l n="102"><lb facs="#co_line_2v_102" xml:id="co_lb_2v_102" n="102"/>Nach dem Ancher disiv mál.</l>
+                    <l n="103"><lb facs="#co_line_2v_103" xml:id="co_lb_2v_103" n="103"/>wander deheiner slahte twál.</l>
+                    <l n="104"><lb facs="#co_line_2v_104" xml:id="co_lb_2v_104" n="104"/>hete ninder noch gebite.</l>
+                    <l n="105"><lb facs="#co_line_2v_105" xml:id="co_lb_2v_105" n="105"/>wie vil er lande dúrch rite</l>
+                    <l n="106"><lb facs="#co_line_2v_106" xml:id="co_lb_2v_106" n="106"/>vnd in schiffen vmbe fv̂re.</l>
+                    <l n="107"><lb facs="#co_line_2v_107" xml:id="co_lb_2v_107" n="107"/>ob ich iv danach swͦre.</l>
+                    
                     
                      
                     
                 </body>
                 <back>
                     <!-- <note n="1" xml:id="en_19r_note_1">The text continues in the margin</note> --> 
-                    <div n="Übersetzung" type="translation" xml:lang="de" xml:id="co_trans_de">
-                        <head>Der Parzival</head>
-                        <div corresp="#co_fol_1r">
+                    <div n="Übersetzung" type="translation" xml:lang="de" xml:id="co_trans_de"> 
+                        <!-- <div corresp="#co_fol_1r"> -->
+                        <div>
+                            <head>Der Parzival</head>
                             <l n="1">Wenn Zweifel nah beim Herzen wohnt,</l>
                             <l n="2">das muss der Seele sauer werden.</l>
                             <l n="3">Schande und Geschmeide</l>
@@ -1068,119 +1615,117 @@
                             <l n="104">Sein Herz betrog ihn nie,</l>
                             <l n="105">wo immer er kämpfte</l>
                             <l n="106">trug er den Sieg davon.</l>
-                            
-                            
-             
-                      <div corresp="#co_fol_1v">
-                          <l n="1">Wenn Zweifel nah beim Herzen wohnt,</l>
-                          <l n="2">das muss der Seele sauer werden.</l>
-                          <l n="3">Schande und Geschmeide</l>
-                          <l n="4">sind beieinander, wo eines</l>
-                          <l n="5">Mannes unverzagter Mut</l>
-                          <l n="6">konfus gemustert gehen will wie Elsternfarben.</l>
-                          <l n="7">Trotzdem, der kann noch glücklich sein,</l>
-                          <l n="8">denn an ihm ist etwas von beiden:</l>
-                          <l n="9">Vom Himmel und von der Hölle.</l>
-                          <l n="10">Wer sich mit Treulosigkeit zusammentut,</l>
-                          <l n="11">der hat die schwarze Farbe ganz</l>
-                          <l n="12">und muss auch nach der Finsternis geraten.</l>
-                          <l n="13">So halte sich an den Weißen,</l>
-                          <l n="14">der fest steht und treu ist.</l>
-                          <l n="15">Dieses fliegende Beispiel</l>
-                          <l n="16">ist für dumme Menschen gar zu flink</l>
-                          <l n="17">sie können es nicht nachvollziehen:</l>
-                          <l n="18">Denn es kann vor ihnen Haken schlagen</l>
-                          <l n="19">ebenso wie ein verschreckter Hase.</l>
-                          <l n="20">Zinn verlötet hinterm Glas</l>
-                          <l n="21">täuscht wie des Blinden Traum.</l>
-                          <l n="22">Sie spiegeln das Aussehen wider,</l>
-                          <l n="23">doch sind sie nicht von Dauer,</l>
-                          <l n="24">diser trübe, leichte Schein</l>
-                          <l n="25">der zwar kurze Freude bereitet.</l>
-                          <l n="26">Wer rupft mich da, wo nie ein Haar</l>
-                          <l n="27">wuchs auf der Innenseite meiner Hand?</l>
-                          <l n="28">Der kennt die Kunst der ganz besonders feinen Griffe</l>
-                          <l n="29">Wenn ich von solchen Nöten "Au" schreie</l>
-                          <l n="30">das sieht dem Geist, den ich begreife, ähnlich.</l>
-                          <l n="31">Möchte ich Treue finden</l>
-                          <l n="32">überall dort, wo sie verschwindet,</l>
-                          <l n="33">wie Feuer in einem Brunnen</l>
-                          <l n="34">und Tau in der Sonne?</l>
-                          <l n="35">Ich kennen niemanden, möge er noch so klug sein</l>
-                          <l n="36">der nicht gern wüsste,</l>
-                          <l n="37">was diese Geschichte von den ihren fordert</l>
-                          <l n="38">und was an guter Lehre sie geben kann.</l>
-                          <l n="39">Was das betrifft, ist sie ganz unbekümmert</l>
-                          <l n="40">gleichermaßen flieht und jagt sie,</l>
-                          <l n="41">zieht sich zurück und kehrt um,</l>
-                          <l n="42">sie lastert und ehret.</l>
-                          <l n="43">Wer sich hier zurecht findet,</l>
-                          <l n="44">dem hat die Weisheit wohl getan,</l>
-                          <l n="45">das ist der, der sich nicht verhockt oder verrennt</l>
-                          <l n="46">und sich im Gegenteil darauf versteht.</l>
-                          <l n="47">Ein mut, der an den seinen Gesellen zum Verräter wird,</l>
-                          <l n="48">ist dem Höllenfeuer gut</l>
-                          <l n="49">und ein Hagel für die hohen Werte und Adel.</l>
-                          <l n="50">Seine Treue hat so einen kurzen Schwanz,</l>
-                          <l n="51">dass sie nicht einmal den dritten Biss abwehren kann,</l>
-                          <l n="52">wenn die Bremsen im Wald über sie herfallen.</l>
-                          <l n="53">Die Rede ist bei diesen Unterschieden</l>
-                          <l n="54">jedoch nicht ausschließlich vom Mann.</l>
-                          <l n="55">Für die Frau setze ich diese Ziele:</l>
-                          <l n="56">Die, die meinen Rat beachten will,</l>
-                          <l n="57">wird wissen, wohin sie gehe</l>
-                          <l n="58">mit ihrem Glanz und ihrer Ehre,</l>
-                          <l n="59">und wem sie schenke soll</l>
-                          <l n="60">ihre Liebe und ihren Adel,</l>
-                          <l n="61">sodass sie nie bereue,</l>
-                          <l n="62">ihre Keschheit und ihre Treue.</l>
-                          <l n="63">Vor Gott bitte für die guten Frauen darum,</l>
-                          <l n="64">dass sie stets dem rechten Maß folgen mögen.</l>
-                          <l n="65">Die Scham schließt alle Sitten ein,</l>
-                          <l n="66">ich kann nicht nach einem größeren Segen bitten.</l>
-                          <l n="67">Eine Verräterin erwirtb nur falschen Ruhm.</l>
-                          <l n="68">Wie sicher ist dünnes Eis</l>
-                          <l n="69">in der Hitze der Augustsonne?</l>
-                          <l n="70">Ebenso vergeht auch ihr Ansehen sehr schnell.</l>
-                          <l n="71">Die Schönheit so mancher Frau wird viel gelobt.</l>
-                          <l n="72">Doch ist das Herz unecht,</l>
-                          <l n="73">so schätze ich sie so,</l>
-                          <l n="74">wie ein in Gold gefasster Glassplitter.</l>
-                          <l n="75">Es ist nicht leicht,</l>
-                          <l n="76">in schwachen Messing</l>
-                          <l n="77">einen edlen Rubin einzufassen</l>
-                          <l n="78">zusammen mit all seinen Wundern.</l>
-                          <l n="79">Ihm gleicht die Seele einer rechten Frau,</l>
-                          <l n="80">die ihrer Weiblichkeit gerecht wird.</l>
-                          <l n="81">Eine solche Frau möchte ich weder nach Farbe</l>
-                          <l n="82">noch nach Erscheinung urteilen.</l>
-                          <l n="83">Trägt sie ein edles Herz in der Brust,</l>
-                          <l n="84">so ist ihr Ansehen ohne Makel.</l>
-                          <l n="85">Müsste ich nun Frau und Mann</l>
-                          <l n="86">so prüfen, wie ech es kann,</l>
-                          <l n="87">dann kämen wir mit Reden lange nicht ans Ziel.</l>
-                          <l n="88">Höret nun die Seite dieser Geschichte,</l>
-                          <l n="89">die von beidem erzhält,</l>
-                          <l n="90">von Liebe und Leid.</l>
-                          <l n="91">von Freude und mit ihr die Angst.</l>
-                          <l n="92">Stellt euch vor, es gäbe drei von mir,</l>
-                          <l n="93">von denen jeder für sich</l>
-                          <l n="94">meiner Kunstfertigkeit gleichkäme:</l>
-                          <l n="95">Selbst dann bräuchte es eine wilde Fantasie,</l>
-                          <l n="96">bevor sie euch erzählen würden,</l>
-                          <l n="97">was ich euch berichten will.</l>
-                          <l n="98">Sie hätten viel zu tun.</l>
-                          <l n="99">Ich will euch eine Geschichte erzählen,</l>
-                          <l n="100">die von großer Treue erzählt,</l>
-                          <l n="101">von weiblicher Tugend</l>
-                          <l n="102">und eines Mannes Männlichkeit,</l>
-                          <l n="103">die sich trotz Gewalt nie bog.</l>
-                          <l n="104">Sein Herz betrog ihn nie,</l>
-                          <l n="105">wo immer er kämpfte</l>
-                          <l n="106">trug er den Sieg davon.</l>
-                      </div>
-                         
+                        
+                        
+                        <div corresp="#co_fol_1v">
+                            <l n="1">Wenn Zweifel nah beim Herzen wohnt,</l>
+                            <l n="2">das muss der Seele sauer werden.</l>
+                            <l n="3">Schande und Geschmeide</l>
+                            <l n="4">sind beieinander, wo eines</l>
+                            <l n="5">Mannes unverzagter Mut</l>
+                            <l n="6">konfus gemustert gehen will wie Elsternfarben.</l>
+                            <l n="7">Trotzdem, der kann noch glücklich sein,</l>
+                            <l n="8">denn an ihm ist etwas von beiden:</l>
+                            <l n="9">Vom Himmel und von der Hölle.</l>
+                            <l n="10">Wer sich mit Treulosigkeit zusammentut,</l>
+                            <l n="11">der hat die schwarze Farbe ganz</l>
+                            <l n="12">und muss auch nach der Finsternis geraten.</l>
+                            <l n="13">So halte sich an den Weißen,</l>
+                            <l n="14">der fest steht und treu ist.</l>
+                            <l n="15">Dieses fliegende Beispiel</l>
+                            <l n="16">ist für dumme Menschen gar zu flink</l>
+                            <l n="17">sie können es nicht nachvollziehen:</l>
+                            <l n="18">Denn es kann vor ihnen Haken schlagen</l>
+                            <l n="19">ebenso wie ein verschreckter Hase.</l>
+                            <l n="20">Zinn verlötet hinterm Glas</l>
+                            <l n="21">täuscht wie des Blinden Traum.</l>
+                            <l n="22">Sie spiegeln das Aussehen wider,</l>
+                            <l n="23">doch sind sie nicht von Dauer,</l>
+                            <l n="24">diser trübe, leichte Schein</l>
+                            <l n="25">der zwar kurze Freude bereitet.</l>
+                            <l n="26">Wer rupft mich da, wo nie ein Haar</l>
+                            <l n="27">wuchs auf der Innenseite meiner Hand?</l>
+                            <l n="28">Der kennt die Kunst der ganz besonders feinen Griffe</l>
+                            <l n="29">Wenn ich von solchen Nöten "Au" schreie</l>
+                            <l n="30">das sieht dem Geist, den ich begreife, ähnlich.</l>
+                            <l n="31">Möchte ich Treue finden</l>
+                            <l n="32">überall dort, wo sie verschwindet,</l>
+                            <l n="33">wie Feuer in einem Brunnen</l>
+                            <l n="34">und Tau in der Sonne?</l>
+                            <l n="35">Ich kennen niemanden, möge er noch so klug sein</l>
+                            <l n="36">der nicht gern wüsste,</l>
+                            <l n="37">was diese Geschichte von den ihren fordert</l>
+                            <l n="38">und was an guter Lehre sie geben kann.</l>
+                            <l n="39">Was das betrifft, ist sie ganz unbekümmert</l>
+                            <l n="40">gleichermaßen flieht und jagt sie,</l>
+                            <l n="41">zieht sich zurück und kehrt um,</l>
+                            <l n="42">sie lastert und ehret.</l>
+                            <l n="43">Wer sich hier zurecht findet,</l>
+                            <l n="44">dem hat die Weisheit wohl getan,</l>
+                            <l n="45">das ist der, der sich nicht verhockt oder verrennt</l>
+                            <l n="46">und sich im Gegenteil darauf versteht.</l>
+                            <l n="47">Ein mut, der an den seinen Gesellen zum Verräter wird,</l>
+                            <l n="48">ist dem Höllenfeuer gut</l>
+                            <l n="49">und ein Hagel für die hohen Werte und Adel.</l>
+                            <l n="50">Seine Treue hat so einen kurzen Schwanz,</l>
+                            <l n="51">dass sie nicht einmal den dritten Biss abwehren kann,</l>
+                            <l n="52">wenn die Bremsen im Wald über sie herfallen.</l>
+                            <l n="53">Die Rede ist bei diesen Unterschieden</l>
+                            <l n="54">jedoch nicht ausschließlich vom Mann.</l>
+                            <l n="55">Für die Frau setze ich diese Ziele:</l>
+                            <l n="56">Die, die meinen Rat beachten will,</l>
+                            <l n="57">wird wissen, wohin sie gehe</l>
+                            <l n="58">mit ihrem Glanz und ihrer Ehre,</l>
+                            <l n="59">und wem sie schenke soll</l>
+                            <l n="60">ihre Liebe und ihren Adel,</l>
+                            <l n="61">sodass sie nie bereue,</l>
+                            <l n="62">ihre Keschheit und ihre Treue.</l>
+                            <l n="63">Vor Gott bitte für die guten Frauen darum,</l>
+                            <l n="64">dass sie stets dem rechten Maß folgen mögen.</l>
+                            <l n="65">Die Scham schließt alle Sitten ein,</l>
+                            <l n="66">ich kann nicht nach einem größeren Segen bitten.</l>
+                            <l n="67">Eine Verräterin erwirtb nur falschen Ruhm.</l>
+                            <l n="68">Wie sicher ist dünnes Eis</l>
+                            <l n="69">in der Hitze der Augustsonne?</l>
+                            <l n="70">Ebenso vergeht auch ihr Ansehen sehr schnell.</l>
+                            <l n="71">Die Schönheit so mancher Frau wird viel gelobt.</l>
+                            <l n="72">Doch ist das Herz unecht,</l>
+                            <l n="73">so schätze ich sie so,</l>
+                            <l n="74">wie ein in Gold gefasster Glassplitter.</l>
+                            <l n="75">Es ist nicht leicht,</l>
+                            <l n="76">in schwachen Messing</l>
+                            <l n="77">einen edlen Rubin einzufassen</l>
+                            <l n="78">zusammen mit all seinen Wundern.</l>
+                            <l n="79">Ihm gleicht die Seele einer rechten Frau,</l>
+                            <l n="80">die ihrer Weiblichkeit gerecht wird.</l>
+                            <l n="81">Eine solche Frau möchte ich weder nach Farbe</l>
+                            <l n="82">noch nach Erscheinung urteilen.</l>
+                            <l n="83">Trägt sie ein edles Herz in der Brust,</l>
+                            <l n="84">so ist ihr Ansehen ohne Makel.</l>
+                            <l n="85">Müsste ich nun Frau und Mann</l>
+                            <l n="86">so prüfen, wie ech es kann,</l>
+                            <l n="87">dann kämen wir mit Reden lange nicht ans Ziel.</l>
+                            <l n="88">Höret nun die Seite dieser Geschichte,</l>
+                            <l n="89">die von beidem erzhält,</l>
+                            <l n="90">von Liebe und Leid.</l>
+                            <l n="91">von Freude und mit ihr die Angst.</l>
+                            <l n="92">Stellt euch vor, es gäbe drei von mir,</l>
+                            <l n="93">von denen jeder für sich</l>
+                            <l n="94">meiner Kunstfertigkeit gleichkäme:</l>
+                            <l n="95">Selbst dann bräuchte es eine wilde Fantasie,</l>
+                            <l n="96">bevor sie euch erzählen würden,</l>
+                            <l n="97">was ich euch berichten will.</l>
+                            <l n="98">Sie hätten viel zu tun.</l>
+                            <l n="99">Ich will euch eine Geschichte erzählen,</l>
+                            <l n="100">die von großer Treue erzählt,</l>
+                            <l n="101">von weiblicher Tugend</l>
+                            <l n="102">und eines Mannes Männlichkeit,</l>
+                            <l n="103">die sich trotz Gewalt nie bog.</l>
+                            <l n="104">Sein Herz betrog ihn nie,</l>
+                            <l n="105">wo immer er kämpfte</l>
+                            <l n="106">trug er den Sieg davon.</l>
                         </div>
+                        
                     </div>
                 </back>
             </text>
