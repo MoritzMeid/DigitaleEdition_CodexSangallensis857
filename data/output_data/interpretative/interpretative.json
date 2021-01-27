@@ -3,12 +3,28 @@
 					 
 								{ 
 									"line" : "|", 
-									"text" : "", 
+									"text" : " ", 
 									"tags" : "parzival_text|Parzival", 
-									"loc" : "co_fol_EinbandV|EinbandVorne",
+									"loc" : "no_page_info|no_page_info",
 									"inFront": "false"
 								}, 
 							
+									{
+										"line" : "no line info|no line info", 
+										"text" : "The Old English story of Apollonius of Tyre , is considered the first English novel. It is stored in the manuscript CCCC 201 at the Parker Library in Cambridge. The manuscript contains a huge number of texts, mainly homilies by Wulfstan. The texts are written in both Latin and Old English. The date of the manuscript is the half of the 11th century. ",
+										"tags" : "parzival_text|Parzival",
+										"loc" : "co_fol_EinbandV|EinbandVorne",
+										"inFront": "true"
+									},
+								
+									{
+										"line" : "no line info|no line info", 
+										"text" : "The story of Apollonius starts with an incest episode and proceeds telling the adventure of Apollonius, the young and cultivated prince of Tyre. At the end of his adventures, which take many years, he will become a rex iustus. ",
+										"tags" : "parzival_text|Parzival",
+										"loc" : "co_fol_EinbandV|EinbandVorne",
+										"inFront": "true"
+									},
+								
 										{ 
 											"line" : "no line info|no line info",
 											"text" : "Der Parcival ",
@@ -3443,11 +3459,19 @@
 									
 										{ 
 											"line" : "107|line 107",
-											"text" : "107 ob ich iv danach swͦre. ",
-											"tags" : "parzival_text|Parzival",
+											"text" : "107 ob ich iv danach swͦre.  ",
+											"tags" : "parzival_text|Parzival Das Nibelungenlied",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									 
+								{ 
+									"line" : "|", 
+									"text" : "tbd ", 
+									"tags" : "1 2|Das Nibelungenlied", 
+									"loc" : "co_fol_2v|2v",
+									"inFront": "false"
+								}, 
+							 
 				{ "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
 			

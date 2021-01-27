@@ -11,6 +11,7 @@
    </translation>
    <liste>
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+      <listPlace active="1" lang="def">LIST_PLACE</listPlace>
    </liste>
    <editions>
       <edition data-key="dipl">Diplomatic</edition>
@@ -18,10 +19,14 @@
    </editions>
    <textpage>
       <text n="parzival_text" label="Parzival">
+         <pb n="EinbandVorne">co_fol_EinbandV</pb>
          <pb n="1r">co_fol_1r</pb>
          <pb n="1v">co_fol_1v</pb>
          <pb n="2r">co_fol_2r</pb>
          <pb n="2v">co_fol_2v</pb>
+      </text>
+      <text n="2" label="Das Nibelungenlied">
+         <pb n="1">1</pb>
       </text>
    </textpage>
    <pages>
@@ -37,6 +42,9 @@
       </pair>
       <pair>
          <pb n="2v">co_fol_2v</pb>
+      </pair>
+      <pair>
+         <pb n="1">1</pb>
       </pair>
    </pages>
    <idno>VB</idno>
