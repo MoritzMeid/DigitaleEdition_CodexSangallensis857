@@ -147,9 +147,6 @@
                     <person xml:id="Gott">
                         <persName>Gott</persName>
                     </person>
-                    <person xml:id="Christus">
-                        <persName>Christus</persName>
-                    </person>
                     <person xml:id="Gahmuret">
                         <persName>Gahmuret</persName>
                         <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Gahmuret">Gahmuret</ref> auf Wikipedia.</note>
@@ -213,6 +210,18 @@
                         <persName>Hunolt</persName>
                         <note>Kämmerer zum Hofe Worms.</note>
                     </person>
+                    <person xml:id="Siegmund">
+                        <persName>Siegmund</persName>
+                        <note>König der Niederlande zu Xanten</note>
+                    </person>
+                    <person xml:id="Sieglinde">
+                        <persName>Sieglinde</persName>
+                        <note>Königin der Niederlande zu Xanten</note>                        
+                    </person>
+                    <person xml:id="Siegfried">
+                        <persName>Siegfried</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Siegfried_der_Drachentöter">Siegfried</ref> auf Wikipedia.</note>
+                    </person>
                 </listPerson>
                 <listPlace>
                     <place xml:id="Himmel">
@@ -233,11 +242,22 @@
                         <placeName>Worms</placeName>
                         <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Worms">Worms am Rhein</ref> auf Wikipedia.</note>
                     </place>
+                    <place xml:id="Niederlande">
+                        <placeName>Niederlande</placeName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Niederlande">den Niederlanden</ref> auf Wikipedia.</note>
+                    </place>
+                    <place xml:id="Xanten">
+                        <placeName>Xanten</placeName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Xanten">Xanten</ref> auf Wikipedia</note>
+                    </place>
                 </listPlace>
                 <listOrg>
                     <org xml:id="Nibelungen">
                         <orgName>Nibelungen</orgName>
                         <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Nibelungen#:~:text=Nibelungen%20steht%20für%3A,hochmittelalterlicher%20Familienverband%20im%20Wormser%20Raum">Nibelungen</ref> auf Wikipedia.</note>
+                    </org>
+                    <org xml:id="Burgunden">
+                        <orgName>Burgunden</orgName>
                     </org>
                 </listOrg>
             </sourceDesc>
@@ -2320,20 +2340,20 @@
                     <l n="4"><lb facs="#co_line_117r_04" xml:id="co_lb_117r_04" n="4"/><persName ref="#Chriemhild">Chriemhilt</persName> geheizen si wart</l>
                     <l n="5"><lb facs="#co_line_117r_05" xml:id="co_lb_117r_05" n="5"/>ein scoͤne wip. dar vmbe</l>
                     <l n="6"><lb facs="#co_line_117r_06" xml:id="co_lb_117r_06" n="6"/>mvͦsen degene vil verliesen den lip.</l>
-                    <l n="7"><lb facs="#co_line_117r_07" xml:id="co_lb_117r_07" n="7"/>Ir pflagen drîe kvnege edel vnd rich. <persName ref="#Gunther"><choice><orig>Gvͤnt</orig><reg>Gvͤnther</reg></choice></persName></l>
+                    <l n="7"><lb facs="#co_line_117r_07" xml:id="co_lb_117r_07" n="7"/><hi rend="init3.1">I</hi>r pflagen drîe kvnege edel vnd rich. <persName ref="#Gunther"><choice><orig>Gvͤnt</orig><reg>Gvͤnther</reg></choice></persName></l>
                     <l n="8"><lb facs="#co_line_117r_08" xml:id="co_lb_117r_08" n="8"/>her vnde <persName ref="#Gernot">Gernot</persName>. di rechen lobelich. <choice><abbr>vn</abbr><expan>vnd</expan></choice> <persName ref="#Giselher"><choice><orig>Gisel</orig><reg>Giselher</reg></choice></persName> </l>
                     <l n="9"><lb facs="#co_line_117r_09" xml:id="co_lb_117r_09" n="9"/>her <choice><abbr>d</abbr><expan>der</expan></choice> ivnge ein vͦz erwelter degn. div froͮ</l>
                     <l n="10"><lb facs="#co_line_117r_10" xml:id="co_lb_117r_10" n="10"/>we was ir swester. di fvͤrsten hetens in ir</l>
-                    <l n="11"><lb facs="#co_line_117r_11" xml:id="co_lb_117r_11" n="11"/>pflægn. Di herren waren milte. von</l>
+                    <l n="11"><lb facs="#co_line_117r_11" xml:id="co_lb_117r_11" n="11"/>pflægn. <hi rend="init3.1">D</hi>i herren waren milte. von</l>
                     <l n="12"><lb facs="#co_line_117r_12" xml:id="co_lb_117r_12" n="12"/>arde hohe erborn.mit chraft vnmâzen chvͤ</l>
-                    <l n="13"><lb facs="#co_line_117r_13" xml:id="co_lb_117r_13" n="13"/>ne. di rechen vͦz erchorn.da zen <placeName ref="#Burgund"></placeName> </l>
+                    <l n="13"><lb facs="#co_line_117r_13" xml:id="co_lb_117r_13" n="13"/>ne. di rechen vͦz erchorn.da zen <orgName ref="#Burgunden">Bvrgon</orgName></l>
                     <l n="14"><lb facs="#co_line_117r_14" xml:id="co_lb_117r_14" n="14"/>den so was ir lant genant. si frvmten star</l>
-                    <l n="15"><lb facs="#co_line_117r_15" xml:id="co_lb_117r_15" n="15"/>chiv wnder sit in <placeName ref="#EtzelsLand"><persName ref="#Etzel"><choice><orig>Ezel</orig><reg>Etzel</reg></choice></persName>en lant.</placeName> Ze</l>
+                    <l n="15"><lb facs="#co_line_117r_15" xml:id="co_lb_117r_15" n="15"/>chiv wnder sit in <placeName ref="#EtzelsLand"><persName ref="#Etzel"><choice><orig>Ezel</orig><reg>Etzel</reg></choice></persName>en lant.</placeName> <hi rend="init3.1">Z</hi>e</l>
                     <l n="16"><lb facs="#co_line_117r_16" xml:id="co_lb_117r_16" n="16"/><placeName ref="#Worms">Wormeze bi dem Rîne</placeName> si wonten mit ir</l>
                     <l n="17"><lb facs="#co_line_117r_17" xml:id="co_lb_117r_17" n="17"/>chraft. in diente <choice><abbr>vo</abbr><expan>von</expan></choice> ir landen. vil stolziv</l>
                     <l n="18"><lb facs="#co_line_117r_18" xml:id="co_lb_117r_18" n="18"/>ritterscaft.mit lobelichen eren. vnz an ir</l>
                     <l n="19"><lb facs="#co_line_117r_19" xml:id="co_lb_117r_19" n="19"/>endes zit.si erstvrben sit iæmerliche. <choice><abbr>vo</abbr><expan>von</expan></choice></l>
-                    <l n="20"><lb facs="#co_line_117r_20" xml:id="co_lb_117r_20" n="20"/>zweier edelen frowen nit. Ein richiv</l>
+                    <l n="20"><lb facs="#co_line_117r_20" xml:id="co_lb_117r_20" n="20"/>zweier edelen frowen nit. <hi rend="init3.1">E</hi>in richiv</l>
                     <l n="21"><lb facs="#co_line_117r_21" xml:id="co_lb_117r_21" n="21"/>kvneginne froͮ <persName ref="#Ute">Vͦte</persName> ir mvͦter hiez. ir <choice><abbr>vat</abbr><expan>vater</expan></choice></l>
                     <l n="22"><lb facs="#co_line_117r_22" xml:id="co_lb_117r_22" n="22"/><choice><abbr>d</abbr><expan>der</expan></choice> hiez <persName ref="#Dankrat">Danchrat</persName> <choice><abbr>d</abbr><expan>der</expan></choice> in div erbe liez. sit</l>
                     <l n="23"><lb facs="#co_line_117r_23" xml:id="co_lb_117r_23" n="23"/>nach sime lebene ein ellens richer man. <choice><abbr>d</abbr><expan>der</expan></choice></l>
@@ -2350,79 +2370,75 @@
                     <l n="34"><lb facs="#co_line_117r_34" xml:id="co_lb_117r_34" n="34"/>ellen wol bewart. <persName ref="#RumoltderKüchenmeister"><choice><orig><hi rend="init3.1">R</hi>vͦmolt der chvch</orig><reg>Rvͦmolt der chvchen meister</reg></choice></persName></l>
                     <l n="35"><lb facs="#co_line_117r_35" xml:id="co_lb_117r_35" n="35"/>ein tiwͦerlicher degn. <persName ref="#Sindolt">Sindolt</persName></l>
                     <l n="36"><lb facs="#co_line_117r_36" xml:id="co_lb_117r_36" n="36"/><choice><abbr>vn</abbr><expan>vnd</expan></choice> <persName ref="#Hunolt">Hvͦnolt</persName> dise herren mvͦsen pflegen. des</l>
-                    <l n="37"><lb facs="#co_line_117r_37" xml:id="co_lb_117r_37" n="37"/>hoves vnt <choice><abbr>de</abbr><expan>der</expan></choice> eren <choice><abbr>de</abbr><expan>der</expan></choice> drîer kvnege man. si</l>
+                    <l n="37"><lb facs="#co_line_117r_37" xml:id="co_lb_117r_37" n="37"/>hoves vnt <choice><abbr>d</abbr><expan>der</expan></choice> eren <choice><abbr>d</abbr><expan>der</expan></choice> drîer kvnege man. si</l>
                     <l n="38"><lb facs="#co_line_117r_38" xml:id="co_lb_117r_38" n="38"/>heten noch manegen rechen des ich genen</l>
-                    <l n="39"><lb facs="#co_line_117r_39" xml:id="co_lb_117r_39" n="39"/>nen niene chan. <persName ref="#Dankwart"><hi rend="init3.1">D</hi>anchwart</persName> <choice><abbr>de</abbr><expan>der</expan></choice> was</l>
-                    <l n="40"><lb facs="#co_line_117r_40" xml:id="co_lb_117r_40" n="40"/>marscalch do was <choice><abbr>de</abbr><expan>der</expan></choice> neve sin. trvhsæze des </l>
-                    <l n="41"><lb facs="#co_line_117r_41" xml:id="co_lb_117r_41" n="41"/> kvneges von Metzzen Oͤrtewin.
-                        Sindolt der</l>
-                    <l n="42"><lb facs="#co_line_117r_42" xml:id="co_lb_117r_42" n="42"/> </l>
-                    <l n="43"><lb facs="#co_line_117r_43" xml:id="co_lb_117r_43" n="43"/> </l>
-                    <l n="44"><lb facs="#co_line_117r_44" xml:id="co_lb_117r_44" n="44"/> </l>
-                    <l n="45"><lb facs="#co_line_117r_45" xml:id="co_lb_117r_45" n="45"/> </l>
-                    <l n="46"><lb facs="#co_line_117r_46" xml:id="co_lb_117r_46" n="46"/> </l>
-                    <l n="47"><lb facs="#co_line_117r_47" xml:id="co_lb_117r_47" n="47"/> </l>
-                    <l n="48"><lb facs="#co_line_117r_48" xml:id="co_lb_117r_48" n="48"/> </l>
-                    <l n="49"><lb facs="#co_line_117r_49" xml:id="co_lb_117r_49" n="49"/> </l>
-                    <l n="50"><lb facs="#co_line_117r_50" xml:id="co_lb_117r_50" n="50"/> </l>
-                    <l n="51"><lb facs="#co_line_117r_51" xml:id="co_lb_117r_51" n="51"/> </l>
-                    <l n="52"><lb facs="#co_line_117r_52" xml:id="co_lb_117r_52" n="52"/> </l>
-                    <l n="53"><lb facs="#co_line_117r_53" xml:id="co_lb_117r_53" n="53"/> </l>
-                    <l n="54"><lb facs="#co_line_117r_54" xml:id="co_lb_117r_54" n="54"/> </l>
-                    <l n="55"><lb facs="#co_line_117r_55" xml:id="co_lb_117r_55" n="55"/> </l>
-                    <l n="56"><lb facs="#co_line_117r_56" xml:id="co_lb_117r_56" n="56"/> </l>
-                    <l n="57"><lb facs="#co_line_117r_57" xml:id="co_lb_117r_57" n="57"/> </l>
-                    <l n="58"><lb facs="#co_line_117r_58" xml:id="co_lb_117r_58" n="58"/> </l>
-                    <l n="59"><lb facs="#co_line_117r_59" xml:id="co_lb_117r_59" n="59"/> </l>
-                    <l n="60"><lb facs="#co_line_117r_60" xml:id="co_lb_117r_60" n="60"/> </l>
-                    <l n="61"><lb facs="#co_line_117r_61" xml:id="co_lb_117r_61" n="61"/> </l>
-                    <l n="62"><lb facs="#co_line_117r_62" xml:id="co_lb_117r_62" n="62"/> </l>
-                    <l n="63"><lb facs="#co_line_117r_63" xml:id="co_lb_117r_63" n="63"/> </l>
-                    <l n="64"><lb facs="#co_line_117r_64" xml:id="co_lb_117r_64" n="64"/> </l>
-                    <l n="65"><lb facs="#co_line_117r_65" xml:id="co_lb_117r_65" n="65"/> </l>
-                    <l n="66"><lb facs="#co_line_117r_66" xml:id="co_lb_117r_66" n="66"/> </l>
-                    <l n="67"><lb facs="#co_line_117r_67" xml:id="co_lb_117r_67" n="67"/> </l>
-                    <l n="68"><lb facs="#co_line_117r_68" xml:id="co_lb_117r_68" n="68"/> </l>
-                    <l n="69"><lb facs="#co_line_117r_69" xml:id="co_lb_117r_69" n="69"/> </l>
-                    <l n="70"><lb facs="#co_line_117r_70" xml:id="co_lb_117r_70" n="70"/> </l>
-                    <l n="71"><lb facs="#co_line_117r_71" xml:id="co_lb_117r_71" n="71"/> </l>
-                    <l n="72"><lb facs="#co_line_117r_72" xml:id="co_lb_117r_72" n="72"/> </l>
-                    <l n="73"><lb facs="#co_line_117r_73" xml:id="co_lb_117r_73" n="73"/> </l>
-                    <l n="74"><lb facs="#co_line_117r_74" xml:id="co_lb_117r_74" n="74"/> </l>
-                    <l n="75"><lb facs="#co_line_117r_75" xml:id="co_lb_117r_75" n="75"/> </l>
-                    <l n="76"><lb facs="#co_line_117r_76" xml:id="co_lb_117r_76" n="76"/> </l>
-                    <l n="77"><lb facs="#co_line_117r_77" xml:id="co_lb_117r_77" n="77"/> </l>
-                    <l n="78"><lb facs="#co_line_117r_78" xml:id="co_lb_117r_78" n="78"/> </l>
-                    <l n="79"><lb facs="#co_line_117r_79" xml:id="co_lb_117r_79" n="79"/> </l>
-                    <l n="80"><lb facs="#co_line_117r_80" xml:id="co_lb_117r_80" n="80"/> </l>
-                    <l n="81"><lb facs="#co_line_117r_81" xml:id="co_lb_117r_81" n="81"/> </l>
-                    <l n="82"><lb facs="#co_line_117r_82" xml:id="co_lb_117r_82" n="82"/> </l>
-                    <l n="83"><lb facs="#co_line_117r_83" xml:id="co_lb_117r_83" n="83"/> </l>
-                    <l n="84"><lb facs="#co_line_117r_84" xml:id="co_lb_117r_84" n="84"/> </l>
-                    <l n="85"><lb facs="#co_line_117r_85" xml:id="co_lb_117r_85" n="85"/> </l>
-                    <l n="86"><lb facs="#co_line_117r_86" xml:id="co_lb_117r_86" n="86"/> </l>
-                    <l n="87"><lb facs="#co_line_117r_87" xml:id="co_lb_117r_87" n="87"/> </l>
-                    <l n="88"><lb facs="#co_line_117r_88" xml:id="co_lb_117r_88" n="88"/> </l>
-                    <l n="89"><lb facs="#co_line_117r_89" xml:id="co_lb_117r_89" n="89"/> </l>
-                    <l n="90"><lb facs="#co_line_117r_90" xml:id="co_lb_117r_90" n="90"/> </l>
-                    <l n="91"><lb facs="#co_line_117r_91" xml:id="co_lb_117r_91" n="91"/> </l>
-                    <l n="92"><lb facs="#co_line_117r_92" xml:id="co_lb_117r_92" n="92"/> </l>
-                    <l n="93"><lb facs="#co_line_117r_93" xml:id="co_lb_117r_93" n="93"/> </l>
-                    <l n="94"><lb facs="#co_line_117r_94" xml:id="co_lb_117r_94" n="94"/> </l>
-                    <l n="95"><lb facs="#co_line_117r_95" xml:id="co_lb_117r_95" n="95"/> </l>
-                    <l n="96"><lb facs="#co_line_117r_96" xml:id="co_lb_117r_96" n="96"/> </l>
-                    <l n="97"><lb facs="#co_line_117r_97" xml:id="co_lb_117r_97" n="97"/> </l>
-                    <l n="98"><lb facs="#co_line_117r_98" xml:id="co_lb_117r_98" n="98"/> </l>
-                    <l n="99"><lb facs="#co_line_117r_99" xml:id="co_lb_117r_99" n="99"/> </l>
-                    <l n="100"><lb facs="#co_line_117r_100" xml:id="co_lb_117r_100" n="100"/> </l>
-                    <l n="101"><lb facs="#co_line_117r_101" xml:id="co_lb_117r_101" n="101"/> </l>
-                    <l n="102"><lb facs="#co_line_117r_102" xml:id="co_lb_117r_102" n="102"/> </l>
-                    <l n="103"><lb facs="#co_line_117r_103" xml:id="co_lb_117r_103" n="103"/> </l>
-                    <l n="104"><lb facs="#co_line_117r_104" xml:id="co_lb_117r_104" n="104"/> </l>
-                    <l n="105"><lb facs="#co_line_117r_105" xml:id="co_lb_117r_105" n="105"/> </l>
-                    <l n="106"><lb facs="#co_line_117r_106" xml:id="co_lb_117r_106" n="106"/> </l>
-                    <l n="107"><lb facs="#co_line_117r_107" xml:id="co_lb_117r_107" n="107"/> </l>
-                    <l n="108"><lb facs="#co_line_117r_108" xml:id="co_lb_117r_108" n="108"/> </l>
+                    <l n="39"><lb facs="#co_line_117r_39" xml:id="co_lb_117r_39" n="39"/>nen niene chan. <persName ref="#Dankwart"><hi rend="init3.1">D</hi>anchwart</persName> <choice><abbr>d</abbr><expan>der</expan></choice> was</l>
+                    <l n="40"><lb facs="#co_line_117r_40" xml:id="co_lb_117r_40" n="40"/>marscalch do was <choice><abbr>d</abbr><expan>der</expan></choice> neve sin. trvhsæze des </l>
+                    <l n="41"><lb facs="#co_line_117r_41" xml:id="co_lb_117r_41" n="41"/>kvneges von Metzzen <persName ref="#Ortwein">Oͤrtewin</persName>. <persName ref="#Sindolt">Sindolt</persName> <choice><abbr>d</abbr><expan>der</expan></choice></l>
+                    <l n="42"><lb facs="#co_line_117r_42" xml:id="co_lb_117r_42" n="42"/>was scenche ein vͦz er welter degn. <persName ref="#Hunolt"><choice><orig>Hvͦ</orig><reg>Hvͦnolt</reg></choice></persName></l>
+                    <l n="43"><lb facs="#co_line_117r_43" xml:id="co_lb_117r_43" n="43"/>nolt was chamerære si chvnden hoher eren</l>
+                    <l n="44"><lb facs="#co_line_117r_44" xml:id="co_lb_117r_44" n="44"/>pflegn. <hi rend="init3.1">V</hi>on des hoves chrefte <choice><abbr>vn</abbr><expan>vnd</expan></choice> <choice><abbr>vo</abbr><expan>von</expan></choice></l>
+                    <l n="45"><lb facs="#co_line_117r_45" xml:id="co_lb_117r_45" n="45"/>ir wîten chraft.<choice><abbr>vo</abbr><expan>von</expan></choice> ir vil hohen werdech</l>
+                    <l n="46"><lb facs="#co_line_117r_46" xml:id="co_lb_117r_46" n="46"/>eit <choice><abbr>vn</abbr><expan>vnd</expan></choice> <choice><abbr>vo</abbr><expan>von</expan></choice> ir ritterscaft.der di herren pfla</l>
+                    <l n="47"><lb facs="#co_line_117r_47" xml:id="co_lb_117r_47" n="47"/>gen mit vroͮden all ir lebn. des <choice><abbr>enchvnd</abbr><expan>enchvnde</expan></choice></l>
+                    <l n="48"><lb facs="#co_line_117r_48" xml:id="co_lb_117r_48" n="48"/>iv ze ware niemen gar ein ende gebn.</l>
+                    <l n="49"><lb facs="#co_line_117r_49" xml:id="co_lb_117r_49" n="49"/><hi rend="init3.1">IN</hi> disen hohen eren troͮmte <persName ref="#Chriemhild">Chriemhilde</persName>.</l>
+                    <l n="50"><lb facs="#co_line_117r_50" xml:id="co_lb_117r_50" n="50"/>wie si zvge einen Valchen. starch</l>
+                    <l n="51"><lb facs="#co_line_117r_51" xml:id="co_lb_117r_51" n="51"/>scoͤn <choice><abbr>vn</abbr><expan>vnd</expan></choice> wilde. den ir zwene Aren er</l>
+                    <l n="52"><lb facs="#co_line_117r_52" xml:id="co_lb_117r_52" n="52"/>chrvmmen daz si daz mvͦste sehn. ir en</l>
+                    <l n="53"><lb facs="#co_line_117r_53" xml:id="co_lb_117r_53" n="53"/>chvnde in dirre werlde <choice><abbr>leid</abbr><expan>leider</expan></choice> <choice><abbr>nimm</abbr><expan>nimmer</expan></choice> gescehn.</l>
+                    <l n="54"><lb facs="#co_line_117r_54" xml:id="co_lb_117r_54" n="54"/><hi rend="init3.1">D</hi>en troͮm si do sagete ir mvͦter <persName ref="#Ute">Vͦten</persName>. sine</l>
+                    <l n="55"><lb facs="#co_line_117r_55" xml:id="co_lb_117r_55" n="55"/>chvndes niht besceiden baz <choice><abbr>d</abbr><expan>der</expan></choice> gvͦten. der</l>
+                    <l n="56"><lb facs="#co_line_117r_56" xml:id="co_lb_117r_56" n="56"/>Valche den dv zivhest. daz ist ein edel</l>
+                    <l n="57"><lb facs="#co_line_117r_57" xml:id="co_lb_117r_57" n="57"/>man. ine welle got behvͤten. dv mvͦst in</l>
+                    <l n="58"><lb facs="#co_line_117r_58" xml:id="co_lb_117r_58" n="58"/>sciere vloren han. <hi rend="init3.1">W</hi>az saget ir</l>
+                    <l n="59"><lb facs="#co_line_117r_59" xml:id="co_lb_117r_59" n="59"/>mir <choice><abbr>vo</abbr><expan>von</expan></choice> manne. vil liebiv mvͦter min. ane</l>
+                    <l n="60"><lb facs="#co_line_117r_60" xml:id="co_lb_117r_60" n="60"/>rechen minne. so wil ich <choice><abbr>imm</abbr><expan>immer</expan></choice> sin.svs scoͤn</l>
+                    <l n="61"><lb facs="#co_line_117r_61" xml:id="co_lb_117r_61" n="61"/>ich wil beliben. vnz an minen tot. daz</l>
+                    <l n="62"><lb facs="#co_line_117r_62" xml:id="co_lb_117r_62" n="62"/>ich <choice><abbr>vo</abbr><expan>von</expan></choice> mannes minne. sol gewinnen <choice><abbr>nimm</abbr><expan>nimmer</expan></choice></l>
+                    <l n="63"><lb facs="#co_line_117r_63" xml:id="co_lb_117r_63" n="63"/>not. <del rend="erasure">ie rede la</del><hi rend="init3.1">N</hi>v versprich</l>
+                    <l n="64"><lb facs="#co_line_117r_64" xml:id="co_lb_117r_64" n="64"/>ez niht zesere. <choice><abbr>spch</abbr><expan>sprach</expan></choice> aber ir mvͦter do. soltv</l>
+                    <l n="65"><lb facs="#co_line_117r_65" xml:id="co_lb_117r_65" n="65"/><choice><abbr>imm</abbr><expan>immer</expan></choice> hercenliche zer werlde werden vro.</l>
+                    <l n="66"><lb facs="#co_line_117r_66" xml:id="co_lb_117r_66" n="66"/>daz gesciht <choice><abbr>vo</abbr><expan>von</expan></choice> mannes minne. dv wirst</l>
+                    <l n="67"><lb facs="#co_line_117r_67" xml:id="co_lb_117r_67" n="67"/>ein scoͤne wip. ob dir noch got gefvͤget.</l>
+                    <l n="68"><lb facs="#co_line_117r_68" xml:id="co_lb_117r_68" n="68"/>eins rehte gvͦten ritters lip. <hi rend="init3.1">D</hi>i rede lat</l>
+                    <l n="69"><lb facs="#co_line_117r_69" xml:id="co_lb_117r_69" n="69"/>beliben. sprach si frowe min. ez ist an mane</l>
+                    <l n="70"><lb facs="#co_line_117r_70" xml:id="co_lb_117r_70" n="70"/>gen wiben. vil diche worden scin. wie liebe</l>
+                    <l n="71"><lb facs="#co_line_117r_71" xml:id="co_lb_117r_71" n="71"/>mit leide ze ivngest lonen chan. ich sol si </l>
+                    <l n="72"><lb facs="#co_line_117r_72" xml:id="co_lb_117r_72" n="72"/>miden beide. sone chan mir <choice><abbr>nimm</abbr><expan>nimmer</expan></choice> missegan.</l>
+                    <l n="73"><lb facs="#co_line_117r_73" xml:id="co_lb_117r_73" n="73"/><persName ref="#Chriemhild"><hi rend="init3.1">C</hi>hriemhilt</persName> in ir mvͦte. sich minne gar be</l>
+                    <l n="74"><lb facs="#co_line_117r_74" xml:id="co_lb_117r_74" n="74"/>wach. sit lebte div vil gvͦte. vil manegen</l>
+                    <l n="75"><lb facs="#co_line_117r_75" xml:id="co_lb_117r_75" n="75"/>lieben tach. daz sine wesse niemen den mi</l>
+                    <l n="76"><lb facs="#co_line_117r_76" xml:id="co_lb_117r_76" n="76"/>nnen wolde ir lip. sit wart si mit eren.</l>
+                    <l n="77"><lb facs="#co_line_117r_77" xml:id="co_lb_117r_77" n="77"/>eins vil chvͤnen rechen wip. <hi rend="init3.1">D</hi>er was</l>
+                    <l n="78"><lb facs="#co_line_117r_78" xml:id="co_lb_117r_78" n="78"/><choice><abbr>d</abbr><expan>der</expan></choice> selbe Valche. den si in ir troͮme sach.</l>
+                    <l n="79"><lb facs="#co_line_117r_79" xml:id="co_lb_117r_79" n="79"/>den ir besciet ir mvͦter. wi sere si daz</l>
+                    <l n="80"><lb facs="#co_line_117r_80" xml:id="co_lb_117r_80" n="80"/>rach. an ir næhsten mâgen. die in slvͦgen</l>
+                    <l n="81"><lb facs="#co_line_117r_81" xml:id="co_lb_117r_81" n="81"/>sint. dvrch sin eines sterben. starp vil mane</l>
+                    <l n="82"><lb facs="#co_line_117r_82" xml:id="co_lb_117r_82" n="82"/>ger mvͦter kint.</l>
+                    <l n="83"><lb facs="#co_line_117r_83" xml:id="co_lb_117r_83" n="83"/><hi rend="init3.1">D</hi>o wͦhs in <placeName ref="#Niederlande">Niderlanden</placeName>. eins vil</l>
+                    <l n="84"><lb facs="#co_line_117r_84" xml:id="co_lb_117r_84" n="84"/>edelen kvneges kint. des vater</l>
+                    <l n="85"><lb facs="#co_line_117r_85" xml:id="co_lb_117r_85" n="85"/><choice><abbr>d</abbr><expan>der</expan></choice> hiez <persName ref="#Siegmund">Sigemvnt</persName>. sin mvͦter</l>
+                    <l n="86"><lb facs="#co_line_117r_86" xml:id="co_lb_117r_86" n="86"/><persName ref="#Sieglinde">Sigelint</persName>. in einer rîchen bvͤrge.</l>
+                    <l n="87"><lb facs="#co_line_117r_87" xml:id="co_lb_117r_87" n="87"/>witen wol bechant. nidene bi dem Rine</l>
+                    <l n="88"><lb facs="#co_line_117r_88" xml:id="co_lb_117r_88" n="88"/>div was ze <placeName ref="#Xanten"><choice><orig>Santen</orig><reg>Xanten</reg></choice></placeName> genant. <persName ref="#Siegfried"><choice><orig><hi rend="init3.1">S</hi>ivrit</orig><reg>Siegfried</reg></choice></persName></l>
+                    <l n="89"><lb facs="#co_line_117r_89" xml:id="co_lb_117r_89" n="89"/>was geheizen. der snelle degen gvͦt. er ver</l>
+                    <l n="90"><lb facs="#co_line_117r_90" xml:id="co_lb_117r_90" n="90"/>svͦchte vil der riche dvrch ellenthaften mvͦt.</l>
+                    <l n="91"><lb facs="#co_line_117r_91" xml:id="co_lb_117r_91" n="91"/>dvrh sines libes sterche er reit in menegiv</l>
+                    <l n="92"><lb facs="#co_line_117r_92" xml:id="co_lb_117r_92" n="92"/>lant. hey waz er sneller degene sit cen</l>
+                    <l n="93"><lb facs="#co_line_117r_93" xml:id="co_lb_117r_93" n="93"/><orgName ref="#Burgunden">bvrgonden</orgName> vant. <hi rend="init3.1">I</hi>n sinen besten ziten</l>
+                    <l n="94"><lb facs="#co_line_117r_94" xml:id="co_lb_117r_94" n="94"/>bi sinen ivngen tagen. man mohte michel</l>
+                    <l n="95"><lb facs="#co_line_117r_95" xml:id="co_lb_117r_95" n="95"/>wnder von <persName ref="#Siegfried">Siveride</persName> sagen. waz eren an</l>
+                    <l n="96"><lb facs="#co_line_117r_96" xml:id="co_lb_117r_96" n="96"/> im wͤchse <choice><abbr>vn</abbr><expan>vnd</expan></choice> wi scoͤne was sin lip. sit he</l>
+                    <l n="97"><lb facs="#co_line_117r_97" xml:id="co_lb_117r_97" n="97"/>ten in ce minne div vil wætlichen wip.</l>
+                    <l n="98"><lb facs="#co_line_117r_98" xml:id="co_lb_117r_98" n="98"/><hi rend="init3.1">M</hi>an zoch in mit dem vlize als im daz wol</l>
+                    <l n="99"><lb facs="#co_line_117r_99" xml:id="co_lb_117r_99" n="99"/>gezam. von sin selbes mvͦte waz tvgende</l>
+                    <l n="100"><lb facs="#co_line_117r_100" xml:id="co_lb_117r_100" n="100"/>er an sich nam. des wrden sit gezieret</l>
+                    <l n="101"><lb facs="#co_line_117r_101" xml:id="co_lb_117r_101" n="101"/>sines <choice><abbr>vat</abbr><expan>vater</expan></choice> lant. daz man in ze allen dingn</l>
+                    <l n="102"><lb facs="#co_line_117r_102" xml:id="co_lb_117r_102" n="102"/>so rehte herlichen vant. <hi rend="init3.1">ER</hi> was nv so</l>
+                    <l n="103"><lb facs="#co_line_117r_103" xml:id="co_lb_117r_103" n="103"/>gewachsen daz er ze hove reit. di livte</l>
+                    <l n="104"><lb facs="#co_line_117r_104" xml:id="co_lb_117r_104" n="104"/>in sahen gerne manech froͮwe vnd manech</l>
+             
                     
                     
                     

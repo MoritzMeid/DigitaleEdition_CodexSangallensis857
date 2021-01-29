@@ -3580,7 +3580,7 @@
 									
 										{ 
 											"line" : "13|line 13",
-											"text" : "13 ne. di rechen vͦz erchorn.da zen ",
+											"text" : "13 ne. di rechen vͦz erchorn.da zen Bvrgon",
 											"tags" : "nibelungen_text|Die Nibelugen",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
@@ -3772,7 +3772,7 @@
 									
 										{ 
 											"line" : "37|line 37",
-											"text" : "37 hoves vnt derde eren derde drîer kvnege man. si",
+											"text" : "37 hoves vnt derd eren derd drîer kvnege man. si",
 											"tags" : "nibelungen_text|Die Nibelugen",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
@@ -3788,7 +3788,527 @@
 									
 										{ 
 											"line" : "39|line 39",
-											"text" : "39 nen niene chan. Danchwart derde was",
+											"text" : "39 nen niene chan. Danchwart derd was",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "40|line 40",
+											"text" : "40 marscalch do was derd neve sin. trvhsæze des",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "41|line 41",
+											"text" : "41 kvneges von Metzzen Oͤrtewin. Sindolt derd",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "42|line 42",
+											"text" : "42 was scenche ein vͦz er welter degn. Hvͦ",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "43|line 43",
+											"text" : "43 nolt was chamerære si chvnden hoher eren",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "44|line 44",
+											"text" : "44 pflegn. Von des hoves chrefte vndvn vonvo",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "45|line 45",
+											"text" : "45 ir wîten chraft.vonvo ir vil hohen werdech",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "46|line 46",
+											"text" : "46 eit vndvn vonvo ir ritterscaft.der di herren pfla",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "47|line 47",
+											"text" : "47 gen mit vroͮden all ir lebn. des enchvndeenchvnd",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "48|line 48",
+											"text" : "48 iv ze ware niemen gar ein ende gebn.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "49|line 49",
+											"text" : "49 IN disen hohen eren troͮmte Chriemhilde.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "50|line 50",
+											"text" : "50 wie si zvge einen Valchen. starch",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "51|line 51",
+											"text" : "51 scoͤn vndvn wilde. den ir zwene Aren er",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "52|line 52",
+											"text" : "52 chrvmmen daz si daz mvͦste sehn. ir en",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "53|line 53",
+											"text" : "53 chvnde in dirre werlde leiderleid nimmernimm gescehn.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "54|line 54",
+											"text" : "54 Den troͮm si do sagete ir mvͦter Vͦten. sine",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "55|line 55",
+											"text" : "55 chvndes niht besceiden baz derd gvͦten. der",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "56|line 56",
+											"text" : "56 Valche den dv zivhest. daz ist ein edel",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "57|line 57",
+											"text" : "57 man. ine welle got behvͤten. dv mvͦst in",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "58|line 58",
+											"text" : "58 sciere vloren han. Waz saget ir",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "59|line 59",
+											"text" : "59 mir vonvo manne. vil liebiv mvͦter min. ane",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "60|line 60",
+											"text" : "60 rechen minne. so wil ich immerimm sin.svs scoͤn",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "61|line 61",
+											"text" : "61 ich wil beliben. vnz an minen tot. daz",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "62|line 62",
+											"text" : "62 ich vonvo mannes minne. sol gewinnen nimmernimm",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "63|line 63",
+											"text" : "63 not. ie rede laNv versprich",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "64|line 64",
+											"text" : "64 ez niht zesere. sprachspch aber ir mvͦter do. soltv",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "65|line 65",
+											"text" : "65 immerimm hercenliche zer werlde werden vro.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "66|line 66",
+											"text" : "66 daz gesciht vonvo mannes minne. dv wirst",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "67|line 67",
+											"text" : "67 ein scoͤne wip. ob dir noch got gefvͤget.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "68|line 68",
+											"text" : "68 eins rehte gvͦten ritters lip. Di rede lat",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "69|line 69",
+											"text" : "69 beliben. sprach si frowe min. ez ist an mane",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "70|line 70",
+											"text" : "70 gen wiben. vil diche worden scin. wie liebe",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "71|line 71",
+											"text" : "71 mit leide ze ivngest lonen chan. ich sol si",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "72|line 72",
+											"text" : "72 miden beide. sone chan mir nimmernimm missegan.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "73|line 73",
+											"text" : "73 Chriemhilt in ir mvͦte. sich minne gar be",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "74|line 74",
+											"text" : "74 wach. sit lebte div vil gvͦte. vil manegen",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "75|line 75",
+											"text" : "75 lieben tach. daz sine wesse niemen den mi",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "76|line 76",
+											"text" : "76 nnen wolde ir lip. sit wart si mit eren.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "77|line 77",
+											"text" : "77 eins vil chvͤnen rechen wip. Der was",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "78|line 78",
+											"text" : "78 derd selbe Valche. den si in ir troͮme sach.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "79|line 79",
+											"text" : "79 den ir besciet ir mvͦter. wi sere si daz",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "80|line 80",
+											"text" : "80 rach. an ir næhsten mâgen. die in slvͦgen",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "81|line 81",
+											"text" : "81 sint. dvrch sin eines sterben. starp vil mane",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "82|line 82",
+											"text" : "82 ger mvͦter kint.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "83|line 83",
+											"text" : "83 Do wͦhs in Niderlanden. eins vil",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "84|line 84",
+											"text" : "84 edelen kvneges kint. des vater",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "85|line 85",
+											"text" : "85 derd hiez Sigemvnt. sin mvͦter",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "86|line 86",
+											"text" : "86 Sigelint. in einer rîchen bvͤrge.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "87|line 87",
+											"text" : "87 witen wol bechant. nidene bi dem Rine",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "88|line 88",
+											"text" : "88 div was ze Santen genant. Sivrit",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "89|line 89",
+											"text" : "89 was geheizen. der snelle degen gvͦt. er ver",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "90|line 90",
+											"text" : "90 svͦchte vil der riche dvrch ellenthaften mvͦt.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "91|line 91",
+											"text" : "91 dvrh sines libes sterche er reit in menegiv",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "92|line 92",
+											"text" : "92 lant. hey waz er sneller degene sit cen",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "93|line 93",
+											"text" : "93 bvrgonden vant. In sinen besten ziten",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "94|line 94",
+											"text" : "94 bi sinen ivngen tagen. man mohte michel",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "95|line 95",
+											"text" : "95 wnder von Siveride sagen. waz eren an",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "96|line 96",
+											"text" : "96 im wͤchse vndvn wi scoͤne was sin lip. sit he",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "97|line 97",
+											"text" : "97 ten in ce minne div vil wætlichen wip.",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "98|line 98",
+											"text" : "98 Man zoch in mit dem vlize als im daz wol",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "99|line 99",
+											"text" : "99 gezam. von sin selbes mvͦte waz tvgende",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "100|line 100",
+											"text" : "100 er an sich nam. des wrden sit gezieret",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "101|line 101",
+											"text" : "101 sines vatervat lant. daz man in ze allen dingn",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "102|line 102",
+											"text" : "102 so rehte herlichen vant. ER was nv so",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "103|line 103",
+											"text" : "103 gewachsen daz er ze hove reit. di livte",
+											"tags" : "nibelungen_text|Die Nibelugen",
+											"loc" : "co_fol_117r|117r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "104|line 104",
+											"text" : "104 in sahen gerne manech froͮwe vnd manech",
 											"tags" : "nibelungen_text|Die Nibelugen",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
