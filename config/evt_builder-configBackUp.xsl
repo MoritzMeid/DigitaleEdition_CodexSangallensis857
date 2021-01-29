@@ -48,7 +48,6 @@
               <!-- IT: Attiva/Disattiva vista doppia pagina -->
               <!-- default: true() --><xsl:param name="double_view" select="true()"/><!-- ################ -->
               <!-- PREFATORY MATTER -->
-              <!-- ################ -->
 
               <!-- EN: On/Off regesto -->
               <!-- IT: Attiva/Disattiva regesto -->
@@ -179,7 +178,7 @@
                 <!-- IT: Attiva/disattiva lista luoghi -->
                 <!-- default: true() --><xsl:param name="list_place" select="true()"/><!-- EN: On/Off orgName list -->
                   <!-- IT: Attiva/disattiva lista organizzazioni -->
-                  <!-- default: true() --><xsl:param name="list_org" select="true()"/><!-- EN: On/Off term list -->
+                  <!-- default: true() --><xsl:param name="list_org" select="false()"/><!-- EN: On/Off term list -->
                     <!-- IT: Attiva/disattiva lista terms -->
                     <!-- default: true() --><xsl:param name="list_term" select="false()"/><!-- EN: On/Off gloss list -->
                       <!-- IT: Attiva/disattiva lista glosses -->
@@ -193,7 +192,7 @@
           <!-- IT: E' possibile personalizzare gli elementi che compariranno nell'elenco dei filtri che
           selezionano particolari paroli o gruppi di parole. Per rimuovere un elemento basta eliminare tutto l'elemento di interesse.
           Per aggiungere un elemento alla lista basta sapere che il tag fa riferimento alla classe data all'elemento
-          html con il quale sono state marcate le parole "particolari" da selezionare. --><xsl:param name="lists" as="element()*"><group label="NAMED_ENTITIES" active="true"><persName active="true"/><placeName active="true"/><orgName active="true" label="Organisations"/></group><group label="INTERESTING_ELEMENTS" active="false"><roleName active="true"/><measure active="true"/><date active="true"/><foreign active="true"/></group><group label="STAGES" active="false"><setting active="true"/><entrance active="true"/><exit active="true"/><business active="true"/><delivery active="true"/><modifier active="true"/><novelistic active="true"/><mixed active="true"/></group><group label="OTHERS" active="false"><seg active="true" label="KENNING" type="kenning"/></group></xsl:param><!-- EN: Information about EVT -->
+          html con il quale sono state marcate le parole "particolari" da selezionare. --><xsl:param name="lists" as="element()*"><group label="NAMED_ENTITIES" active="true"><persName active="true"/><placeName active="true"/><orgName active="true"/></group><group label="INTERESTING_ELEMENTS" active="false"><roleName active="true"/><measure active="true"/><date active="true"/><foreign active="true"/></group><group label="STAGES" active="false"><setting active="true"/><entrance active="true"/><exit active="true"/><business active="true"/><delivery active="true"/><modifier active="true"/><novelistic active="true"/><mixed active="true"/></group><group label="OTHERS" active="false"><seg active="true" label="KENNING" type="kenning"/></group></xsl:param><!-- EN: Information about EVT -->
             <!-- IT: Informazioni su EVT  --><xsl:param name="evtTxt">
 		<p xmlns="http://www.w3.org/1999/xhtml">EVT (Edition Visualization Technology) is a software for creating and browsing digital editions of manuscripts
 			based on text encoded according to the TEI XML schemas and Guidelines. This tool was born as part of the DVB (<a href="http://vbd.humnet.unipi.it/" target="blank"> Digital Vercelli Book</a>) project in order to allow the

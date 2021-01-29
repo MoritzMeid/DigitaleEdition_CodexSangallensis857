@@ -150,9 +150,68 @@
                     <person xml:id="Christus">
                         <persName>Christus</persName>
                     </person>
-                    <person xml:id="Adam">
-                        <persName>Adam</persName>
-                        <note>See <ref target="http://dbpedia.org/page/Adam">Adam</ref> on DBpedia.</note>
+                    <person xml:id="Gahmuret">
+                        <persName>Gahmuret</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Gahmuret">Gahmuret</ref> auf Wikipedia.</note>
+                    </person>
+                    <person xml:id="Chriemhild">
+                        <persName>Kriemhild</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Kriemhild_(Sage)">Kriemhild</ref> auf Wikipedia.</note>
+                    </person>
+                    <person xml:id="Gunther">
+                        <persName>Gunther</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Gundahar">Gunther</ref> auf Wikipedia.</note>
+                    </person>
+                    <person xml:id="Giselher">
+                        <persName>Giselher</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Giselher">Giselher</ref> auf Wikipedia.</note>
+                    </person>
+                    <person xml:id="Gernot">
+                        <persName>Gernot</persName>
+                    </person>
+                    <person xml:id="Etzel">
+                        <persName>Etzel</persName>
+                        <note>Unter dem Namen Etzel ist wohl der Hunnenkönig <ref target="https://de.wikipedia.org/wiki/Attila">Attila</ref> gemeint.</note>
+                    </person>
+                    <person xml:id="Ute">
+                        <persName>Ute</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Ute_(Nibelungen)">Ute</ref> auf Wikipedia.</note>                        
+                    </person>
+                    <person xml:id="Dankrat">
+                        <persName>Dankrat</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Gibica">Dankrat</ref> auf Wikipedia.</note>
+                    </person>
+                    <person xml:id="HagenvonTronje">
+                        <persName>Hagen von Tronje</persName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Hagen_von_Tronje">Hagen von Tronje</ref> auf Wikipedia.</note>
+                    </person>
+                    <person xml:id="Dankwart">
+                        <persName>Dankwart</persName>
+                        <note>Der Bruder Hagen von Tronjes und Hofmarschall zu Worms.</note>
+                    </person>
+                    <person xml:id="Ortwein">
+                        <persName>Ortwein</persName>
+                    </person>
+                    <person xml:id="Gere">
+                        <persName>Gere</persName>
+                    </person>
+                    <person xml:id="Eckewart">
+                        <persName>Eckewart</persName>
+                    </person>
+                    <person xml:id="VolkervonAlzei">
+                        <persName>Volker von Alzei</persName>
+                    </person>
+                    <person xml:id="RumoltderKüchenmeister">
+                        <persName>Rumolt der Küchenmeister</persName>
+                        <note>Küchenmeister des Wormser Hofes.</note>
+                    </person>
+                    <person xml:id="Sindolt">
+                        <persName>Sindolt</persName>
+                        <note>Mundschenk des Königshauses zu Worms.</note>
+                    </person>
+                    <person xml:id="Hunolt">
+                        <persName>Hunolt</persName>
+                        <note>Kämmerer zum Hofe Worms.</note>
                     </person>
                 </listPerson>
                 <listPlace>
@@ -162,7 +221,25 @@
                     <place xml:id="Hölle">
                         <placeName>Hölle</placeName>
                     </place>
+                    <place xml:id="Burgund">
+                       <placeName>Burgund</placeName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Burgund">Burgund</ref> auf Wikipedia.</note>                        
+                    </place>
+                    <place xml:id="EtzelsLand">
+                        <placeName>Etzels Land</placeName>
+                        <note>Gemeint ist das Königreicht des Köngis <persName ref="#Etzel">Etzel</persName></note>
+                    </place>
+                    <place xml:id="Worms">
+                        <placeName>Worms</placeName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Worms">Worms am Rhein</ref> auf Wikipedia.</note>
+                    </place>
                 </listPlace>
+                <listOrg>
+                    <org xml:id="Nibelungen">
+                        <orgName>Nibelungen</orgName>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Nibelungen#:~:text=Nibelungen%20steht%20für%3A,hochmittelalterlicher%20Familienverband%20im%20Wormser%20Raum">Nibelungen</ref> auf Wikipedia.</note>
+                    </org>
+                </listOrg>
             </sourceDesc>
         </fileDesc> 
         <revisionDesc>
@@ -842,7 +919,7 @@
             <zone xml:id="co_line_2r_108" corresp="#co_lb_2r_108" rend="visible" rendition="Line"
                 ulx="646" uly="1623" lrx="1015" lry="1657" />
         </surface>
-        <surface>
+        <surface xml:id="co_surf_2v" corresp="#co_fol_2v">
             <graphic url="/co_fol_2v.jpg" width='1431px' height='2010px' />
             <!-- right column -->
             <zone xml:id="co_line_2v_01" corresp="#co_lb_2v_01" rend="visible" rendition="Line"
@@ -1063,6 +1140,223 @@
             <zone xml:id="co_line_2v_108" corresp="#co_lb_2v_108" rend="visible" rendition="Line"
                 ulx="815" uly="1633" lrx="1072" lry="1659" />
         </surface>
+        
+        <surface xml:id="co_surf_117r" corresp="#co_fol_117r">
+           
+            <graphic url='co_fol_117r.jpg' width='1431px' height='2010px' />
+            <zone xml:id="co_line_117r_0" corresp="#co_lb_117r_0" rend="visible" rendition="Line"
+                ulx="402" uly="46" lrx="740" lry="85" />
+            <!-- Left Collumn -->
+            <zone xml:id="co_line_117r_01" corresp="#co_lb_117r_01" rend="visible" rendition="Line"
+                ulx="258" uly="171" lrx="535" lry="200" />
+            <zone xml:id="co_line_117r_02" corresp="#co_lb_117r_02" rend="visible" rendition="Line"
+                ulx="263" uly="209" lrx="549" lry="231" />
+            <zone xml:id="co_line_117r_03" corresp="#co_lb_117r_03" rend="visible" rendition="Line"
+                ulx="263" uly="238" lrx="570" lry="256" />
+            <zone xml:id="co_line_117r_04" corresp="#co_lb_117r_04" rend="visible" rendition="Line"
+                ulx="264" uly="261" lrx="558" lry="284" />
+            <zone xml:id="co_line_117r_05" corresp="#co_lb_117r_05" rend="visible" rendition="Line"
+                ulx="262" uly="289" lrx="549" lry="305" />
+            <zone xml:id="co_line_117r_06" corresp="#co_lb_117r_06" rend="visible" rendition="Line"
+                ulx="90" uly="318" lrx="488" lry="337" />
+            <zone xml:id="co_line_117r_07" corresp="#co_lb_117r_07" rend="visible" rendition="Line"
+                ulx="93" uly="348" lrx="560" lry="362" />
+            <zone xml:id="co_line_117r_08" corresp="#co_lb_117r_08" rend="visible" rendition="Line"
+                ulx="96" uly="372" lrx="561" lry="395" />
+            <zone xml:id="co_line_117r_09" corresp="#co_lb_117r_09" rend="visible" rendition="Line"
+                ulx="90" uly="401" lrx="555" lry="425" />
+            <zone xml:id="co_line_117r_10" corresp="#co_lb_117r_10" rend="visible" rendition="Line"
+                ulx="94" uly="424" lrx="555" lry="454" />
+            <zone xml:id="co_line_117r_11" corresp="#co_lb_117r_11" rend="visible" rendition="Line"
+                ulx="96" uly="467" lrx="557" lry="486" />
+            <zone xml:id="co_line_117r_12" corresp="#co_lb_117r_12" rend="visible" rendition="Line"
+                ulx="95" uly="490" lrx="565" lry="516" />
+            <zone xml:id="co_line_117r_13" corresp="#co_lb_117r_13" rend="visible" rendition="Line"
+                ulx="94" uly="525" lrx="565" lry="539" />
+            <zone xml:id="co_line_117r_14" corresp="#co_lb_117r_14" rend="visible" rendition="Line"
+                ulx="93" uly="541" lrx="554" lry="573" />
+            <zone xml:id="co_line_117r_15" corresp="#co_lb_117r_15" rend="visible" rendition="Line"
+                ulx="93" uly="578" lrx="552" lry="605" />
+            <zone xml:id="co_line_117r_16" corresp="#co_lb_117r_16" rend="visible" rendition="Line"
+                ulx="97" uly="616" lrx="536" lry="629" />
+            <zone xml:id="co_line_117r_17" corresp="#co_lb_117r_17" rend="visible" rendition="Line"
+                ulx="96" uly="638" lrx="557" lry="660" />
+            <zone xml:id="co_line_117r_18" corresp="#co_lb_117r_18" rend="visible" rendition="Line"
+                ulx="98" uly="671" lrx="556" lry="688" />
+            <zone xml:id="co_line_117r_19" corresp="#co_lb_117r_19" rend="visible" rendition="Line"
+                ulx="102" uly="691" lrx="556" lry="715" />
+            <zone xml:id="co_line_117r_20" corresp="#co_lb_117r_20" rend="visible" rendition="Line"
+                ulx="100" uly="723" lrx="548" lry="751" />
+            <zone xml:id="co_line_117r_21" corresp="#co_lb_117r_21" rend="visible" rendition="Line"
+                ulx="99" uly="755" lrx="550" lry="776" />
+            <zone xml:id="co_line_117r_22" corresp="#co_lb_117r_22" rend="visible" rendition="Line"
+                ulx="101" uly="779" lrx="550" lry="804" />
+            <zone xml:id="co_line_117r_23" corresp="#co_lb_117r_23" rend="visible" rendition="Line"
+                ulx="105" uly="810" lrx="553" lry="834" />
+            <zone xml:id="co_line_117r_24" corresp="#co_lb_117r_24" rend="visible" rendition="Line"
+                ulx="101" uly="841" lrx="551" lry="872" />
+            <zone xml:id="co_line_117r_25" corresp="#co_lb_117r_25" rend="visible" rendition="Line"
+                ulx="106" uly="863" lrx="557" lry="897" />
+            <zone xml:id="co_line_117r_26" corresp="#co_lb_117r_26" rend="visible" rendition="Line"
+                ulx="101" uly="897" lrx="553" lry="922" />
+            <zone xml:id="co_line_117r_27" corresp="#co_lb_117r_27" rend="visible" rendition="Line"
+                ulx="105" uly="935" lrx="543" lry="956" />
+            <zone xml:id="co_line_117r_28" corresp="#co_lb_117r_28" rend="visible" rendition="Line"
+                ulx="105" uly="957" lrx="551" lry="980" />
+            <zone xml:id="co_line_117r_29" corresp="#co_lb_117r_29" rend="visible" rendition="Line"
+                ulx="101" uly="985" lrx="554" lry="1011" />
+            <zone xml:id="co_line_117r_30" corresp="#co_lb_117r_30" rend="visible" rendition="Line" 
+                ulx="108" uly="1019" lrx="543" lry="1032" />
+            <zone xml:id="co_line_117r_31" corresp="#co_lb_117r_31" rend="visible" rendition="Line"
+                ulx="106" uly="1036" lrx="551" lry="1058" />
+            <zone xml:id="co_line_117r_32" corresp="#co_lb_117r_32" rend="visible" rendition="Line"
+                ulx="108" uly="1069" lrx="550" lry="1095" />
+            <zone xml:id="co_line_117r_33" corresp="#co_lb_117r_33" rend="visible" rendition="Line"
+                ulx="106" uly="1100" lrx="544" lry="1122" />
+            <zone xml:id="co_line_117r_34" corresp="#co_lb_117r_34" rend="visible" rendition="Line"
+                ulx="113" uly="1123" lrx="547" lry="1153" />
+            <zone xml:id="co_line_117r_35" corresp="#co_lb_117r_35" rend="visible" rendition="Line"
+                ulx="108" uly="1166" lrx="536" lry="1188" />
+            <zone xml:id="co_line_117r_36" corresp="#co_lb_117r_36" rend="visible" rendition="Line"
+                ulx="100" uly="1195" lrx="536" lry="1221" />
+            <zone xml:id="co_line_117r_37" corresp="#co_lb_117r_37" rend="visible" rendition="Line"
+                ulx="102" uly="1229" lrx="545" lry="1252" />
+            <zone xml:id="co_line_117r_38" corresp="#co_lb_117r_38" rend="visible" rendition="Line"
+                ulx="100" uly="1257" lrx="553" lry="1283" />
+            <zone xml:id="co_line_117r_39" corresp="#co_lb_117r_39" rend="visible" rendition="Line"
+                ulx="104" uly="1290" lrx="554" lry="1309" />
+            <zone xml:id="co_line_117r_40" corresp="#co_lb_117r_40" rend="visible" rendition="Line"
+                ulx="103" uly="1315" lrx="566" lry="1340" />
+            <zone xml:id="co_line_117r_41" corresp="#co_lb_117r_41" rend="visible" rendition="Line"
+                ulx="99" uly="1343" lrx="556" lry="1369" />
+            <zone xml:id="co_line_117r_42" corresp="#co_lb_117r_42" rend="visible" rendition="Line"
+                ulx="101" uly="1375" lrx="551" lry="1403" />
+            <zone xml:id="co_line_117r_43" corresp="#co_lb_117r_43" rend="visible" rendition="Line"
+                ulx="102" uly="1405" lrx="557" lry="1425" />
+            <zone xml:id="co_line_117r_44" corresp="#co_lb_117r_44" rend="visible" rendition="Line"
+                ulx="107" uly="1430" lrx="552" lry="1454" />
+            <zone xml:id="co_line_117r_45" corresp="#co_lb_117r_45" rend="visible" rendition="Line"
+                ulx="105" uly="1463" lrx="555" lry="1486" />
+            <zone xml:id="co_line_117r_46" corresp="#co_lb_117r_46" rend="visible" rendition="Line"
+                ulx="99" uly="1491" lrx="559" lry="1512" />
+            <zone xml:id="co_line_117r_47" corresp="#co_lb_117r_47" rend="visible" rendition="Line"
+                ulx="98" uly="1522" lrx="556" lry="1546" />
+            <zone xml:id="co_line_117r_48" corresp="#co_lb_117r_48" rend="visible" rendition="Line"
+                ulx="101" uly="1558" lrx="551" lry="1576" />
+            <zone xml:id="co_line_117r_49" corresp="#co_lb_117r_49" rend="visible" rendition="Line"
+                ulx="98" uly="1580" lrx="567" lry="1611" />
+            <zone xml:id="co_line_117r_50" corresp="#co_lb_117r_50" rend="visible" rendition="Line"
+                ulx="98" uly="1614" lrx="547" lry="1634" />
+            <zone xml:id="co_line_117r_51" corresp="#co_lb_117r_51" rend="visible" rendition="Line"
+                ulx="98" uly="1641" lrx="550" lry="1662" />
+            <!-- Right Collumn -->
+            <zone xml:id="co_line_117r_52" corresp="#co_lb_117r_52" rend="visible" rendition="Line"
+                ulx="605" uly="77" lrx="1066" lry="115" />
+            <zone xml:id="co_line_117r_53" corresp="#co_lb_117r_53" rend="visible" rendition="Line"
+                ulx="616" uly="101" lrx="1072" lry="141" />
+            <zone xml:id="co_line_117r_54" corresp="#co_lb_117r_54" rend="visible" rendition="Line"
+                ulx="614" uly="134" lrx="1068" lry="169" />
+            <zone xml:id="co_line_117r_55" corresp="#co_lb_117r_55" rend="visible" rendition="Line"
+                ulx="608" uly="165" lrx="1070" lry="199" />
+            <zone xml:id="co_line_117r_56" corresp="#co_lb_117r_56" rend="visible" rendition="Line"
+                ulx="612" uly="190" lrx="1057" lry="228" />
+            <zone xml:id="co_line_117r_57" corresp="#co_lb_117r_57" rend="visible" rendition="Line"
+                ulx="608" uly="217" lrx="1057" lry="255" />
+            <zone xml:id="co_line_117r_58" corresp="#co_lb_117r_58" rend="visible" rendition="Line"
+                ulx="609" uly="245" lrx="1063" lry="279" />
+            <zone xml:id="co_line_117r_59" corresp="#co_lb_117r_59" rend="visible" rendition="Line"
+                ulx="616" uly="281" lrx="1082" lry="301" />
+            <zone xml:id="co_line_117r_60" corresp="#co_lb_117r_60" rend="visible" rendition="Line"
+                ulx="617" uly="300" lrx="1085" lry="334" />
+            <zone xml:id="co_line_117r_61" corresp="#co_lb_117r_61" rend="visible" rendition="Line"
+                ulx="615" uly="333" lrx="1098" lry="361" />
+            <zone xml:id="co_line_117r_62" corresp="#co_lb_117r_62" rend="visible" rendition="Line"
+                ulx="615" uly="362" lrx="1099" lry="393" />
+            <zone xml:id="co_line_117r_63" corresp="#co_lb_117r_63" rend="visible" rendition="Line"
+                ulx="612" uly="391" lrx="1090" lry="420" />
+            <zone xml:id="co_line_117r_64" corresp="#co_lb_117r_64" rend="visible" rendition="Line"
+                ulx="615" uly="419" lrx="1088" lry="452" />
+            <zone xml:id="co_line_117r_65" corresp="#co_lb_117r_65" rend="visible" rendition="Line"
+                ulx="612" uly="455" lrx="1088" lry="480" />
+            <zone xml:id="co_line_117r_66" corresp="#co_lb_117r_66" rend="visible" rendition="Line"
+                ulx="617" uly="476" lrx="1073" lry="510" />
+            <zone xml:id="co_line_117r_67" corresp="#co_lb_117r_67" rend="visible" rendition="Line"
+                ulx="611" uly="507" lrx="1064" lry="541" />
+            <zone xml:id="co_line_117r_68" corresp="#co_lb_117r_68" rend="visible" rendition="Line"
+                ulx="612" uly="534" lrx="1079" lry="564" />
+            <zone xml:id="co_line_117r_69" corresp="#co_lb_117r_69" rend="visible" rendition="Line"
+                ulx="612" uly="565" lrx="1079" lry="595" />
+            <zone xml:id="co_line_117r_70" corresp="#co_lb_117r_70" rend="visible" rendition="Line"
+                ulx="609" uly="594" lrx="1077" lry="633" />
+            <zone xml:id="co_line_117r_71" corresp="#co_lb_117r_71" rend="visible" rendition="Line"
+                ulx="618" uly="620" lrx="1083" lry="658" />
+            <zone xml:id="co_line_117r_72" corresp="#co_lb_117r_72" rend="visible" rendition="Line"
+                ulx="621" uly="651" lrx="1104" lry="687" />
+            <zone xml:id="co_line_117r_73" corresp="#co_lb_117r_73" rend="visible" rendition="Line"
+                ulx="616" uly="687" lrx="1089" lry="721" />
+            <zone xml:id="co_line_117r_74" corresp="#co_lb_117r_74" rend="visible" rendition="Line"
+                ulx="616" uly="718" lrx="1073" lry="747" />
+            <zone xml:id="co_line_117r_75" corresp="#co_lb_117r_75" rend="visible" rendition="Line"
+                ulx="615" uly="741" lrx="1092" lry="772" />
+            <zone xml:id="co_line_117r_76" corresp="#co_lb_117r_76" rend="visible" rendition="Line"
+                ulx="622" uly="764" lrx="1096" lry="801" />
+            <zone xml:id="co_line_117r_77" corresp="#co_lb_117r_77" rend="visible" rendition="Line"
+                ulx="628" uly="796" lrx="1097" lry="829" />
+            <zone xml:id="co_line_117r_78" corresp="#co_lb_117r_78" rend="visible" rendition="Line"
+                ulx="619" uly="831" lrx="1075" lry="857" />
+            <zone xml:id="co_line_117r_79" corresp="#co_lb_117r_79" rend="visible" rendition="Line"
+                ulx="612" uly="850" lrx="1075" lry="888" />
+            <zone xml:id="co_line_117r_80" corresp="#co_lb_117r_80" rend="visible" rendition="Line"
+                ulx="615" uly="881" lrx="1102" lry="925" />
+            <zone xml:id="co_line_117r_81" corresp="#co_lb_117r_81" rend="visible" rendition="Line"
+                ulx="624" uly="921" lrx="1100" lry="947" />
+            <zone xml:id="co_line_117r_82" corresp="#co_lb_117r_82" rend="visible" rendition="Line"
+                ulx="745" uly="953" lrx="967" lry="986" />
+            <zone xml:id="co_line_117r_83" corresp="#co_lb_117r_83" rend="visible" rendition="Line"
+                ulx="742" uly="997" lrx="1105" lry="1032" />
+            <zone xml:id="co_line_117r_84" corresp="#co_lb_117r_84" rend="visible" rendition="Line"
+                ulx="746" uly="1031" lrx="1095" lry="1059" />
+            <zone xml:id="co_line_117r_85" corresp="#co_lb_117r_85" rend="visible" rendition="Line"
+                ulx="751" uly="1053" lrx="1095" lry="1087" />
+            <zone xml:id="co_line_117r_86" corresp="#co_lb_117r_86" rend="visible" rendition="Line"
+                ulx="744" uly="1086" lrx="1089" lry="1126" />
+            <zone xml:id="co_line_117r_87" corresp="#co_lb_117r_87" rend="visible" rendition="Line"
+                ulx="623" uly="1122" lrx="1086" lry="1153" />
+            <zone xml:id="co_line_117r_88" corresp="#co_lb_117r_88" rend="visible" rendition="Line"
+                ulx="623" uly="1153" lrx="1086" lry="1187" />
+            <zone xml:id="co_line_117r_89" corresp="#co_lb_117r_89" rend="visible" rendition="Line"
+                ulx="632" uly="1185" lrx="1089" lry="1219" />
+            <zone xml:id="co_line_117r_90" corresp="#co_lb_117r_90" rend="visible" rendition="Line"
+                ulx="619" uly="1213" lrx="1117" lry="1253" />
+            <zone xml:id="co_line_117r_91" corresp="#co_lb_117r_91" rend="visible" rendition="Line"
+                ulx="622" uly="1249" lrx="1122" lry="1281" />
+            <zone xml:id="co_line_117r_92" corresp="#co_lb_117r_92" rend="visible" rendition="Line"
+                ulx="621" uly="1282" lrx="1088" lry="1310" />
+            <zone xml:id="co_line_117r_93" corresp="#co_lb_117r_93" rend="visible" rendition="Line"
+                ulx="621" uly="1305" lrx="1086" lry="1339" />
+            <zone xml:id="co_line_117r_94" corresp="#co_lb_117r_94" rend="visible" rendition="Line"
+                ulx="628" uly="1332" lrx="1106" lry="1367" />
+            <zone xml:id="co_line_117r_95" corresp="#co_lb_117r_95" rend="visible" rendition="Line"
+                ulx="632" uly="1365" lrx="1105" lry="1399" />
+            <zone xml:id="co_line_117r_96" corresp="#co_lb_117r_96" rend="visible" rendition="Line"
+                ulx="625" uly="1399" lrx="1096" lry="1430" />
+            <zone xml:id="co_line_117r_97" corresp="#co_lb_117r_97" rend="visible" rendition="Line"
+                ulx="628" uly="1430" lrx="1097" lry="1454" />
+            <zone xml:id="co_line_117r_98" corresp="#co_lb_117r_98" rend="visible" rendition="Line"
+                ulx="624" uly="1454" lrx="1109" lry="1487" />
+            <zone xml:id="co_line_117r_99" corresp="#co_lb_117r_99" rend="visible" rendition="Line"
+                ulx="624" uly="1482" lrx="1111" lry="1520" />
+            <zone xml:id="co_line_117r_100" corresp="#co_lb_117r_100" rend="visible" rendition="Line"
+                ulx="630" uly="1508" lrx="1091" lry="1548" />
+            <zone xml:id="co_line_117r_101" corresp="#co_lb_117r_101" rend="visible" rendition="Line"
+                ulx="625" uly="1544" lrx="1098" lry="1581" />
+            <zone xml:id="co_line_117r_102" corresp="#co_lb_117r_102" rend="visible" rendition="Line"
+                ulx="622" uly="1579" lrx="1095" lry="1608" />
+            <zone xml:id="co_line_117r_103" corresp="#co_lb_117r_103" rend="visible" rendition="Line"
+                ulx="622" uly="1601" lrx="1090" lry="1637" />
+            <zone xml:id="co_line_117r_104" corresp="#co_lb_117r_104" rend="visible" rendition="Line"
+                ulx="629" uly="1632" lrx="1085" lry="1662" />
+        </surface>
     </facsimile>
     <text>
         <front>
@@ -1246,7 +1540,7 @@
                     <l n="34"><lb facs="#co_line_1v_34" xml:id="co_lb_1v_34" n="34"/>unz an daz elter kint.</l>
                     <l n="35"><lb facs="#co_line_1v_35" xml:id="co_lb_1v_35" n="35"/>daz ist ein fremdiv zeche.</l>
                     <l n="36"><lb facs="#co_line_1v_36" xml:id="co_lb_1v_36" n="36"/>der chivsche und der vreche.</l>
-                    <l n="37"><lb facs="#co_line_1v_37" xml:id="co_lb_1v_37" n="37"/>Gagmuret der wigant.</l>
+                    <l n="37"><lb facs="#co_line_1v_37" xml:id="co_lb_1v_37" n="37"/><persName ref="#Gahmuret"><choice><orig>Gagmuret</orig><reg>Gahmuret</reg></choice></persName>der wigant.</l>
                     <l n="38"><lb facs="#co_line_1v_38" xml:id="co_lb_1v_38" n="38"/>verlós sus burge und lant.</l>
                     <l n="39"><lb facs="#co_line_1v_39" xml:id="co_lb_1v_39" n="39"/>da sin vater schône.</l>
                     <l n="40"><lb facs="#co_line_1v_40" xml:id="co_lb_1v_40" n="40"/>truͦch <choice><abbr>sceptru</abbr><expan>sceptrum</expan></choice> und die chrone.</l>
@@ -1300,7 +1594,7 @@
                     <l n="88"><lb facs="#co_line_1v_88" xml:id="co_lb_1v_88" n="88"/>diz was in ein liber tac.</l>
                     <l n="89"><lb facs="#co_line_1v_89" xml:id="co_lb_1v_89" n="89"/>ieslicher im svnder neich.</l>
                     <l n="90"><lb facs="#co_line_1v_90" xml:id="co_lb_1v_90" n="90"/>Gahmvret niht langer sweich.</l>
-                    <l n="91"><lb facs="#co_line_1v_91" xml:id="co_lb_1v_91" n="91"/>der volge als im sin herze iach.</l>
+                    <l n="91"><lb facs="#co_line_1v_91" xml:id="co_lb_1v_91" n="91"/>der volge als im sin herze iach.</l>       
                     <l n="92"><lb facs="#co_line_1v_92" xml:id="co_lb_1v_92" n="92"/>zem kvͦnege er gvͦtliche sprach.</l>
                     <l n="93"><lb facs="#co_line_1v_93" xml:id="co_lb_1v_93" n="93"/>herre unde brvͦder min.</l>
                     <l n="94"><lb facs="#co_line_1v_94" xml:id="co_lb_1v_94" n="94"/>wolt ich ingesinde sin.</l>
@@ -1443,113 +1737,112 @@
                     <l n="7"><lb facs="#co_line_2v_07" xml:id="co_lb_2v_07" n="7"/>als im min dinest danken sol.</l>
                     <l n="8"><lb facs="#co_line_2v_08" xml:id="co_lb_2v_08" n="8"/>ich getruͦwe iv des uil wol.</l>
                     <l n="9"><lb facs="#co_line_2v_09" xml:id="co_lb_2v_09" n="9"/>daz ir in deste werder hat.</l>
-                    <l n="10"><lb facs="#co_line_2v_10" xml:id="co_lb_2v_10" n="10"/>Als uns div aventiure saget</l>
-                    <l n="11"><lb facs="#co_line_2v_11" xml:id="co_lb_2v_11" n="11"/>Do helt he-*-t der helt vnverzaget.</l>
-                    <l n="12"><lb facs="#co_line_2v_12" xml:id="co_lb_2v_12" n="12"/>enpfangen durch liebe chraft.</l>
-                    <l n="13"><lb facs="#co_line_2v_13" xml:id="co_lb_2v_13" n="13"/>unt dur wiplich geselleschaft.</l>
-                    <l n="14"><lb facs="#co_line_2v_14" xml:id="co_lb_2v_14" n="14"/>chleinôtes tvsent marke wert.</l>
-                    <l n="15"><lb facs="#co_line_2v_15" xml:id="co_lb_2v_15" n="15"/>swa noch ein ivde pfandes gert.</l>
-                    <l n="16"><lb facs="#co_line_2v_16" xml:id="co_lb_2v_16" n="16"/>er mohtez der fvr enphahen.</l>
-                    <l n="17"><lb facs="#co_line_2v_17" xml:id="co_lb_2v_17" n="17"/>ez endorft im niht versmahen.</l>
-                    <l n="18"><lb facs="#co_line_2v_18" xml:id="co_lb_2v_18" n="18"/>daz sande im ein sin frivdin.</l>
-                    <l n="19"><lb facs="#co_line_2v_19" xml:id="co_lb_2v_19" n="19"/>an sinem dinste lac gewin.</l>
-                    <l n="20"><lb facs="#co_line_2v_20" xml:id="co_lb_2v_20" n="20"/>der wibe minne und ir gruͦz.</l>
-                    <l n="21"><lb facs="#co_line_2v_21" xml:id="co_lb_2v_21" n="21"/>doch wart im selten kvmbers bvͦz.</l>
-                    <l n="22"><lb facs="#co_line_2v_22" xml:id="co_lb_2v_22" n="22"/>vrloͮp nam der wigant.</l>
-                    <l n="23"><lb facs="#co_line_2v_23" xml:id="co_lb_2v_23" n="23"/>mvͦter. bruder. noch des lant.</l>
-                    <l n="24"><lb facs="#co_line_2v_24" xml:id="co_lb_2v_24" n="24"/>sin ovge nimmer mer erkós.</l>
-                    <l n="25"><lb facs="#co_line_2v_25" xml:id="co_lb_2v_25" n="25"/>dar an doch maneger vil verlós.</l>
-                    <l n="26"><lb facs="#co_line_2v_26" xml:id="co_lb_2v_26" n="26"/>der sich hete an im erkant.</l>
-                    <l n="27"><lb facs="#co_line_2v_27" xml:id="co_lb_2v_27" n="27"/>é daz er were dan gewant.</l>
-                    <l n="28"><lb facs="#co_line_2v_28" xml:id="co_lb_2v_28" n="28"/>mit deheinerslahte gvnste zil.</l>
-                    <l n="29"><lb facs="#co_line_2v_29" xml:id="co_lb_2v_29" n="29"/>den wart von im gedanket vil.</l>
-                    <l n="30"><lb facs="#co_line_2v_30" xml:id="co_lb_2v_30" n="30"/>es dvͦhte in mére denne gnuͦc</l>
-                    <l n="31"><lb facs="#co_line_2v_31" xml:id="co_lb_2v_31" n="31"/>durch sine zvht er nie gewͦc.</l>
-                    <l n="32"><lb facs="#co_line_2v_32" xml:id="co_lb_2v_32" n="32"/>daz siz teten vmbe reht.</l>
-                    <l n="33"><lb facs="#co_line_2v_33" xml:id="co_lb_2v_33" n="33"/>sin mvͦt was ebener denne sleht.</l>
-                    <l n="34"><lb facs="#co_line_2v_34" xml:id="co_lb_2v_34" n="34"/>swer selbe sagt wi werd er si.</l>
-                    <l n="35"><lb facs="#co_line_2v_35" xml:id="co_lb_2v_35" n="35"/>da ist lihte ein vngelovbe bi.</l>
-                    <l n="36"><lb facs="#co_line_2v_36" xml:id="co_lb_2v_36" n="36"/>ez solten die vmbesezen iehen</l>
-                    <l n="37"><lb facs="#co_line_2v_37" xml:id="co_lb_2v_37" n="37"/>vnd ovch di heten gesehen</l>
-                    <l n="38"><lb facs="#co_line_2v_38" xml:id="co_lb_2v_38" n="38"/>siniv werch da er fromde fremde were</l>
-                    <l n="39"><lb facs="#co_line_2v_39" xml:id="co_lb_2v_39" n="39"/>so gelovpte manz mêre.</l>
-                    <l n="40"><lb facs="#co_line_2v_40" xml:id="co_lb_2v_40" n="40"/>[x]Ahmvͦret GAhmvͦret der site phlac.</l>
-                    <l n="41"><lb facs="#co_line_2v_41" xml:id="co_lb_2v_41" n="41"/>den rehtiv maze widerwac.</l>
-                    <l n="42"><lb facs="#co_line_2v_42" xml:id="co_lb_2v_42" n="42"/>und ander schanze encheine.</l>
-                    <l n="43"><lb facs="#co_line_2v_43" xml:id="co_lb_2v_43" n="43"/>sin rv̂men daz was chleine.</l>
-                    <l n="44"><lb facs="#co_line_2v_44" xml:id="co_lb_2v_44" n="44"/>groze ere er lidenliche leit.</l>
-                    <l n="45"><lb facs="#co_line_2v_45" xml:id="co_lb_2v_45" n="45"/>der lose wille in gar vermeit.</l>
-                    <l n="46"><lb facs="#co_line_2v_46" xml:id="co_lb_2v_46" n="46"/>doch wande der gefvͦge.</l>
-                    <l n="47"><lb facs="#co_line_2v_47" xml:id="co_lb_2v_47" n="47"/>daz niman chrone trvͦge.</l>
-                    <l n="48"><lb facs="#co_line_2v_48" xml:id="co_lb_2v_48" n="48"/>chvͦnech. keiser keiserin.</l>
-                    <l n="49"><lb facs="#co_line_2v_49" xml:id="co_lb_2v_49" n="49"/>des messenie er wolde sin.</l>
-                    <l n="50"><lb facs="#co_line_2v_50" xml:id="co_lb_2v_50" n="50"/>niwan eines der die hoͤhsten hant</l>
-                    <l n="51"><lb facs="#co_line_2v_51" xml:id="co_lb_2v_51" n="51"/>trvͦge vͦf erde vber elliv lant.</l>
-                    <l n="52"><lb facs="#co_line_2v_52" xml:id="co_lb_2v_52" n="52"/>der wille in sinem herzen lach.</l>
-                    <l n="53"><lb facs="#co_line_2v_53" xml:id="co_lb_2v_53" n="53"/>im wart gesagt ze Baldach.</l>
-                    <l n="54"><lb facs="#co_line_2v_54" xml:id="co_lb_2v_54" n="54"/>were ein so gewaltic man.</l>
-                    <l n="55"><lb facs="#co_line_2v_55" xml:id="co_lb_2v_55" n="55"/>daz im der erde undertan</l>
-                    <l n="56"><lb facs="#co_line_2v_56" xml:id="co_lb_2v_56" n="56"/>div zwei teil weren oder mér.</l>
-                    <l n="57"><lb facs="#co_line_2v_57" xml:id="co_lb_2v_57" n="57"/>sin namen heidinsch was so hér.</l>
-                    <l n="58"><lb facs="#co_line_2v_58" xml:id="co_lb_2v_58" n="58"/>daz man in hiez der Baruͦch</l>
-                    <l n="59"><lb facs="#co_line_2v_59" xml:id="co_lb_2v_59" n="59"/>er hete an krefte alsolhen zvͦch.</l>
-                    <l n="60"><lb facs="#co_line_2v_60" xml:id="co_lb_2v_60" n="60"/>vil kvͦnege waren sine man.</l>
-                    <l n="61"><lb facs="#co_line_2v_61" xml:id="co_lb_2v_61" n="61"/>mit chrontem libe undertan.</l>
-                    <l n="62"><lb facs="#co_line_2v_62" xml:id="co_lb_2v_62" n="62"/>dez Barvͦch ambet hivte stét.</l>
-                    <l n="63"><lb facs="#co_line_2v_63" xml:id="co_lb_2v_63" n="63"/>seht wi man christen é begét.</l>
-                    <l n="64"><lb facs="#co_line_2v_64" xml:id="co_lb_2v_64" n="64"/>zerome als uns der tovf vergiht.</l>
-                    <l n="65"><lb facs="#co_line_2v_65" xml:id="co_lb_2v_65" n="65"/>heidensch orden man dort siht.</l>
-                    <l n="66"><lb facs="#co_line_2v_66" xml:id="co_lb_2v_66" n="66"/>ze Baldach nement si ir babest reht.</l>
-                    <l n="67"><lb facs="#co_line_2v_67" xml:id="co_lb_2v_67" n="67"/>daz dunchet si ane krvmben sleht.</l>
-                    <l n="68"><lb facs="#co_line_2v_68" xml:id="co_lb_2v_68" n="68"/>der Barvͦch in fvr svnde.</l>
-                    <l n="69"><lb facs="#co_line_2v_69" xml:id="co_lb_2v_69" n="69"/>git wandels vrkvnde.</l>
-                    <l n="70"><lb facs="#co_line_2v_70" xml:id="co_lb_2v_70" n="70"/>Zwene brvder von Babilon.</l>
-                    <l n="71"><lb facs="#co_line_2v_71" xml:id="co_lb_2v_71" n="71"/>Pompeius und Jpomidon.</l>
-                    <l n="72"><lb facs="#co_line_2v_72" xml:id="co_lb_2v_72" n="72"/>den nam der Baruͦch ninivé.</l>
-                    <l n="73"><lb facs="#co_line_2v_73" xml:id="co_lb_2v_73" n="73"/>daz was al ir vordern é.</l>
-                    <l n="74"><lb facs="#co_line_2v_74" xml:id="co_lb_2v_74" n="74"/>si taten wer mit chrefte schin.</l>
-                    <l n="75"><lb facs="#co_line_2v_75" xml:id="co_lb_2v_75" n="75"/>dar chom der iunge Anscivin.</l>
-                    <l n="76"><lb facs="#co_line_2v_76" xml:id="co_lb_2v_76" n="76"/>dem wart der Barvͦch vil holt.</l>
-                    <l n="77"><lb facs="#co_line_2v_77" xml:id="co_lb_2v_77" n="77"/>ia nam nach dinste al da den solt.</l>
-                    <l n="78"><lb facs="#co_line_2v_78" xml:id="co_lb_2v_78" n="78"/>Gahmvͦreth der werde man.</l>
-                    <l n="79"><lb facs="#co_line_2v_79" xml:id="co_lb_2v_79" n="79"/>nuͦ erlovbet im daz er muͦze han.</l>
-                    <l n="80"><lb facs="#co_line_2v_80" xml:id="co_lb_2v_80" n="80"/>ander wapen denne im Gaudîn.</l>
-                    <l n="81"><lb facs="#co_line_2v_81" xml:id="co_lb_2v_81" n="81"/>da vor gap der uater sin.</l>
-                    <l n="82"><lb facs="#co_line_2v_82" xml:id="co_lb_2v_82" n="82"/>der herre phlac mit gernden siten.</l>
-                    <l n="83"><lb facs="#co_line_2v_83" xml:id="co_lb_2v_83" n="83"/>vf sine kovertivre gesniten.</l>
-                    <l n="84"><lb facs="#co_line_2v_84" xml:id="co_lb_2v_84" n="84"/>æncher. liht hermin.</l>
-                    <l n="85"><lb facs="#co_line_2v_85" xml:id="co_lb_2v_85" n="85"/>da nach mvͦse ovch daz ander sin</l>
-                    <l n="86"><lb facs="#co_line_2v_86" xml:id="co_lb_2v_86" n="86"/>vͦf sime schilte und an der wât.</l>
-                    <l n="87"><lb facs="#co_line_2v_87" xml:id="co_lb_2v_87" n="87"/>noch grvͦner denne ein smarát.</l>
-                    <l n="88"><lb facs="#co_line_2v_88" xml:id="co_lb_2v_88" n="88"/>was gepruvet sin gereite gar.</l>
-                    <l n="89"><lb facs="#co_line_2v_89" xml:id="co_lb_2v_89" n="89"/>und nach dem Achmardi var.</l>
-                    <l n="90"><lb facs="#co_line_2v_90" xml:id="co_lb_2v_90" n="90"/>daz ist ein sidin lachen.</l>
-                    <l n="91"><lb facs="#co_line_2v_91" xml:id="co_lb_2v_91" n="91"/>dar zvͦ hiez er im machen.</l>
-                    <l n="92"><lb facs="#co_line_2v_92" xml:id="co_lb_2v_92" n="92"/>wapenroch und kursit.</l>
-                    <l n="93"><lb facs="#co_line_2v_93" xml:id="co_lb_2v_93" n="93"/>ez ist bezzer denne der samit.</l>
-                    <l n="94"><lb facs="#co_line_2v_94" xml:id="co_lb_2v_94" n="94"/>hermin ancher drvͦf genêt.</l>
-                    <l n="95"><lb facs="#co_line_2v_95" xml:id="co_lb_2v_95" n="95"/>guldiniv seil dran gedrêt.</l>
-                    <l n="96"><lb facs="#co_line_2v_96" xml:id="co_lb_2v_96" n="96"/>sine anchere heten niht bekort.</l>
-                    <l n="97"><lb facs="#co_line_2v_97" xml:id="co_lb_2v_97" n="97"/>ganzes landes. noch landes ort.</l>
-                    <l n="98"><lb facs="#co_line_2v_98" xml:id="co_lb_2v_98" n="98"/>da ne waren si ninder in geslagen.</l>
-                    <l n="99"><lb facs="#co_line_2v_99" xml:id="co_lb_2v_99" n="99"/>der herre mvͦse fvrbaz tragen.</l>
-                    <l n="100"><lb facs="#co_line_2v_100" xml:id="co_lb_2v_100" n="100"/>disen wapenlichen last.</l>
-                    <l n="101"><lb facs="#co_line_2v_101" xml:id="co_lb_2v_101" n="101"/>in manegiv lant der werde gast.</l>
-                    <l n="102"><lb facs="#co_line_2v_102" xml:id="co_lb_2v_102" n="102"/>Nach dem Ancher disiv mál.</l>
-                    <l n="103"><lb facs="#co_line_2v_103" xml:id="co_lb_2v_103" n="103"/>wander deheiner slahte twál.</l>
-                    <l n="104"><lb facs="#co_line_2v_104" xml:id="co_lb_2v_104" n="104"/>hete ninder noch gebite.</l>
-                    <l n="105"><lb facs="#co_line_2v_105" xml:id="co_lb_2v_105" n="105"/>wie vil er lande dúrch rite</l>
-                    <l n="106"><lb facs="#co_line_2v_106" xml:id="co_lb_2v_106" n="106"/>vnd in schiffen vmbe fv̂re.</l>
-                    <l n="107"><lb facs="#co_line_2v_107" xml:id="co_lb_2v_107" n="107"/>ob ich iv danach swͦre.</l>
-                    
-                    
-                     
+                    <l n="10"><lb facs="#co_line_2v_10" xml:id="co_lb_2v_10" n="10"/>swi halt mir mîn dinc ergât</l>
+                    <l n="11"><lb facs="#co_line_2v_11" xml:id="co_lb_2v_11" n="11"/>Als uns div aventiure saget</l>
+                    <l n="12"><lb facs="#co_line_2v_12" xml:id="co_lb_2v_12" n="12"/>Do helt he-*-t der helt vnverzaget.</l>
+                    <l n="13"><lb facs="#co_line_2v_13" xml:id="co_lb_2v_13" n="13"/>enpfangen durch liebe chraft.</l>
+                    <l n="14"><lb facs="#co_line_2v_14" xml:id="co_lb_2v_14" n="14"/>unt dur wiplich geselleschaft.</l>
+                    <l n="15"><lb facs="#co_line_2v_15" xml:id="co_lb_2v_15" n="15"/>chleinôtes tvsent marke wert.</l>
+                    <l n="16"><lb facs="#co_line_2v_16" xml:id="co_lb_2v_16" n="16"/>swa noch ein ivde pfandes gert.</l>
+                    <l n="17"><lb facs="#co_line_2v_17" xml:id="co_lb_2v_17" n="17"/>er mohtez der fvr enphahen.</l>
+                    <l n="18"><lb facs="#co_line_2v_18" xml:id="co_lb_2v_18" n="18"/>ez endorft im niht versmahen.</l>
+                    <l n="19"><lb facs="#co_line_2v_19" xml:id="co_lb_2v_19" n="19"/>daz sande im ein sin frivdin.</l>
+                    <l n="20"><lb facs="#co_line_2v_20" xml:id="co_lb_2v_20" n="20"/>an sinem dinste lac gewin.</l>
+                    <l n="21"><lb facs="#co_line_2v_21" xml:id="co_lb_2v_21" n="21"/>der wibe minne und ir gruͦz.</l>
+                    <l n="22"><lb facs="#co_line_2v_22" xml:id="co_lb_2v_22" n="22"/>doch wart im selten kvmbers bvͦz.</l>
+                    <l n="23"><lb facs="#co_line_2v_23" xml:id="co_lb_2v_23" n="23"/>vrloͮp nam der wigant.</l>
+                    <l n="24"><lb facs="#co_line_2v_24" xml:id="co_lb_2v_24" n="24"/>mvͦter. bruder. noch des lant.</l>
+                    <l n="25"><lb facs="#co_line_2v_25" xml:id="co_lb_2v_25" n="25"/>sin ovge nimmer mer erkós.</l>
+                    <l n="26"><lb facs="#co_line_2v_26" xml:id="co_lb_2v_26" n="26"/>dar an doch maneger vil verlós.</l>
+                    <l n="27"><lb facs="#co_line_2v_27" xml:id="co_lb_2v_27" n="27"/>der sich hete an im erkant.</l>
+                    <l n="28"><lb facs="#co_line_2v_28" xml:id="co_lb_2v_28" n="28"/>é daz er were dan gewant.</l>
+                    <l n="29"><lb facs="#co_line_2v_29" xml:id="co_lb_2v_29" n="29"/>mit deheinerslahte gvnste zil.</l>
+                    <l n="30"><lb facs="#co_line_2v_30" xml:id="co_lb_2v_30" n="30"/>den wart von im gedanket vil.</l>
+                    <l n="31"><lb facs="#co_line_2v_31" xml:id="co_lb_2v_31" n="31"/>es dvͦhte in mére denne gnuͦc</l>
+                    <l n="32"><lb facs="#co_line_2v_32" xml:id="co_lb_2v_32" n="32"/>durch sine zvht er nie gewͦc.</l>
+                    <l n="33"><lb facs="#co_line_2v_33" xml:id="co_lb_2v_33" n="33"/>daz siz teten vmbe reht.</l>
+                    <l n="34"><lb facs="#co_line_2v_34" xml:id="co_lb_2v_34" n="34"/>sin mvͦt was ebener denne sleht.</l>
+                    <l n="35"><lb facs="#co_line_2v_35" xml:id="co_lb_2v_35" n="35"/>swer selbe sagt wi werd er si.</l>
+                    <l n="36"><lb facs="#co_line_2v_36" xml:id="co_lb_2v_36" n="36"/>da ist lihte ein vngelovbe bi.</l>
+                    <l n="37"><lb facs="#co_line_2v_37" xml:id="co_lb_2v_37" n="37"/>ez solten die vmbesezen iehen</l>
+                    <l n="38"><lb facs="#co_line_2v_38" xml:id="co_lb_2v_38" n="38"/>vnd ovch di heten gesehen</l>
+                    <l n="39"><lb facs="#co_line_2v_39" xml:id="co_lb_2v_39" n="39"/>siniv werch da er fromde fremde were</l>
+                    <l n="40"><lb facs="#co_line_2v_40" xml:id="co_lb_2v_40" n="40"/>so gelovpte manz mêre.</l>
+                    <l n="41"><lb facs="#co_line_2v_41" xml:id="co_lb_2v_41" n="41"/>[x]Ahmvͦret GAhmvͦret der site phlac.</l>
+                    <l n="42"><lb facs="#co_line_2v_42" xml:id="co_lb_2v_42" n="42"/>den rehtiv maze widerwac.</l>
+                    <l n="43"><lb facs="#co_line_2v_43" xml:id="co_lb_2v_43" n="43"/>und ander schanze encheine.</l>
+                    <l n="44"><lb facs="#co_line_2v_44" xml:id="co_lb_2v_44" n="44"/>sin rv̂men daz was chleine.</l>
+                    <l n="45"><lb facs="#co_line_2v_45" xml:id="co_lb_2v_45" n="45"/>groze ere er lidenliche leit.</l>
+                    <l n="46"><lb facs="#co_line_2v_46" xml:id="co_lb_2v_46" n="46"/>der lose wille in gar vermeit.</l>
+                    <l n="47"><lb facs="#co_line_2v_47" xml:id="co_lb_2v_47" n="47"/>doch wande der gefvͦge.</l>
+                    <l n="48"><lb facs="#co_line_2v_48" xml:id="co_lb_2v_48" n="48"/>daz niman chrone trvͦge.</l>
+                    <l n="49"><lb facs="#co_line_2v_49" xml:id="co_lb_2v_49" n="49"/>chvͦnech. keiser keiserin.</l>
+                    <l n="50"><lb facs="#co_line_2v_50" xml:id="co_lb_2v_50" n="50"/>des messenie er wolde sin.</l>
+                    <l n="51"><lb facs="#co_line_2v_51" xml:id="co_lb_2v_51" n="51"/>niwan eines der die hoͤhsten hant</l>
+                    <l n="52"><lb facs="#co_line_2v_52" xml:id="co_lb_2v_52" n="52"/>trvͦge vͦf erde vber elliv lant.</l>
+                    <l n="53"><lb facs="#co_line_2v_53" xml:id="co_lb_2v_53" n="53"/>der wille in sinem herzen lach.</l>
+                    <l n="54"><lb facs="#co_line_2v_54" xml:id="co_lb_2v_54" n="54"/>im wart gesagt ze Baldach.</l>
+                    <l n="55"><lb facs="#co_line_2v_55" xml:id="co_lb_2v_55" n="55"/>were ein so gewaltic man.</l>
+                    <l n="56"><lb facs="#co_line_2v_56" xml:id="co_lb_2v_56" n="56"/>daz im der erde undertan</l>
+                    <l n="57"><lb facs="#co_line_2v_57" xml:id="co_lb_2v_57" n="57"/>div zwei teil weren oder mér.</l>
+                    <l n="58"><lb facs="#co_line_2v_58" xml:id="co_lb_2v_58" n="58"/>sin namen heidinsch was so hér.</l>
+                    <l n="59"><lb facs="#co_line_2v_59" xml:id="co_lb_2v_59" n="59"/>daz man in hiez der Baruͦch</l>
+                    <l n="60"><lb facs="#co_line_2v_60" xml:id="co_lb_2v_60" n="60"/>er hete an krefte alsolhen zvͦch.</l>
+                    <l n="61"><lb facs="#co_line_2v_61" xml:id="co_lb_2v_61" n="61"/>vil kvͦnege waren sine man.</l>
+                    <l n="62"><lb facs="#co_line_2v_62" xml:id="co_lb_2v_62" n="62"/>mit chrontem libe undertan.</l>
+                    <l n="63"><lb facs="#co_line_2v_63" xml:id="co_lb_2v_63" n="63"/>dez Barvͦch ambet hivte stét.</l>
+                    <l n="64"><lb facs="#co_line_2v_64" xml:id="co_lb_2v_64" n="64"/>seht wi man christen é begét.</l>
+                    <l n="65"><lb facs="#co_line_2v_65" xml:id="co_lb_2v_65" n="65"/>zerome als uns der tovf vergiht.</l>
+                    <l n="66"><lb facs="#co_line_2v_66" xml:id="co_lb_2v_66" n="66"/>heidensch orden man dort siht.</l>
+                    <l n="67"><lb facs="#co_line_2v_67" xml:id="co_lb_2v_67" n="67"/>ze Baldach nement si ir babest reht.</l>
+                    <l n="68"><lb facs="#co_line_2v_68" xml:id="co_lb_2v_68" n="68"/>daz dunchet si ane krvmben sleht.</l>
+                    <l n="69"><lb facs="#co_line_2v_69" xml:id="co_lb_2v_69" n="69"/>der Barvͦch in fvr svnde.</l>
+                    <l n="70"><lb facs="#co_line_2v_70" xml:id="co_lb_2v_70" n="70"/>git wandels vrkvnde.</l>
+                    <l n="71"><lb facs="#co_line_2v_71" xml:id="co_lb_2v_71" n="71"/>Zwene brvder von Babilon.</l>
+                    <l n="72"><lb facs="#co_line_2v_72" xml:id="co_lb_2v_72" n="72"/>Pompeius und Jpomidon.</l>
+                    <l n="73"><lb facs="#co_line_2v_73" xml:id="co_lb_2v_73" n="73"/>den nam der Baruͦch ninivé.</l>
+                    <l n="74"><lb facs="#co_line_2v_74" xml:id="co_lb_2v_74" n="74"/>daz was al ir vordern é.</l>
+                    <l n="75"><lb facs="#co_line_2v_75" xml:id="co_lb_2v_75" n="75"/>si taten wer mit chrefte schin.</l>
+                    <l n="76"><lb facs="#co_line_2v_76" xml:id="co_lb_2v_76" n="76"/>dar chom der iunge Anscivin.</l>
+                    <l n="77"><lb facs="#co_line_2v_77" xml:id="co_lb_2v_77" n="77"/>dem wart der Barvͦch vil holt.</l>
+                    <l n="78"><lb facs="#co_line_2v_78" xml:id="co_lb_2v_78" n="78"/>ia nam nach dinste al da den solt.</l>
+                    <l n="79"><lb facs="#co_line_2v_79" xml:id="co_lb_2v_79" n="79"/>Gahmvͦreth der werde man.</l>
+                    <l n="80"><lb facs="#co_line_2v_80" xml:id="co_lb_2v_80" n="80"/>nuͦ erlovbet im daz er muͦze han.</l>
+                    <l n="81"><lb facs="#co_line_2v_81" xml:id="co_lb_2v_81" n="81"/>ander wapen denne im Gaudîn.</l>
+                    <l n="82"><lb facs="#co_line_2v_82" xml:id="co_lb_2v_82" n="82"/>da vor gap der uater sin.</l>
+                    <l n="83"><lb facs="#co_line_2v_83" xml:id="co_lb_2v_83" n="83"/>der herre phlac mit gernden siten.</l>
+                    <l n="84"><lb facs="#co_line_2v_84" xml:id="co_lb_2v_84" n="84"/>vf sine kovertivre gesniten.</l>
+                    <l n="85"><lb facs="#co_line_2v_85" xml:id="co_lb_2v_85" n="85"/>æncher. liht hermin.</l>
+                    <l n="86"><lb facs="#co_line_2v_86" xml:id="co_lb_2v_86" n="86"/>da nach mvͦse ovch daz ander sin</l>
+                    <l n="87"><lb facs="#co_line_2v_87" xml:id="co_lb_2v_87" n="87"/>vͦf sime schilte und an der wât.</l>
+                    <l n="88"><lb facs="#co_line_2v_88" xml:id="co_lb_2v_88" n="88"/>noch grvͦner denne ein smarát.</l>
+                    <l n="89"><lb facs="#co_line_2v_89" xml:id="co_lb_2v_89" n="89"/>was gepruvet sin gereite gar.</l>
+                    <l n="90"><lb facs="#co_line_2v_90" xml:id="co_lb_2v_90" n="90"/>und nach dem Achmardi var.</l>
+                    <l n="91"><lb facs="#co_line_2v_91" xml:id="co_lb_2v_91" n="91"/>daz ist ein sidin lachen.</l>
+                    <l n="92"><lb facs="#co_line_2v_92" xml:id="co_lb_2v_92" n="92"/>dar zvͦ hiez er im machen.</l>
+                    <l n="93"><lb facs="#co_line_2v_93" xml:id="co_lb_2v_93" n="93"/>wapenroch und kursit.</l>
+                    <l n="94"><lb facs="#co_line_2v_94" xml:id="co_lb_2v_94" n="94"/>ez ist bezzer denne der samit.</l>
+                    <l n="95"><lb facs="#co_line_2v_95" xml:id="co_lb_2v_95" n="95"/>hermin ancher drvͦf genêt.</l>
+                    <l n="96"><lb facs="#co_line_2v_96" xml:id="co_lb_2v_96" n="96"/>guldiniv seil dran gedrêt.</l>
+                    <l n="97"><lb facs="#co_line_2v_97" xml:id="co_lb_2v_97" n="97"/>sine anchere heten niht bekort.</l>
+                    <l n="98"><lb facs="#co_line_2v_98" xml:id="co_lb_2v_98" n="98"/>ganzes landes. noch landes ort.</l>
+                    <l n="99"><lb facs="#co_line_2v_99" xml:id="co_lb_2v_99" n="99"/>da ne waren si ninder in geslagen.</l>
+                    <l n="100"><lb facs="#co_line_2v_100" xml:id="co_lb_2v_100" n="100"/>der herre mvͦse fvrbaz tragen.</l>
+                    <l n="101"><lb facs="#co_line_2v_101" xml:id="co_lb_2v_101" n="101"/>disen wapenlichen last.</l>
+                    <l n="102"><lb facs="#co_line_2v_102" xml:id="co_lb_2v_102" n="102"/>in manegiv lant der werde gast.</l>
+                    <l n="103"><lb facs="#co_line_2v_103" xml:id="co_lb_2v_103" n="103"/>Nach dem Ancher disiv mál.</l>
+                    <l n="104"><lb facs="#co_line_2v_104" xml:id="co_lb_2v_104" n="104"/>wander deheiner slahte twál.</l>
+                    <l n="105"><lb facs="#co_line_2v_105" xml:id="co_lb_2v_105" n="105"/>hete ninder noch gebite.</l>
+                    <l n="106"><lb facs="#co_line_2v_106" xml:id="co_lb_2v_106" n="106"/>wie vil er lande dúrch rite</l>
+                    <l n="107"><lb facs="#co_line_2v_107" xml:id="co_lb_2v_107" n="107"/>vnd in schiffen vmbe fv̂re.</l>
+                    <l n="108"><lb facs="#co_line_2v_108" xml:id="co_lb_2v_108" n="108"/>ob ich iv danach swͦre.</l>
+            
                     
                 </body>
                 <back>
                     <!-- <note n="1" xml:id="en_19r_note_1">The text continues in the margin</note> --> 
                     <div n="Übersetzung" type="translation" xml:lang="de" xml:id="co_trans_de"> 
-                        <!-- <div corresp="#co_fol_1r"> -->
+                        
                         <div facs="#co_surf_1r" xml:id="co_trans_1r" corresp="#co_fol_1r">
                             <head>Der Parzival</head>
                             <l n="1">Wenn Zweifel nah beim Herzen wohnt,</l>
@@ -1656,126 +1949,592 @@
                             <l n="102">und eines Mannes Männlichkeit,</l>
                             <l n="103">die sich trotz Gewalt nie bog.</l>
                             <l n="104">Sein Herz betrog ihn nie,</l>
-                            <l n="105">wo immer er kämpfte</l>
-                            <l n="106">trug er den Sieg davon.</l>
+                            <l n="105">stählern, wo immer er kämpfte</l>
+                            <l n="106">nahm er mit siegreicher Hand</l>
                         </div>
                         
                         
                         <div corresp="#co_fol_1v" xml:id="co_trans_1v">    
-                            <l n="1">Wenn Zweifel nah beim Herzen wohnt,</l>
-                            <l n="2">das muss der Seele sauer werden.</l>
-                            <l n="3">Schande und Geschmeide</l>
-                            <l n="4">sind beieinander, wo eines</l>
-                            <l n="5">Mannes unverzagter Mut</l>
-                            <l n="6">konfus gemustert gehen will wie Elsternfarben.</l>
-                            <l n="7">Trotzdem, der kann noch glücklich sein,</l>
-                            <l n="8">denn an ihm ist etwas von beiden:</l>
-                            <l n="9">Vom Himmel und von der Hölle.</l>
-                            <l n="10">Wer sich mit Treulosigkeit zusammentut,</l>
-                            <l n="11">der hat die schwarze Farbe ganz</l>
-                            <l n="12">und muss auch nach der Finsternis geraten.</l>
-                            <l n="13">So halte sich an den Weißen,</l>
-                            <l n="14">der fest steht und treu ist.</l>
-                            <l n="15">Dieses fliegende Beispiel</l>
-                            <l n="16">ist für dumme Menschen gar zu flink</l>
-                            <l n="17">sie können es nicht nachvollziehen:</l>
-                            <l n="18">Denn es kann vor ihnen Haken schlagen</l>
-                            <l n="19">ebenso wie ein verschreckter Hase.</l>
-                            <l n="20">Zinn verlötet hinterm Glas</l>
-                            <l n="21">täuscht wie des Blinden Traum.</l>
-                            <l n="22">Sie spiegeln das Aussehen wider,</l>
-                            <l n="23">doch sind sie nicht von Dauer,</l>
-                            <l n="24">diser trübe, leichte Schein</l>
-                            <l n="25">der zwar kurze Freude bereitet.</l>
-                            <l n="26">Wer rupft mich da, wo nie ein Haar</l>
-                            <l n="27">wuchs auf der Innenseite meiner Hand?</l>
-                            <l n="28">Der kennt die Kunst der ganz besonders feinen Griffe</l>
-                            <l n="29">Wenn ich von solchen Nöten "Au" schreie</l>
-                            <l n="30">das sieht dem Geist, den ich begreife, ähnlich.</l>
-                            <l n="31">Möchte ich Treue finden</l>
-                            <l n="32">überall dort, wo sie verschwindet,</l>
-                            <l n="33">wie Feuer in einem Brunnen</l>
-                            <l n="34">und Tau in der Sonne?</l>
-                            <l n="35">Ich kennen niemanden, möge er noch so klug sein</l>
-                            <l n="36">der nicht gern wüsste,</l>
-                            <l n="37">was diese Geschichte von den ihren fordert</l>
-                            <l n="38">und was an guter Lehre sie geben kann.</l>
-                            <l n="39">Was das betrifft, ist sie ganz unbekümmert</l>
-                            <l n="40">gleichermaßen flieht und jagt sie,</l>
-                            <l n="41">zieht sich zurück und kehrt um,</l>
-                            <l n="42">sie lastert und ehret.</l>
-                            <l n="43">Wer sich hier zurecht findet,</l>
-                            <l n="44">dem hat die Weisheit wohl getan,</l>
-                            <l n="45">das ist der, der sich nicht verhockt oder verrennt</l>
-                            <l n="46">und sich im Gegenteil darauf versteht.</l>
-                            <l n="47">Ein mut, der an den seinen Gesellen zum Verräter wird,</l>
-                            <l n="48">ist dem Höllenfeuer gut</l>
-                            <l n="49">und ein Hagel für die hohen Werte und Adel.</l>
-                            <l n="50">Seine Treue hat so einen kurzen Schwanz,</l>
-                            <l n="51">dass sie nicht einmal den dritten Biss abwehren kann,</l>
-                            <l n="52">wenn die Bremsen im Wald über sie herfallen.</l>
-                            <l n="53">Die Rede ist bei diesen Unterschieden</l>
-                            <l n="54">jedoch nicht ausschließlich vom Mann.</l>
-                            <l n="55">Für die Frau setze ich diese Ziele:</l>
-                            <l n="56">Die, die meinen Rat beachten will,</l>
-                            <l n="57">wird wissen, wohin sie gehe</l>
-                            <l n="58">mit ihrem Glanz und ihrer Ehre,</l>
-                            <l n="59">und wem sie schenke soll</l>
-                            <l n="60">ihre Liebe und ihren Adel,</l>
-                            <l n="61">sodass sie nie bereue,</l>
-                            <l n="62">ihre Keschheit und ihre Treue.</l>
-                            <l n="63">Vor Gott bitte für die guten Frauen darum,</l>
-                            <l n="64">dass sie stets dem rechten Maß folgen mögen.</l>
-                            <l n="65">Die Scham schließt alle Sitten ein,</l>
-                            <l n="66">ich kann nicht nach einem größeren Segen bitten.</l>
-                            <l n="67">Eine Verräterin erwirtb nur falschen Ruhm.</l>
-                            <l n="68">Wie sicher ist dünnes Eis</l>
-                            <l n="69">in der Hitze der Augustsonne?</l>
-                            <l n="70">Ebenso vergeht auch ihr Ansehen sehr schnell.</l>
-                            <l n="71">Die Schönheit so mancher Frau wird viel gelobt.</l>
-                            <l n="72">Doch ist das Herz unecht,</l>
-                            <l n="73">so schätze ich sie so,</l>
-                            <l n="74">wie ein in Gold gefasster Glassplitter.</l>
-                            <l n="75">Es ist nicht leicht,</l>
-                            <l n="76">in schwachen Messing</l>
-                            <l n="77">einen edlen Rubin einzufassen</l>
-                            <l n="78">zusammen mit all seinen Wundern.</l>
-                            <l n="79">Ihm gleicht die Seele einer rechten Frau,</l>
-                            <l n="80">die ihrer Weiblichkeit gerecht wird.</l>
-                            <l n="81">Eine solche Frau möchte ich weder nach Farbe</l>
-                            <l n="82">noch nach Erscheinung urteilen.</l>
-                            <l n="83">Trägt sie ein edles Herz in der Brust,</l>
-                            <l n="84">so ist ihr Ansehen ohne Makel.</l>
-                            <l n="85">Müsste ich nun Frau und Mann</l>
-                            <l n="86">so prüfen, wie ech es kann,</l>
-                            <l n="87">dann kämen wir mit Reden lange nicht ans Ziel.</l>
-                            <l n="88">Höret nun die Seite dieser Geschichte,</l>
-                            <l n="89">die von beidem erzhält,</l>
-                            <l n="90">von Liebe und Leid.</l>
-                            <l n="91">von Freude und mit ihr die Angst.</l>
-                            <l n="92">Stellt euch vor, es gäbe drei von mir,</l>
-                            <l n="93">von denen jeder für sich</l>
-                            <l n="94">meiner Kunstfertigkeit gleichkäme:</l>
-                            <l n="95">Selbst dann bräuchte es eine wilde Fantasie,</l>
-                            <l n="96">bevor sie euch erzählen würden,</l>
-                            <l n="97">was ich euch berichten will.</l>
-                            <l n="98">Sie hätten viel zu tun.</l>
-                            <l n="99">Ich will euch eine Geschichte erzählen,</l>
-                            <l n="100">die von großer Treue erzählt,</l>
-                            <l n="101">von weiblicher Tugend</l>
-                            <l n="102">und eines Mannes Männlichkeit,</l>
-                            <l n="103">die sich trotz Gewalt nie bog.</l>
-                            <l n="104">Sein Herz betrog ihn nie,</l>
-                            <l n="105">wo immer er kämpfte</l>
-                            <l n="106">trug er den Sieg davon.</l>
+                            <l n="1">den Sieg mit viel Ruhm und Ehre.</l>
+                            <l n="2">Kühn war er und später auch weise,</l>
+                            <l n="3">der Held, den ich so beggrüße,</l>
+                            <l n="4">dessen Anblick die Frauen entzückte</l>
+                            <l n="5">und ihre Herzen mit Sehnsucht füllte,</l>
+                            <l n="6">dabei jedoch jede Unlauterkeit vermied.</l>
+                            <l n="7">Den Helden, von dem ich hier spreche,</l>
+                            <l n="8">ist zum Zeitpunkt dieser Geschichte noch nicht geboren, </l>
+                            <l n="9">von dem dieses Abenteuer handelt</l>
+                            <l n="10">mitsamt der vielen Wunder, die ihm geschehen werden.</l>
+                            <l n="11">So wie damals pflegt man auch heute,</l>
+                            <l n="12">überall wo das französische Recht gilt und galt</l>
+                            <l n="13">und auch auf deutscher Erde ist es Brauch,</l>
+                            <l n="14">was ihr sicher auch ohne mich wisst:</l>
+                            <l n="15">Wer auch immer eines Landes Herr war,</l>
+                            <l n="16">der befahl mit gutem Recht und ohne Schande,</l>
+                            <l n="17">und dies ist die ungeschönte Wahrheit,</l>
+                            <l n="18">dass der älteste Bruder</l>
+                            <l n="19">den gesamten Besitz seines Vater zugesprochen bekam</l>
+                            <l n="20">Das war zum Nachteil der Jüngeren,</l>
+                            <l n="21">denen der Tod das Recht nahm</l>
+                            <l n="22">das ihnen zu Lebzeiten des Vaters vergönnt war:</l>
+                            <l n="23">Das was man sich früher teilte,</l>
+                            <l n="24">besaß nun der Ältere alleine.</l>
+                            <l n="25">Gewiss hat ein weiser Mann es so verfügt,</l>
+                            <l n="26">dass Alter Besitz haben soll.</l>
+                            <l n="27">Die Jugend kennt viele Vorzüge,</l>
+                            <l n="28">das Alter hingegen Seufzen undLeid.</l>
+                            <l n="29">Nichts war jemals so schlimm</l>
+                            <l n="30">wie Alter und Armut zusammen.</l>
+                            <l n="31">Könige, Grafen und Herzogen,</l>
+                            <l n="32">und das sage ich, ohne zu lügen,</l>
+                            <l n="33">wird allen das Erbe genommen</l>
+                            <l n="34">und an das älteste Kind gegeben.</l>
+                            <l n="35">Diese Ordnung mutet wahrlich fremd an.</l>
+                            <l n="36">Der keusche und kühne</l>
+                            <l n="37">Gahmuret der Krieger</l>
+                            <l n="38">verlor alle seine Burgen und Ländereien</l>
+                            <l n="39">wo sein Vater stolz</l>
+                            <l n="40">zuvor das Szepter und die Krone</l>
+                            <l n="41">mit großer königlicher Kraft getragen hatte,,</l>
+                            <l n="42">bis er in einem ritterlichen Kampf den Tod fand.</l>
+                            <l n="43">Man beklagte in sehr,</l>
+                            <l n="44">denn seine Zuverlässigkeit und Herrschaft</l>
+                            <l n="45">waren bis zu seinem Tod ohne Makel.</l>
+                            <l n="46">Sein ältester Sohn befahl daraufhin</l>
+                            <l n="47">alle Fürsten aus seinem Reich zu sich.</l>
+                            <l n="48">Diese kamen im ritterlichen Aufzug,</l>
+                            <l n="49">denn sie sollten zu Recht</l>
+                            <l n="50">von ihm große Lehen empfangen.</l>
+                            <l n="51">Da sind sie zu Hofe gekommen,</l>
+                            <l n="52">und ihre Ansprüche wurden vernommen</l>
+                            <l n="53">und sie empfingen alle ihre Lehen.</l>
+                            <l n="54">Höret nun wie sie es angingen:</l>
+                            <l n="55">So wie es ihnen ihre Treue riet</l>
+                            <l n="56">trugen die Reichen ebenso wie die Armen</l>
+                            <l n="57">eine untertänliche aber nachdrückliche Bitte vor:</l>
+                            <l n="58">Der König sollte an Gahmuret</l>
+                            <l n="59">die brüderliche Treue mehren</l>
+                            <l n="60">und sich selbst ehren,</l>
+                            <l n="61">indem er ihn nicht zur Gänze verstieße,</l>
+                            <l n="62">und ihm seine Ländereien ließe,</l>
+                            <l n="63">denn man wollte sehen,</l>
+                            <l n="64">dass der junge Adelige</l>                           
+                            <l n="65">seines Namnes und seiner Freiheit gerecht leben sollte.</l>
+                            <l n="66">Diese Bitte kränkte den König nicht,</l>
+                            <l n="67">er sprach: "Ihr versteht es, bescheiden zu bitten.</l>
+                            <l n="68">Ich möchte euch dies und mehr gewähren.</l>
+                            <l n="69">Weshalb nenn ihr meinen Bruder nicht </l>
+                            <l n="70">Gahmuret von Anjou</l>
+                            <l n="71">Anjou ist mein Land</l>
+                            <l n="72">und wir beide sollen seinen Namen tragen."</l>
+                            <l n="73">So sprach der König weiterhin:</l>
+                            <l n="74">"Und mein Bruder darf noch mehr</l>
+                            <l n="75">meiner ständingen Hilfsbereitschaft sicher sein</l>
+                            <l n="76">was ich hier zum Ausdruck bringen möchte.</l>
+                            <l n="77">Er soll in meinem Hause wohnen</l>
+                            <l n="78">denn ich will für jederman klarstellen,</l>
+                            <l n="79">dass wir beide die gleiche Mutter haben.</l>
+                            <l n="80">Er besitzt wenig doch ich habe genug.</l>
+                            <l n="81">Das möchte ich von Hand mit ihm teilen,</l>
+                            <l n="82">denn ich möchte nicht mein Seelenheil riskieren</l>
+                            <l n="83">bei dem der gibt und nimmt</l>
+                            <l n="84">und über das Recht bestimmt."</l>
+                            <l n="85">All die reichen Fürsten</l>
+                            <l n="86">hörten zugleich</l>
+                            <l n="87">dass ihr Herr aufrichtig war.</l>
+                            <l n="88">Das war für sie ein Freudentag </l>
+                            <l n="89">andem ihm jeder dankte.</l>
+                            <l n="90">Doch Gahmuret schwieg nicht länger,</l>
+                            <l n="91">folgte seinem Herzen</l>
+                            <l n="92">und sprach freundlich zum König:</l>
+                            <l n="93">"Mein Herr und Brunder,</l>
+                            <l n="94">würde ich bei Hofe wohnen,</l>
+                            <l n="95">bei dir oder bei jemand anders,</l>
+                            <l n="96">so wäre zweifelsohne für mein bequemes Leben gesorgt.</l>
+                            <l n="97">Nun urteilt selbst, ob mir dies Ehre brächte.</l>
+                            <l n="98">Ihr seid treuherzig und weise</l>
+                            <l n="99">gewährt mir euren Rat</l>
+                            <l n="100">und sichert mir eure Hilfe zu.</l>
+                            <l n="101">Ich habe nichts als meine Rüstung.</l>
+                            <l n="102">Hätte ich darin nur mehr Taten vollbracht,</l>
+                            <l n="103">dass es mir  viel Lob und Ehre bringen würde,</l>
+                            <l n="104">überall dort wo man an micht denkt."</l>
+                            <l n="105">Gahmuret sprach weiter:</l>
+                            <l n="106">"Ich habe sechzehn Knappen,</l>
+                            <l n="107">von denen nur sechs davon mit Rüstung.</l>
+                            <l n="106">Gebt mir vier weitere Kinder,</l>
                         </div>
+                        
+                        <div corresp="#co_fol_2r" xml:id="co_trans_2r">    
+                            <l n="1">gut erzogen und aus adeligem Hause.</l>
+                            <l n="2">Ich will ihnen nichts von dem vorenthalten,</l>
+                            <l n="3">was ich mit meiner Hand erringen kann.</l>
+                            <l n="4">Ich will in die Welt hinaus</l>
+                            <l n="5">von der ich früher schon ein Teil gesehen habe.</l>
+                            <l n="6">Wenn mir mein Glück hold ist,</l>
+                            <l n="7">so wird mir die Gunst einer guten Frau zuteil.</l>
+                            <l n="8">Ob ich ihr danach dienen muss,</l>
+                            <l n="9">und mich als dessen würdig erweise,</l>
+                            <l n="10">so werde ich mich auf meinen besten Sinn verlassen</l>
+                            <l n="11">und es mit rechter Treue tun.</l>
+                            <l n="12">Gott möge mir die glückhaften Wege weise!</l>
+                            <l n="13">Früher waren wir gemeinsam unterwegs,</l>
+                            <l n="14">als dieses Reich</l>
+                            <l n="15">noch unserem Vater Gandin gehörte,</l>
+                            <l n="16">und durchlebten viele Abenteuer</l>
+                            <l n="17">um die Gunst der Frauen zu erwerben.</l>
+                            <l n="18">Ihr wart gleichermaßen Ritter und Dieb,</l>
+                            <l n="19">denn ihr konnten gleichsam dienen und heimlich sein.</l>
+                            <l n="20">Könnte ich auch nur einen heimlichen Liebesbeweis erlangen,</l>
+                            <l n="21">wäre ich doch auch in dieser Kunst so bewandert,</l>
+                            <l n="22">dass ich die Gunst der Frauen erwerben könnte."</l>
+                            <l n="23">Der König seufzte und sprach:</l>
+                            <l n="24">"Owe, dass ich dich jemals sehen musste,</l>
+                            <l n="25">denn mit diesen deinen Worten</l>
+                            <l n="26">hast du mir mein Herz verletzt,</l>
+                            <l n="27">wenn du wirklich Abschied nimmst.</l>
+                            <l n="28">Mein Vater hat uns beiden</l>
+                            <l n="29">ein gutes Erbe hinterlassen,</l>
+                            <l n="30">dass ich mir zu gleichen Teilen mit dir teilen will,</l>
+                            <l n="31">denn ich meine es von Herzen gut.</l>
+                            <l n="32">Leuchtende Steine, rotes Gold,</l>
+                            <l n="33">Leute, Waffen, Pferde, Kleider,</l>
+                            <l n="34">all das kannst du alles von mir nehmen,</l>
+                            <l n="35">sodass du ziehen kannst, wie es dein Wille ist</l>
+                            <l n="36">und dabei trotzdem dein eigener Herr bleibst.</l>
+                            <l n="37">Deine Stärke ist etwas ganz besonderes.</l>
+                            <l n="38">Selbst wenn du in Gylstram geboren wärest</l>
+                            <l n="39">oder aus Ranculant kämest,</l>
+                            <l n="40">hätte ich dich immer gern an meiner Seite,</l>
+                            <l n="41">ebenso wie ich dich hierbehalten würde,</l>
+                            <l n="42">denn du bist wahrhaftig mein Bruder."</l>
+                            <l n="43">"Oh Herr, ihr lobt micht nur,</l>
+                            <l n="44">weil dies die gute Erziehung von euch fordert.</l>
+                            <l n="45">So lasst mir auch euren Beistand zuteil werden.</l>
+                            <l n="46">Wenn ihr und meine Mutter,</l>
+                            <l n="47">mit mir eure bewegliche Habe teilen wollt,</l>
+                            <l n="48">so würde mein Ansehen gewiss steigen und nichtmehr sinken.</l>
+                            <l n="49">Mein Herz strebt jedoch nach Höherem:</l>
+                            <l n="50">Ich weiß nicht, warum es sich so stürmisch regt,</l>
+                            <l n="51">und mir die linke Brust so schwillt.</l>
+                            <l n="52">Owe, wohin wird mich mein Verlangen treiben?</l>
+                            <l n="53">Wenn ich kann, werde ich es herausfinden.</l>
+                            <l n="54">Nun kommt der Tag des Abschieds."</l>
+                            <l n="55">Der König gab ihm die Güter</l>
+                            <l n="56">und noch mehr als er verlangt hatte.</l>
+                            <l n="57">Fünf ausgesuchte Schlachtrösser,</l>
+                            <l n="58">die besten des seines Landes,</l>
+                            <l n="59">mutig, stark und nicht zu schwach,</l>
+                            <l n="60">viele kostbare Goldgefäße</l>
+                            <l n="61">und eine Menge Gold in Klumpen.</l>
+                            <l n="62">Der König ließ ohne ZÖgern oder Bedauern</l>
+                            <l n="63">vier Tragekörbe füllen,</l>
+                            <l n="64">auch Edelsteine waren darunter.</l>                           
+                            <l n="65">Um die gefüllten Körbe</l>
+                            <l n="66">sollten sich Knappen,</l>
+                            <l n="67">wohl gekleidet und beritten, kümmern.</l>
+                            <l n="68">Der Schmerz wurde nicht unterdrückt,</l>
+                            <l n="69">als er vor seine Mutter trat</l>
+                            <l n="70">die ihn fest umarmete.</l>
+                            <l n="71">"Sohn König Gandins,</l>
+                            <l n="72">willst du nicht bei mir bleiben?"</l>
+                            <l n="73">sagte die schöne Frau.</l>
+                            <l n="74">Ach, ich trug dich doch in meinem Leib</l>
+                            <l n="75">und du bist auch Gandins Kind.</l>
+                            <l n="76">Ist Gott erblindet</l>
+                            <l n="77">oder taub geworden,</l>
+                            <l n="78">dass er mir seine Hilfe verweigert?</l>
+                            <l n="79">Soll ich nun neuen Kummer haben?</l>
+                            <l n="80">Meines Herzens Kraft habe ich verloren,</l>
+                            <l n="81">ebenso den Glanz in meinen Augen.</l>
+                            <l n="82">Will er mich furchtbar berauben,</l>
+                            <l n="83">er, der gerechte Richter!</l>
+                            <l n="84">So erzählt mir das Lügenmärchen</l>
+                            <l n="85">dass man von seiner Hilfsbereitschaft erzählt,</l>
+                            <l n="86">die er mir verwährt!"</l>
+                            <l n="87">Da sprach der junge Herr von Anjou:</l>
+                            <l n="88">"Gott tröste euch, Frau meines Vaters</l>
+                            <l n="89">dessen Tod wir beide beklagen.</l>
+                            <l n="90">Niemand wird allerdings jemals von mir</l>
+                            <l n="91">eine solche Klagebotschaft überbringen.</l>
+                            <l n="92">Mein werde durch meinen Durst nach Ansehen</l>
+                            <l n="93">in ferne Länder und zu Rittertaten gezogen.</l>
+                            <l n="94">So ist es mir bestimmt, meine Dame."</l>
+                            <l n="95">Da sprach die Königin:</l>
+                            <l n="96">"Suchst du nach wahrer Liebe,</l>
+                            <l n="97">mit deinem Denken und Mut,</l>
+                            <l n="98">lieber Sohn, darfst du meine Geschenke</l>
+                            <l n="99">für deine Reise nicht verschmähen.</l>
+                            <l n="100">Lass von mir</l>
+                            <l n="101">durch deine Kammerdiener</l>
+                            <l n="102">vier schwere Tragekästen holen.</l>
+                            <l n="103">Diese enthalten kostbare Felle,</l>
+                            <l n="104">die noch nicht verschnitten wurden,</l>
+                            <l n="105">und sehr viel teuren Samt.</l>
+                            <l n="106">Lieber Sohn, verrate mir doch,</l>
+                            <l n="107">wann du wieder herkommst.</l>
+                            <l n="106">Damit würdest du mir eine große Freude machen."</l>
+                        </div>
+                        
+                        <div corresp="#co_fol_2v" xml:id="co_trans_2v">    
+                            <l n="1">"Meine Dame, ich weiß nicht einmal,</l>
+                            <l n="2">in welches Land es mich verschlägt.</l>
+                            <l n="3">Doch wo immer ich auch einkehre,</l>
+                            <l n="4">ihr habt eines Ritters entsprechend</l>
+                            <l n="5">mich ausgestattet und gut getan.</l>
+                            <l n="6">Auch der König hat sich ebenso von mir verabschiedet,</l>
+                            <l n="7">dass ich ihm stets dankbar sein werde.</l>
+                            <l n="8">Ich vertraue darauf,</l>
+                            <l n="9">dass ihr ihn nur noch mehr wertschätzt,</l>
+                            <l n="10">wie auch immer es mir ergehen möge."</l>
+                            <l n="11">Wie uns die Geschichte erzählt,</l>
+                            <l n="12">hat der unerschrockene Held</l>
+                            <l n="13">durch die Kraft der Liebe</l>
+                            <l n="14">und weibliche Gesellschaft</l>
+                            <l n="15">Kleinodien im Wert von tauesenden Mark empfangen.</l>
+                            <l n="16">Auch heutzutage würde ein Jude</l>
+                            <l n="17">sie für diese Summe entgegennehmen</l>
+                            <l n="18">und würde sie nicht verschmähen.</l>
+                            <l n="19">Dies alles sandte ihm seine Geliebte.</l>
+                            <l n="20">Durch seine ritterlichen Dienste gewann er</l>
+                            <l n="21">die Gunst und die Zuneigung vieler Frauen,</l>
+                            <l n="22">dass ich die Gunst der Frauen erwerben könnte.</l>
+                            <l n="23">doch war er selten ohne Kummer.</l>
+                            <l n="24">Nun nahm der Krieger Abschied.</l>
+                            <l n="25">Mutter, Bruder und das ganze Land</l>
+                            <l n="26">würde er niemals mehr wiedersehen,</l>
+                            <l n="27">was für viele ein großer Verlust war.</l>
+                            <l n="28">Er wandte sich an all die,</l>
+                            <l n="29">die in seiner Gunst standen</l>
+                            <l n="30">und dankte ihnen sehr.</l>
+                            <l n="31">Er dankte ihnen mehr als genug,</l>
+                            <l n="32">denn durch seine Erziehung kam ihm nie in den Sinn,</l>
+                            <l n="33">dass sie nur ihre Pflicht getan hatten.</l>
+                            <l n="34">Sein Ansinnen war mehr als aufrichtig.</l>
+                            <l n="35">Doch wer sich selbst lobt,</l>
+                            <l n="36">dem schenkt man keinen Glauben.</l>
+                            <l n="37">Es sollten schließlich seine Gefährten</l>
+                            <l n="38">und all jene Augenzeugen</l>
+                            <l n="39">seiner frommen Taten in der Fremde sein</l>
+                            <l n="40">den man diese Geschichten glauben würde.</l>
+                            <l n="41">Und so pflegte es Gahmuret weiterhin.</l>
+                            <l n="42">Von gerechter Bescheidenheit ließ er sich leiten</l>
+                            <l n="43">und von nichts anderem.</l>
+                            <l n="44">Er rühmte sich wenig,</l>
+                            <l n="45">großes Lob nahm er zaghaft hin</l>
+                            <l n="46">und Übermut war ihm fremd.</l>
+                            <l n="47">Doch wollte er niemals jemandem folgen,</l>
+                            <l n="48">dessen Haupt eine Krone trug.</l>
+                            <l n="49">König, Kaiser oder Kaiser,</l>
+                            <l n="50">niemanden wollte er folgen,</l>
+                            <l n="51">auch dem nicht, der mit höchster Hand</l>
+                            <l n="52">die Erde und alle Länder trägt.</l>
+                            <l n="53">Diesen Willen trug er in seinem Herzen.</l>
+                            <l n="54">Ihm war gesagt worden, dass in Bagdad</l>
+                            <l n="55">ein derart mächtiger Mann herrsche,</l>
+                            <l n="56">dass ihm die Erde</l>
+                            <l n="57">zu zwei oder mehr Teilen untertan war.</l>
+                            <l n="58">Sein Ansehen unter den Heiden war so groß,</l>
+                            <l n="59">dass man ihn nur den Baruc nannte.</l>
+                            <l n="60">Er war derart mächtig,</l>
+                            <l n="61">dass selbst Könige ihm</l>
+                            <l n="62">mit ihren gekrönten Häuptern Gefolgschaft leisteten.</l>
+                            <l n="63">Das Ansehen des Baruc besteht auch heute noch.</l>
+                            <l n="64">Ebenso wie die Grundsätze des Christentums,</l>                           
+                            <l n="65">zu denen uns die Taufe verpflichtet, in Rom festgelegt werden</l>
+                            <l n="66">so ist dort der Ursprung der Heiden.</l>
+                            <l n="67">Dort in Bagdad nehmen sie ihren päpstlichen Rechtsspruch entgegen,</l>
+                            <l n="68">ohne Widerrede,</l>
+                            <l n="69">den er Baruc ihnen für ihre Sünden</l>
+                            <l n="70">als Ablass erteilt.</l>
+                            <l n="71">Den zwei Brüdern von Babylon,</l>
+                            <l n="72">Pompeius und Ipomidon,</l>
+                            <l n="73">entriss der Baruc Ninive</l>
+                            <l n="74">welches seit jeher im Besitz ihrer Vorfahren gewesen war.</l>
+                            <l n="75">Die Brüder wehrten sich natürlich nach Kräften.</l>
+                            <l n="76">Zu dieser Zeit traf der junge Herr von Anjou ein,</l>
+                            <l n="77">dem der Baruc wohlgesonnen war.</l>
+                            <l n="78">Er nahm ihn sofort in seine Dienste,</l>
+                            <l n="79">den jungen Mann Gahmuret.</l>
+                            <l n="80">Nun habt Verständnis dafür,</l>
+                            <l n="81">dass er ein anderes Wappen als das Gaudins wählte,</l>
+                            <l n="82">welches sein Vater im gab.</l>
+                            <l n="83">Passend zu seinen gepflegten Sitten</l>
+                            <l n="84">wurde ihm</l>
+                            <l n="85">ein Anker aus weißem Hermelinpelz geschnitten.</l>
+                            <l n="86">Ebenso musste er das Wappen</l>
+                            <l n="87">auch auf seinem Schild und seinen Gewändern tragen.</l>
+                            <l n="88">Noch grünlicher als ein Smaragd</l>
+                            <l n="89">war seine Ausrüstung</l>
+                            <l n="90">und ähnlich Achmardi</l>
+                            <l n="91">,aus allerfeinsten Stoff also,</l>
+                            <l n="92">ließ er sich anfertigen</l>
+                            <l n="93">seinen Waffenrock und seinen Umhang</l>
+                            <l n="94">kostbarer als Samt,</l>
+                            <l n="95">Aus Hermelin wurde ein Anker aufgenäht,</l>
+                            <l n="96">mit goldener Schnur geschmückt.</l>
+                            <l n="97">Sein Anker funktionierte jedoch nicht,</l>
+                            <l n="98">nirgends, in keinem Land und keinem Ort</l>
+                            <l n="99">fand er jemals Halt.</l>
+                            <l n="100">Der Herr hatte furchtbar zu tragen</l>
+                            <l n="101">an der Last dieses Wappens</l>
+                            <l n="102">in all den Ländern, die er besuchte.</l>
+                            <l n="103">Mit dem Abbild des Ankers</l>
+                            <l n="104">verblieb er nirgendwo lange</l>
+                            <l n="105">und machte nirgends Rast.</l>
+                            <l n="106">Wieviele Länder er durchritt,</l>
+                            <l n="107">auf wievielen Schiffen er fuhr?</l>
+                            <l n="106">Ich könnte es nicht beschwören.</l>
+                        </div>
+                        
                     </div>
                 </back>
             </text>
-           <text n="Das Nibelungenlied">
+           <text n="Die Nibelugen" xml:id="nibelungen_text">
+               <front>
+                   <!-- Side Information -->
+                   <div type="paratext">
+                       <p>
+                           <title>The Old English story of Apollonius of Tyre</title>
+                           , is considered the first English novel.
+                           It is stored in the manuscript CCCC 201 at the Parker Library in Cambridge. The manuscript contains
+                           a huge number of texts, mainly homilies by Wulfstan. The texts are written in both Latin and Old 
+                           English. The date of the manuscript is the half of the 11th century.
+                       </p>
+                       
+                       <p>
+                           The story of Apollonius starts with an incest episode and proceeds telling the adventure of Apollonius,
+                           the young and cultivated prince of Tyre. At the end of his adventures, which take many years, he will become
+                           a rex iustus.
+                       </p>
+                   </div>
+               </front>
                 <body>
-                    <pb/>
-                    <l>tbd</l>
+                    <pb xml:id="co_fol_117r" corresp="#co_surf_117r" n="117r"/>
+                    <head style="text-align: center">
+                        <l><lb facs="#co_line_117r_00" xml:id="co_lb_117r_00" rend="italic"/>Der <orgName ref="#Nibelungen">Nibelungen</orgName>Not</l> 
+                    </head> 
+                    <l n="1"><lb facs="#co_line_117r_01" xml:id="co_lb_117r_01" n="1"/><hi rend="init3.1">E</hi>n <placeName ref="#Burgund">Bvrgonden</placeName> ein vil edel</l>
+                    <l n="2"><lb facs="#co_line_117r_02" xml:id="co_lb_117r_02" n="2"/>magedin. daz in allen lan</l>
+                    <l n="3"><lb facs="#co_line_117r_03" xml:id="co_lb_117r_03" n="3"/>den niht schoners mohte sin.</l>
+                    <l n="4"><lb facs="#co_line_117r_04" xml:id="co_lb_117r_04" n="4"/><persName ref="#Chriemhild">Chriemhilt</persName> geheizen si wart</l>
+                    <l n="5"><lb facs="#co_line_117r_05" xml:id="co_lb_117r_05" n="5"/>ein scoͤne wip. dar vmbe</l>
+                    <l n="6"><lb facs="#co_line_117r_06" xml:id="co_lb_117r_06" n="6"/>mvͦsen degene vil verliesen den lip.</l>
+                    <l n="7"><lb facs="#co_line_117r_07" xml:id="co_lb_117r_07" n="7"/>Ir pflagen drîe kvnege edel vnd rich. <persName ref="#Gunther"><choice><orig>Gvͤnt</orig><reg>Gvͤnther</reg></choice></persName></l>
+                    <l n="8"><lb facs="#co_line_117r_08" xml:id="co_lb_117r_08" n="8"/>her vnde <persName ref="#Gernot">Gernot</persName>. di rechen lobelich. <choice><abbr>vn</abbr><expan>vnd</expan></choice> <persName ref="#Giselher"><choice><orig>Gisel</orig><reg>Giselher</reg></choice></persName> </l>
+                    <l n="9"><lb facs="#co_line_117r_09" xml:id="co_lb_117r_09" n="9"/>her <choice><abbr>d</abbr><expan>der</expan></choice> ivnge ein vͦz erwelter degn. div froͮ</l>
+                    <l n="10"><lb facs="#co_line_117r_10" xml:id="co_lb_117r_10" n="10"/>we was ir swester. di fvͤrsten hetens in ir</l>
+                    <l n="11"><lb facs="#co_line_117r_11" xml:id="co_lb_117r_11" n="11"/>pflægn. Di herren waren milte. von</l>
+                    <l n="12"><lb facs="#co_line_117r_12" xml:id="co_lb_117r_12" n="12"/>arde hohe erborn.mit chraft vnmâzen chvͤ</l>
+                    <l n="13"><lb facs="#co_line_117r_13" xml:id="co_lb_117r_13" n="13"/>ne. di rechen vͦz erchorn.da zen <placeName ref="#Burgund"></placeName> </l>
+                    <l n="14"><lb facs="#co_line_117r_14" xml:id="co_lb_117r_14" n="14"/>den so was ir lant genant. si frvmten star</l>
+                    <l n="15"><lb facs="#co_line_117r_15" xml:id="co_lb_117r_15" n="15"/>chiv wnder sit in <placeName ref="#EtzelsLand"><persName ref="#Etzel"><choice><orig>Ezel</orig><reg>Etzel</reg></choice></persName>en lant.</placeName> Ze</l>
+                    <l n="16"><lb facs="#co_line_117r_16" xml:id="co_lb_117r_16" n="16"/><placeName ref="#Worms">Wormeze bi dem Rîne</placeName> si wonten mit ir</l>
+                    <l n="17"><lb facs="#co_line_117r_17" xml:id="co_lb_117r_17" n="17"/>chraft. in diente <choice><abbr>vo</abbr><expan>von</expan></choice> ir landen. vil stolziv</l>
+                    <l n="18"><lb facs="#co_line_117r_18" xml:id="co_lb_117r_18" n="18"/>ritterscaft.mit lobelichen eren. vnz an ir</l>
+                    <l n="19"><lb facs="#co_line_117r_19" xml:id="co_lb_117r_19" n="19"/>endes zit.si erstvrben sit iæmerliche. <choice><abbr>vo</abbr><expan>von</expan></choice></l>
+                    <l n="20"><lb facs="#co_line_117r_20" xml:id="co_lb_117r_20" n="20"/>zweier edelen frowen nit. Ein richiv</l>
+                    <l n="21"><lb facs="#co_line_117r_21" xml:id="co_lb_117r_21" n="21"/>kvneginne froͮ <persName ref="#Ute">Vͦte</persName> ir mvͦter hiez. ir <choice><abbr>vat</abbr><expan>vater</expan></choice></l>
+                    <l n="22"><lb facs="#co_line_117r_22" xml:id="co_lb_117r_22" n="22"/><choice><abbr>d</abbr><expan>der</expan></choice> hiez <persName ref="#Dankrat">Danchrat</persName> <choice><abbr>d</abbr><expan>der</expan></choice> in div erbe liez. sit</l>
+                    <l n="23"><lb facs="#co_line_117r_23" xml:id="co_lb_117r_23" n="23"/>nach sime lebene ein ellens richer man. <choice><abbr>d</abbr><expan>der</expan></choice></l>
+                    <l n="24"><lb facs="#co_line_117r_24" xml:id="co_lb_117r_24" n="24"/>ovch in siner ivgende grozer eren vil ge</l>
+                    <l n="25"><lb facs="#co_line_117r_25" xml:id="co_lb_117r_25" n="25"/>wan. <hi rend="init3.1">D</hi>ie drîe kvnege waren als ich </l>
+                    <l n="26"><lb facs="#co_line_117r_26" xml:id="co_lb_117r_26" n="26"/>gesaget han. <choice><abbr>vo</abbr><expan>von</expan></choice> vil hohem ellen in waren</l>
+                    <l n="27"><lb facs="#co_line_117r_27" xml:id="co_lb_117r_27" n="27"/>vndertan. ovch di besten rechen von den</l>
+                    <l n="28"><lb facs="#co_line_117r_28" xml:id="co_lb_117r_28" n="28"/>man hat gesagt. starch <choice><abbr>vn</abbr><expan>vnd</expan></choice> vil chvͤne in </l>
+                    <l n="29"><lb facs="#co_line_117r_29" xml:id="co_lb_117r_29" n="29"/>scarpfen striten vnverzagt. <hi rend="init3.1">D</hi>az was</l>
+                    <l n="30"><lb facs="#co_line_117r_30" xml:id="co_lb_117r_30" n="30"/>von <persName ref="#HagenvonTronje">Tronege Hagene</persName> <choice><abbr>vn</abbr><expan>vnd</expan></choice> ovch <choice><abbr>d</abbr><expan>der</expan></choice> <choice><abbr>brvͦd</abbr><expan>brvͦder</expan></choice> sin.</l>
+                    <l n="31"><lb facs="#co_line_117r_31" xml:id="co_lb_117r_31" n="31"/><persName ref="#Dankwart">Danchwart</persName> <choice><abbr>d</abbr><expan>der</expan></choice> vil snelle <choice><abbr>vo</abbr><expan>von</expan></choice> Metzzen <persName ref="#Ortewein">Ortewin</persName>.</l>
+                    <l n="32"><lb facs="#co_line_117r_32" xml:id="co_lb_117r_32" n="32"/>di zwene marcgraven <persName ref="#Gere">Gere</persName> vnd <persName ref="#Eckewart"><choice><orig>Ekke</orig><reg>Ekkewart</reg></choice></persName></l>
+                    <l n="33"><lb facs="#co_line_117r_33" xml:id="co_lb_117r_33" n="33"/>wart. <persName ref="#VolkervonAlzei"><choice><orig>Volker vo Alzeye</orig><reg>Volker von Alzei</reg></choice> </persName> mit ganzem</l>
+                    <l n="34"><lb facs="#co_line_117r_34" xml:id="co_lb_117r_34" n="34"/>ellen wol bewart. <persName ref="#RumoltderKüchenmeister"><choice><orig><hi rend="init3.1">R</hi>vͦmolt der chvch</orig><reg>Rvͦmolt der chvchen meister</reg></choice></persName></l>
+                    <l n="35"><lb facs="#co_line_117r_35" xml:id="co_lb_117r_35" n="35"/>ein tiwͦerlicher degn. <persName ref="#Sindolt">Sindolt</persName></l>
+                    <l n="36"><lb facs="#co_line_117r_36" xml:id="co_lb_117r_36" n="36"/><choice><abbr>vn</abbr><expan>vnd</expan></choice> <persName ref="#Hunolt">Hvͦnolt</persName> dise herren mvͦsen pflegen. des</l>
+                    <l n="37"><lb facs="#co_line_117r_37" xml:id="co_lb_117r_37" n="37"/>hoves vnt <choice><abbr>de</abbr><expan>der</expan></choice> eren <choice><abbr>de</abbr><expan>der</expan></choice> drîer kvnege man. si</l>
+                    <l n="38"><lb facs="#co_line_117r_38" xml:id="co_lb_117r_38" n="38"/>heten noch manegen rechen des ich genen</l>
+                    <l n="39"><lb facs="#co_line_117r_39" xml:id="co_lb_117r_39" n="39"/>nen niene chan. <persName ref="#Dankwart"><hi rend="init3.1">D</hi>anchwart</persName> <choice><abbr>de</abbr><expan>der</expan></choice> was</l>
+                    <l n="40"><lb facs="#co_line_117r_40" xml:id="co_lb_117r_40" n="40"/>marscalch do was <choice><abbr>de</abbr><expan>der</expan></choice> neve sin. trvhsæze des </l>
+                    <l n="41"><lb facs="#co_line_117r_41" xml:id="co_lb_117r_41" n="41"/> kvneges von Metzzen Oͤrtewin.
+                        Sindolt der</l>
+                    <l n="42"><lb facs="#co_line_117r_42" xml:id="co_lb_117r_42" n="42"/> </l>
+                    <l n="43"><lb facs="#co_line_117r_43" xml:id="co_lb_117r_43" n="43"/> </l>
+                    <l n="44"><lb facs="#co_line_117r_44" xml:id="co_lb_117r_44" n="44"/> </l>
+                    <l n="45"><lb facs="#co_line_117r_45" xml:id="co_lb_117r_45" n="45"/> </l>
+                    <l n="46"><lb facs="#co_line_117r_46" xml:id="co_lb_117r_46" n="46"/> </l>
+                    <l n="47"><lb facs="#co_line_117r_47" xml:id="co_lb_117r_47" n="47"/> </l>
+                    <l n="48"><lb facs="#co_line_117r_48" xml:id="co_lb_117r_48" n="48"/> </l>
+                    <l n="49"><lb facs="#co_line_117r_49" xml:id="co_lb_117r_49" n="49"/> </l>
+                    <l n="50"><lb facs="#co_line_117r_50" xml:id="co_lb_117r_50" n="50"/> </l>
+                    <l n="51"><lb facs="#co_line_117r_51" xml:id="co_lb_117r_51" n="51"/> </l>
+                    <l n="52"><lb facs="#co_line_117r_52" xml:id="co_lb_117r_52" n="52"/> </l>
+                    <l n="53"><lb facs="#co_line_117r_53" xml:id="co_lb_117r_53" n="53"/> </l>
+                    <l n="54"><lb facs="#co_line_117r_54" xml:id="co_lb_117r_54" n="54"/> </l>
+                    <l n="55"><lb facs="#co_line_117r_55" xml:id="co_lb_117r_55" n="55"/> </l>
+                    <l n="56"><lb facs="#co_line_117r_56" xml:id="co_lb_117r_56" n="56"/> </l>
+                    <l n="57"><lb facs="#co_line_117r_57" xml:id="co_lb_117r_57" n="57"/> </l>
+                    <l n="58"><lb facs="#co_line_117r_58" xml:id="co_lb_117r_58" n="58"/> </l>
+                    <l n="59"><lb facs="#co_line_117r_59" xml:id="co_lb_117r_59" n="59"/> </l>
+                    <l n="60"><lb facs="#co_line_117r_60" xml:id="co_lb_117r_60" n="60"/> </l>
+                    <l n="61"><lb facs="#co_line_117r_61" xml:id="co_lb_117r_61" n="61"/> </l>
+                    <l n="62"><lb facs="#co_line_117r_62" xml:id="co_lb_117r_62" n="62"/> </l>
+                    <l n="63"><lb facs="#co_line_117r_63" xml:id="co_lb_117r_63" n="63"/> </l>
+                    <l n="64"><lb facs="#co_line_117r_64" xml:id="co_lb_117r_64" n="64"/> </l>
+                    <l n="65"><lb facs="#co_line_117r_65" xml:id="co_lb_117r_65" n="65"/> </l>
+                    <l n="66"><lb facs="#co_line_117r_66" xml:id="co_lb_117r_66" n="66"/> </l>
+                    <l n="67"><lb facs="#co_line_117r_67" xml:id="co_lb_117r_67" n="67"/> </l>
+                    <l n="68"><lb facs="#co_line_117r_68" xml:id="co_lb_117r_68" n="68"/> </l>
+                    <l n="69"><lb facs="#co_line_117r_69" xml:id="co_lb_117r_69" n="69"/> </l>
+                    <l n="70"><lb facs="#co_line_117r_70" xml:id="co_lb_117r_70" n="70"/> </l>
+                    <l n="71"><lb facs="#co_line_117r_71" xml:id="co_lb_117r_71" n="71"/> </l>
+                    <l n="72"><lb facs="#co_line_117r_72" xml:id="co_lb_117r_72" n="72"/> </l>
+                    <l n="73"><lb facs="#co_line_117r_73" xml:id="co_lb_117r_73" n="73"/> </l>
+                    <l n="74"><lb facs="#co_line_117r_74" xml:id="co_lb_117r_74" n="74"/> </l>
+                    <l n="75"><lb facs="#co_line_117r_75" xml:id="co_lb_117r_75" n="75"/> </l>
+                    <l n="76"><lb facs="#co_line_117r_76" xml:id="co_lb_117r_76" n="76"/> </l>
+                    <l n="77"><lb facs="#co_line_117r_77" xml:id="co_lb_117r_77" n="77"/> </l>
+                    <l n="78"><lb facs="#co_line_117r_78" xml:id="co_lb_117r_78" n="78"/> </l>
+                    <l n="79"><lb facs="#co_line_117r_79" xml:id="co_lb_117r_79" n="79"/> </l>
+                    <l n="80"><lb facs="#co_line_117r_80" xml:id="co_lb_117r_80" n="80"/> </l>
+                    <l n="81"><lb facs="#co_line_117r_81" xml:id="co_lb_117r_81" n="81"/> </l>
+                    <l n="82"><lb facs="#co_line_117r_82" xml:id="co_lb_117r_82" n="82"/> </l>
+                    <l n="83"><lb facs="#co_line_117r_83" xml:id="co_lb_117r_83" n="83"/> </l>
+                    <l n="84"><lb facs="#co_line_117r_84" xml:id="co_lb_117r_84" n="84"/> </l>
+                    <l n="85"><lb facs="#co_line_117r_85" xml:id="co_lb_117r_85" n="85"/> </l>
+                    <l n="86"><lb facs="#co_line_117r_86" xml:id="co_lb_117r_86" n="86"/> </l>
+                    <l n="87"><lb facs="#co_line_117r_87" xml:id="co_lb_117r_87" n="87"/> </l>
+                    <l n="88"><lb facs="#co_line_117r_88" xml:id="co_lb_117r_88" n="88"/> </l>
+                    <l n="89"><lb facs="#co_line_117r_89" xml:id="co_lb_117r_89" n="89"/> </l>
+                    <l n="90"><lb facs="#co_line_117r_90" xml:id="co_lb_117r_90" n="90"/> </l>
+                    <l n="91"><lb facs="#co_line_117r_91" xml:id="co_lb_117r_91" n="91"/> </l>
+                    <l n="92"><lb facs="#co_line_117r_92" xml:id="co_lb_117r_92" n="92"/> </l>
+                    <l n="93"><lb facs="#co_line_117r_93" xml:id="co_lb_117r_93" n="93"/> </l>
+                    <l n="94"><lb facs="#co_line_117r_94" xml:id="co_lb_117r_94" n="94"/> </l>
+                    <l n="95"><lb facs="#co_line_117r_95" xml:id="co_lb_117r_95" n="95"/> </l>
+                    <l n="96"><lb facs="#co_line_117r_96" xml:id="co_lb_117r_96" n="96"/> </l>
+                    <l n="97"><lb facs="#co_line_117r_97" xml:id="co_lb_117r_97" n="97"/> </l>
+                    <l n="98"><lb facs="#co_line_117r_98" xml:id="co_lb_117r_98" n="98"/> </l>
+                    <l n="99"><lb facs="#co_line_117r_99" xml:id="co_lb_117r_99" n="99"/> </l>
+                    <l n="100"><lb facs="#co_line_117r_100" xml:id="co_lb_117r_100" n="100"/> </l>
+                    <l n="101"><lb facs="#co_line_117r_101" xml:id="co_lb_117r_101" n="101"/> </l>
+                    <l n="102"><lb facs="#co_line_117r_102" xml:id="co_lb_117r_102" n="102"/> </l>
+                    <l n="103"><lb facs="#co_line_117r_103" xml:id="co_lb_117r_103" n="103"/> </l>
+                    <l n="104"><lb facs="#co_line_117r_104" xml:id="co_lb_117r_104" n="104"/> </l>
+                    <l n="105"><lb facs="#co_line_117r_105" xml:id="co_lb_117r_105" n="105"/> </l>
+                    <l n="106"><lb facs="#co_line_117r_106" xml:id="co_lb_117r_106" n="106"/> </l>
+                    <l n="107"><lb facs="#co_line_117r_107" xml:id="co_lb_117r_107" n="107"/> </l>
+                    <l n="108"><lb facs="#co_line_117r_108" xml:id="co_lb_117r_108" n="108"/> </l>
+                    
+                    
+                    
+                    <pb xml:id="co_fol_117v" corresp="#co_surf_117v" n="117v"/>
+                    <l n="1"><lb facs="#co_line_117v_01" xml:id="co_lb_117v_01" n="1"/> </l>
+                    <l n="2"><lb facs="#co_line_117v_02" xml:id="co_lb_117v_02" n="2"/> </l>
+                    <l n="3"><lb facs="#co_line_117v_03" xml:id="co_lb_117v_03" n="3"/> </l>
+                    <l n="4"><lb facs="#co_line_117v_04" xml:id="co_lb_117v_04" n="4"/> </l>
+                    <l n="5"><lb facs="#co_line_117v_05" xml:id="co_lb_117v_05" n="5"/> </l>
+                    <l n="6"><lb facs="#co_line_117v_06" xml:id="co_lb_117v_06" n="6"/> </l>
+                    <l n="7"><lb facs="#co_line_117v_07" xml:id="co_lb_117v_07" n="7"/> </l>
+                    <l n="8"><lb facs="#co_line_117v_08" xml:id="co_lb_117v_08" n="8"/> </l>
+                    <l n="9"><lb facs="#co_line_117v_09" xml:id="co_lb_117v_09" n="9"/> </l>
+                    <l n="10"><lb facs="#co_line_117v_10" xml:id="co_lb_117v_10" n="10"/> </l>
+                    <l n="11"><lb facs="#co_line_117v_11" xml:id="co_lb_117v_11" n="11"/> </l>
+                    <l n="12"><lb facs="#co_line_117v_12" xml:id="co_lb_117v_12" n="12"/> </l>
+                    <l n="13"><lb facs="#co_line_117v_13" xml:id="co_lb_117v_13" n="13"/> </l>
+                    <l n="14"><lb facs="#co_line_117v_14" xml:id="co_lb_117v_14" n="14"/> </l>
+                    <l n="15"><lb facs="#co_line_117v_15" xml:id="co_lb_117v_15" n="15"/> </l>
+                    <l n="16"><lb facs="#co_line_117v_16" xml:id="co_lb_117v_16" n="16"/> </l>
+                    <l n="17"><lb facs="#co_line_117v_17" xml:id="co_lb_117v_17" n="17"/> </l>
+                    <l n="18"><lb facs="#co_line_117v_18" xml:id="co_lb_117v_18" n="18"/> </l>
+                    <l n="19"><lb facs="#co_line_117v_19" xml:id="co_lb_117v_19" n="19"/> </l>
+                    <l n="20"><lb facs="#co_line_117v_20" xml:id="co_lb_117v_20" n="20"/> </l>
+                    <l n="21"><lb facs="#co_line_117v_21" xml:id="co_lb_117v_21" n="21"/> </l>
+                    <l n="22"><lb facs="#co_line_117v_22" xml:id="co_lb_117v_22" n="22"/> </l>
+                    <l n="23"><lb facs="#co_line_117v_23" xml:id="co_lb_117v_23" n="23"/> </l>
+                    <l n="24"><lb facs="#co_line_117v_24" xml:id="co_lb_117v_24" n="24"/> </l>
+                    <l n="25"><lb facs="#co_line_117v_25" xml:id="co_lb_117v_25" n="25"/> </l>
+                    <l n="26"><lb facs="#co_line_117v_26" xml:id="co_lb_117v_26" n="26"/> </l>
+                    <l n="27"><lb facs="#co_line_117v_27" xml:id="co_lb_117v_27" n="27"/> </l>
+                    <l n="28"><lb facs="#co_line_117v_28" xml:id="co_lb_117v_28" n="28"/> </l>
+                    <l n="29"><lb facs="#co_line_117v_29" xml:id="co_lb_117v_29" n="29"/> </l>
+                    <l n="30"><lb facs="#co_line_117v_30" xml:id="co_lb_117v_30" n="30"/> </l>
+                    <l n="31"><lb facs="#co_line_117v_31" xml:id="co_lb_117v_31" n="31"/> </l>
+                    <l n="32"><lb facs="#co_line_117v_32" xml:id="co_lb_117v_32" n="32"/> </l>
+                    <l n="33"><lb facs="#co_line_117v_33" xml:id="co_lb_117v_33" n="33"/> </l>
+                    <l n="34"><lb facs="#co_line_117v_34" xml:id="co_lb_117v_34" n="34"/> </l>
+                    <l n="35"><lb facs="#co_line_117v_35" xml:id="co_lb_117v_35" n="35"/> </l>
+                    <l n="36"><lb facs="#co_line_117v_36" xml:id="co_lb_117v_36" n="36"/> </l>
+                    <l n="37"><lb facs="#co_line_117v_37" xml:id="co_lb_117v_37" n="37"/> </l>
+                    <l n="38"><lb facs="#co_line_117v_38" xml:id="co_lb_117v_38" n="38"/> </l>
+                    <l n="39"><lb facs="#co_line_117v_39" xml:id="co_lb_117v_39" n="39"/> </l>
+                    <l n="40"><lb facs="#co_line_117v_40" xml:id="co_lb_117v_40" n="40"/> </l>
+                    <l n="41"><lb facs="#co_line_117v_41" xml:id="co_lb_117v_41" n="41"/> </l>
+                    <l n="42"><lb facs="#co_line_117v_42" xml:id="co_lb_117v_42" n="42"/> </l>
+                    <l n="43"><lb facs="#co_line_117v_43" xml:id="co_lb_117v_43" n="43"/> </l>
+                    <l n="44"><lb facs="#co_line_117v_44" xml:id="co_lb_117v_44" n="44"/> </l>
+                    <l n="45"><lb facs="#co_line_117v_45" xml:id="co_lb_117v_45" n="45"/> </l>
+                    <l n="46"><lb facs="#co_line_117v_46" xml:id="co_lb_117v_46" n="46"/> </l>
+                    <l n="47"><lb facs="#co_line_117v_47" xml:id="co_lb_117v_47" n="47"/> </l>
+                    <l n="48"><lb facs="#co_line_117v_48" xml:id="co_lb_117v_48" n="48"/> </l>
+                    <l n="49"><lb facs="#co_line_117v_49" xml:id="co_lb_117v_49" n="49"/> </l>
+                    <l n="50"><lb facs="#co_line_117v_50" xml:id="co_lb_117v_50" n="50"/> </l>
+                    <l n="51"><lb facs="#co_line_117v_51" xml:id="co_lb_117v_51" n="51"/> </l>
+                    <l n="52"><lb facs="#co_line_117v_52" xml:id="co_lb_117v_52" n="52"/> </l>
+                    <l n="53"><lb facs="#co_line_117v_53" xml:id="co_lb_117v_53" n="53"/> </l>
+                    <l n="54"><lb facs="#co_line_117v_54" xml:id="co_lb_117v_54" n="54"/> </l>
+                    <l n="55"><lb facs="#co_line_117v_55" xml:id="co_lb_117v_55" n="55"/> </l>
+                    <l n="56"><lb facs="#co_line_117v_56" xml:id="co_lb_117v_56" n="56"/> </l>
+                    <l n="57"><lb facs="#co_line_117v_57" xml:id="co_lb_117v_57" n="57"/> </l>
+                    <l n="58"><lb facs="#co_line_117v_58" xml:id="co_lb_117v_58" n="58"/> </l>
+                    <l n="59"><lb facs="#co_line_117v_59" xml:id="co_lb_117v_59" n="59"/> </l>
+                    <l n="60"><lb facs="#co_line_117v_60" xml:id="co_lb_117v_60" n="60"/> </l>
+                    <l n="61"><lb facs="#co_line_117v_61" xml:id="co_lb_117v_61" n="61"/> </l>
+                    <l n="62"><lb facs="#co_line_117v_62" xml:id="co_lb_117v_62" n="62"/> </l>
+                    <l n="63"><lb facs="#co_line_117v_63" xml:id="co_lb_117v_63" n="63"/> </l>
+                    <l n="64"><lb facs="#co_line_117v_64" xml:id="co_lb_117v_64" n="64"/> </l>
+                    <l n="65"><lb facs="#co_line_117v_65" xml:id="co_lb_117v_65" n="65"/> </l>
+                    <l n="66"><lb facs="#co_line_117v_66" xml:id="co_lb_117v_66" n="66"/> </l>
+                    <l n="67"><lb facs="#co_line_117v_67" xml:id="co_lb_117v_67" n="67"/> </l>
+                    <l n="68"><lb facs="#co_line_117v_68" xml:id="co_lb_117v_68" n="68"/> </l>
+                    <l n="69"><lb facs="#co_line_117v_69" xml:id="co_lb_117v_69" n="69"/> </l>
+                    <l n="70"><lb facs="#co_line_117v_70" xml:id="co_lb_117v_70" n="70"/> </l>
+                    <l n="71"><lb facs="#co_line_117v_71" xml:id="co_lb_117v_71" n="71"/> </l>
+                    <l n="72"><lb facs="#co_line_117v_72" xml:id="co_lb_117v_72" n="72"/> </l>
+                    <l n="73"><lb facs="#co_line_117v_73" xml:id="co_lb_117v_73" n="73"/> </l>
+                    <l n="74"><lb facs="#co_line_117v_74" xml:id="co_lb_117v_74" n="74"/> </l>
+                    <l n="75"><lb facs="#co_line_117v_75" xml:id="co_lb_117v_75" n="75"/> </l>
+                    <l n="76"><lb facs="#co_line_117v_76" xml:id="co_lb_117v_76" n="76"/> </l>
+                    <l n="77"><lb facs="#co_line_117v_77" xml:id="co_lb_117v_77" n="77"/> </l>
+                    <l n="78"><lb facs="#co_line_117v_78" xml:id="co_lb_117v_78" n="78"/> </l>
+                    <l n="79"><lb facs="#co_line_117v_79" xml:id="co_lb_117v_79" n="79"/> </l>
+                    <l n="80"><lb facs="#co_line_117v_80" xml:id="co_lb_117v_80" n="80"/> </l>
+                    <l n="81"><lb facs="#co_line_117v_81" xml:id="co_lb_117v_81" n="81"/> </l>
+                    <l n="82"><lb facs="#co_line_117v_82" xml:id="co_lb_117v_82" n="82"/> </l>
+                    <l n="83"><lb facs="#co_line_117v_83" xml:id="co_lb_117v_83" n="83"/> </l>
+                    <l n="84"><lb facs="#co_line_117v_84" xml:id="co_lb_117v_84" n="84"/> </l>
+                    <l n="85"><lb facs="#co_line_117v_85" xml:id="co_lb_117v_85" n="85"/> </l>
+                    <l n="86"><lb facs="#co_line_117v_86" xml:id="co_lb_117v_86" n="86"/> </l>
+                    <l n="87"><lb facs="#co_line_117v_87" xml:id="co_lb_117v_87" n="87"/> </l>
+                    <l n="88"><lb facs="#co_line_117v_88" xml:id="co_lb_117v_88" n="88"/> </l>
+                    <l n="89"><lb facs="#co_line_117v_89" xml:id="co_lb_117v_89" n="89"/> </l>
+                    <l n="90"><lb facs="#co_line_117v_90" xml:id="co_lb_117v_90" n="90"/> </l>
+                    <l n="91"><lb facs="#co_line_117v_91" xml:id="co_lb_117v_91" n="91"/> </l>
+                    <l n="92"><lb facs="#co_line_117v_92" xml:id="co_lb_117v_92" n="92"/> </l>
+                    <l n="93"><lb facs="#co_line_117v_93" xml:id="co_lb_117v_93" n="93"/> </l>
+                    <l n="94"><lb facs="#co_line_117v_94" xml:id="co_lb_117v_94" n="94"/> </l>
+                    <l n="95"><lb facs="#co_line_117v_95" xml:id="co_lb_117v_95" n="95"/> </l>
+                    <l n="96"><lb facs="#co_line_117v_96" xml:id="co_lb_117v_96" n="96"/> </l>
+                    <l n="97"><lb facs="#co_line_117v_97" xml:id="co_lb_117v_97" n="97"/> </l>
+                    <l n="98"><lb facs="#co_line_117v_98" xml:id="co_lb_117v_98" n="98"/> </l>
+                    <l n="99"><lb facs="#co_line_117v_99" xml:id="co_lb_117v_99" n="99"/> </l>
+                    <l n="100"><lb facs="#co_line_117v_100" xml:id="co_lb_117v_100" n="100"/> </l>
+                    <l n="101"><lb facs="#co_line_117v_101" xml:id="co_lb_117v_101" n="101"/> </l>
+                    <l n="102"><lb facs="#co_line_117v_102" xml:id="co_lb_117v_102" n="102"/> </l>
+                    <l n="103"><lb facs="#co_line_117v_103" xml:id="co_lb_117v_103" n="103"/> </l>
+                    <l n="104"><lb facs="#co_line_117v_104" xml:id="co_lb_117v_104" n="104"/> </l>
+                    <l n="105"><lb facs="#co_line_117v_105" xml:id="co_lb_117v_105" n="105"/> </l>
+                    <l n="106"><lb facs="#co_line_117v_106" xml:id="co_lb_117v_106" n="106"/> </l>
+                    <l n="107"><lb facs="#co_line_117v_107" xml:id="co_lb_117v_107" n="107"/> </l>
+                    <l n="108"><lb facs="#co_line_117v_108" xml:id="co_lb_117v_108" n="108"/> </l>
                 </body>
             </text> 
            

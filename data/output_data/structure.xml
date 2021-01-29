@@ -12,6 +12,7 @@
    <liste>
       <listPerson active="1" lang="def">LIST_PERSON</listPerson>
       <listPlace active="1" lang="def">LIST_PLACE</listPlace>
+      <listOrg active="1" lang="def">LIST_ORG</listOrg>
    </liste>
    <editions>
       <edition data-key="dipl">Diplomatic</edition>
@@ -25,8 +26,9 @@
          <pb n="2r">co_fol_2r</pb>
          <pb n="2v">co_fol_2v</pb>
       </text>
-      <text n="2" label="Das Nibelungenlied">
-         <pb n="1">1</pb>
+      <text n="nibelungen_text" label="Die Nibelugen">
+         <pb n="117r">co_fol_117r</pb>
+         <pb n="117v">co_fol_117v</pb>
       </text>
    </textpage>
    <pages>
@@ -44,7 +46,10 @@
          <pb n="2v">co_fol_2v</pb>
       </pair>
       <pair>
-         <pb n="1">1</pb>
+         <pb n="117r">co_fol_117r</pb>
+      </pair>
+      <pair>
+         <pb n="117v">co_fol_117v</pb>
       </pair>
    </pages>
    <idno>VB</idno>
