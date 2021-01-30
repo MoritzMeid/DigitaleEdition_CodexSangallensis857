@@ -4,31 +4,39 @@
 								{ 
 									"line" : "|", 
 									"text" : " ", 
-									"tags" : "parzival_text|Parzival", 
+									"tags" : "cod_sanga_857 parzival_text|Parzival", 
 									"loc" : "no_page_info|no_page_info",
 									"inFront": "false"
 								}, 
 							
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "",
+											"tags" : "parzival_text|Parzival",
+											"loc" : "co_fol_Deckel|Deckel",
+											"inFront": "false"
+										},
+									
 									{
 										"line" : "no line info|no line info", 
-										"text" : "The Old English story of Apollonius of Tyre , is considered the first English novel. It is stored in the manuscript CCCC 201 at the Parker Library in Cambridge. The manuscript contains a huge number of texts, mainly homilies by Wulfstan. The texts are written in both Latin and Old English. The date of the manuscript is the half of the 11th century. ",
+										"text" : "Der Parzival ist ein von Wolfram von Eschenbach verfasster Versroman der mittelhochdeutschen höfischen Literatur, dessen Ursprung um 1200 vermutet wird. Das Werk ordnet sich thematisch der Gattung der mittelalterlichen Artus-Epik unter, zudem unter anderem auch Werke wie Hartman von Aues Iwein oder auch der Wigamur eines unbekannten Autors zählen. Der Text berichtet dabei in circa 25.000 paarweise gereimten Versen wie der junge, von der Adelswelt abgekapselte und somit naive, Parzival den Weg zum Hof des Königs Artus finden und von dort aus zahlreiche Aventiuren erlebt, bis er schlussendlich zum König der Gralsburg aufsteigt. Der Stoff geht dabei auf die Vorlage des französischen Dichters Chrétien de Troyes zurück. ",
 										"tags" : "parzival_text|Parzival",
-										"loc" : "co_fol_EinbandV|EinbandVorne",
+										"loc" : "no_page_info|no_page_info",
 										"inFront": "true"
 									},
 								
 									{
 										"line" : "no line info|no line info", 
-										"text" : "The story of Apollonius starts with an incest episode and proceeds telling the adventure of Apollonius, the young and cultivated prince of Tyre. At the end of his adventures, which take many years, he will become a rex iustus. ",
+										"text" : "Im ersten Teil der Erzählung geht es dabei gar nicht um Parzival, der zum Zeitpunkt der Handlung noch nicht mal geboren ist. Vielmehr wird die Geschichte seines Vaters Gahmuret erzählt, der auszieht um sich im Sinne der mittelaltlichen Epik einen &quotes;Namen&quotes; zu machen und Ehre zu gewinnen. Dabei zeugt er zwei Kinder mit verschiedenen Königinnen, Feirefiz und Parzival, welche in der folgenden Handlung auftauchen werden. ",
 										"tags" : "parzival_text|Parzival",
-										"loc" : "co_fol_EinbandV|EinbandVorne",
+										"loc" : "no_page_info|no_page_info",
 										"inFront": "true"
 									},
 								
 										{ 
 											"line" : "no line info|no line info",
 											"text" : "Der Parcival ",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -36,7 +44,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "01 Ist zwiuel der h'zen herzen nahgebur",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -44,7 +52,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 daz muͦz der sele werden sur",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -52,7 +60,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 gesmehet unde gezieret.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -60,7 +68,7 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "04 ist swa sich parrieret",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -68,7 +76,7 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 vn verzaget mannes muͦt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -76,7 +84,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 als agelstern varwe tuͦt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -84,7 +92,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "07 der mac dennoc wesen geil",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -92,7 +100,7 @@
 										{ 
 											"line" : "8|line 8",
 											"text" : "08 wand an im sint eidiv teil",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -100,7 +108,7 @@
 										{ 
 											"line" : "9|line 9",
 											"text" : "09 des himels vnd der helle.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -108,7 +116,7 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "10 der unstete geselle",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -116,7 +124,7 @@
 										{ 
 											"line" : "11|line 11",
 											"text" : "11 hat di swarzen varwe gâr",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -124,7 +132,7 @@
 										{ 
 											"line" : "12|line 12",
 											"text" : "12 vnd wirt ouch nah der vinster varn",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -132,7 +140,7 @@
 										{ 
 											"line" : "13|line 13",
 											"text" : "13 so habt sich an die blanken.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -140,7 +148,7 @@
 										{ 
 											"line" : "14|line 14",
 											"text" : "14 der mit steten gedanken",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -148,7 +156,7 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "15 Diz fligende bîspel.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -156,7 +164,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "16 ist tumben lîvten gár zesnêl",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -164,7 +172,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "17 sine mugens niht erdenken.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -172,7 +180,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "18 wand iz kan vor in wenkn wenken",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -180,7 +188,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "19 rehte alsam ein schelbich hase.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -188,7 +196,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "20 zin anderhalb an dem glase",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -196,7 +204,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "21 gelichent und des blinden trovm.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -204,7 +212,7 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "22 di gebent antluzes rovm.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -212,7 +220,7 @@
 										{ 
 											"line" : "23|line 23",
 											"text" : "23 doh mac mit stête niht gesin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -220,7 +228,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "24 dirre trûbe lihte schin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -228,7 +236,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "25 er machet kuͦrze froude al war",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -236,7 +244,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "26 wer rovfet mich da nîe dehein har",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -244,7 +252,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "27 gewuͦchs innen an miner",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -252,7 +260,7 @@
 										{ 
 											"line" : "28|line 28",
 											"text" : "28 der hat vil nahe griffe erkant",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -260,7 +268,7 @@
 										{ 
 											"line" : "29|line 29",
 											"text" : "29 ih gein den vorhten och",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -268,7 +276,7 @@
 										{ 
 											"line" : "30|line 30",
 											"text" : "30 daz glîchet miner witze idoch.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -276,7 +284,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "31 wil ich triwe finden.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -284,7 +292,7 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "32 al da si chan verswinden",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -292,7 +300,7 @@
 										{ 
 											"line" : "33|line 33",
 											"text" : "33 als fiwer in den brunnen",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -300,7 +308,7 @@
 										{ 
 											"line" : "34|line 34",
 											"text" : "34 vnd daz tvͦ an der sunnen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -308,7 +316,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "35 nôh erkante ich nîe so wisen man",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -316,7 +324,7 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "36 den mohte gerne de han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -324,7 +332,7 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "37 welher stîvre disîv mere gernt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -332,7 +340,7 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "38 unt waz si guͦter le wernt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -340,7 +348,7 @@
 										{ 
 											"line" : "39|line 39",
 											"text" : "39 dar an si ni des verzagent.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -348,7 +356,7 @@
 										{ 
 											"line" : "40|line 40",
 											"text" : "40 beide si vlihent unde iagent",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -356,7 +364,7 @@
 										{ 
 											"line" : "41|line 41",
 											"text" : "41 si entwichent unde kêrent",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -364,7 +372,7 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "42 si iustern und nt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -372,7 +380,7 @@
 										{ 
 											"line" : "43|line 43",
 											"text" : "43 swer mit disen schanden allen kan.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -380,7 +388,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "44 an dem hat witze wol getan",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -388,7 +396,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "45 der sih niht versitzet noh vergêt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -396,7 +404,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "46 vnd sich anders wol verstêt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -404,7 +412,7 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "47 valsch geselleclicher mvͦt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -412,7 +420,7 @@
 										{ 
 											"line" : "48|line 48",
 											"text" : "48 ist dem helle fîvre guͦt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -420,7 +428,7 @@
 										{ 
 											"line" : "49|line 49",
 											"text" : "49 unde hoher werdekeit ein hagel.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -428,7 +436,7 @@
 										{ 
 											"line" : "50|line 50",
 											"text" : "50 sin triwe hat so kurzen zagel",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -436,7 +444,7 @@
 										{ 
 											"line" : "51|line 51",
 											"text" : "51 daz si den dritten biz niht galt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -444,31 +452,31 @@
 										{ 
 											"line" : "52|line 52",
 											"text" : "52 fvͦr si bi bremen in den walt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "53|line 53",
-											"text" : "53 isen maneger  slahte",
-											"tags" : "parzival_text|Parzival",
+											"text" : "53 isen maneger slahte underbind",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "54|line 54",
-											"text" : "54 idoch niht gar von sint",
-											"tags" : "parzival_text|Parzival",
+											"text" : "54 idoch niht gar von manne sint",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "55|line 55",
-											"text" : "55 fv̂r div wip stoze ih",
-											"tags" : "parzival_text|Parzival",
+											"text" : "55 fv̂r div wip stoze ih di disiu zil",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -476,7 +484,7 @@
 										{ 
 											"line" : "56|line 56",
 											"text" : "56 swelhiv min raten merchen wil",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -484,7 +492,7 @@
 										{ 
 											"line" : "57|line 57",
 											"text" : "57 div sol wîzen war si chêre",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -492,7 +500,7 @@
 										{ 
 											"line" : "58|line 58",
 											"text" : "58 ir pris und ir ere.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -500,7 +508,7 @@
 										{ 
 											"line" : "59|line 59",
 											"text" : "59 vnd wem si danach si bereit",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -508,7 +516,7 @@
 										{ 
 											"line" : "60|line 60",
 											"text" : "60 minne und ir werdekeit",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -516,7 +524,7 @@
 										{ 
 											"line" : "61|line 61",
 											"text" : "61 so daz si niht gerîwe",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -524,7 +532,7 @@
 										{ 
 											"line" : "62|line 62",
 											"text" : "62 ir chvͦsche und ir trîwe.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -532,7 +540,7 @@
 										{ 
 											"line" : "63|line 63",
 											"text" : "63 Vor gote ich guͦten wiben bite",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -540,7 +548,7 @@
 										{ 
 											"line" : "64|line 64",
 											"text" : "64 daz in rehtiv maze volge mite",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -548,7 +556,7 @@
 										{ 
 											"line" : "65|line 65",
 											"text" : "65 scham ist ein sloz ob allen siten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -556,7 +564,7 @@
 										{ 
 											"line" : "66|line 66",
 											"text" : "66 ich endarf in niht mer heiles biten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -564,7 +572,7 @@
 										{ 
 											"line" : "67|line 67",
 											"text" : "67 div valsche erwirbet valschen prîs.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -572,7 +580,7 @@
 										{ 
 											"line" : "68|line 68",
 											"text" : "68 wi stete ist ein dûnnez îs.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -580,7 +588,7 @@
 										{ 
 											"line" : "69|line 69",
 											"text" : "69 daz ovgest heize sunnen hat.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -588,7 +596,7 @@
 										{ 
 											"line" : "70|line 70",
 											"text" : "70 ir lop vil balde alsus zergat",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -596,7 +604,7 @@
 										{ 
 											"line" : "71|line 71",
 											"text" : "71 manech wibes schone an lobe ist breit",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -604,7 +612,7 @@
 										{ 
 											"line" : "72|line 72",
 											"text" : "72 ist da daz herze conterfeit",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -612,7 +620,7 @@
 										{ 
 											"line" : "73|line 73",
 											"text" : "73 die lob ich als ich solde.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -620,7 +628,7 @@
 										{ 
 											"line" : "74|line 74",
 											"text" : "74 daz safer im golde.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -628,7 +636,7 @@
 										{ 
 											"line" : "75|line 75",
 											"text" : "75 ich enhan daz niht fvr lihtiv dinc.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -636,7 +644,7 @@
 										{ 
 											"line" : "76|line 76",
 											"text" : "76 swer in den chranken meͦssinc.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -644,7 +652,7 @@
 										{ 
 											"line" : "77|line 77",
 											"text" : "77 verwürchet edeln rvͦbin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -652,7 +660,7 @@
 										{ 
 											"line" : "78|line 78",
 											"text" : "78 und al die aventivͦre sin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -660,7 +668,7 @@
 										{ 
 											"line" : "79|line 79",
 											"text" : "79 dem gliche ih rehte wibes mvͦt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -668,7 +676,7 @@
 										{ 
 											"line" : "80|line 80",
 											"text" : "80 div ir wipheit rehte tvͦt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -676,7 +684,7 @@
 										{ 
 											"line" : "81|line 81",
 											"text" : "81 dane sol ich varwe pruͦven niht",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -684,7 +692,7 @@
 										{ 
 											"line" : "82|line 82",
 											"text" : "82 noch herzen dach. daz man siht",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -692,47 +700,47 @@
 										{ 
 											"line" : "83|line 83",
 											"text" : "83 ist si inrehalp des prust bew* bewart",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "84|line 84",
-											"text" : "84 so ist werder pris da niht v*sch::: versch:::",
-											"tags" : "parzival_text|Parzival",
+											"text" : "84 so ist werder pris da niht verschart",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "85|line 85",
-											"text" : "85 Solt ich wip un:::",
-											"tags" : "parzival_text|Parzival",
+											"text" : "85 Solt ich wip unde man",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "86|line 86",
-											"text" : "86 zerehte pruͦven als ih :::",
-											"tags" : "parzival_text|Parzival",
+											"text" : "86 zerehte pruͦven als ih kan",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "87|line 87",
-											"text" : "87 da fv̂re e:n l::g:::",
-											"tags" : "parzival_text|Parzival",
+											"text" : "87 da fv̂re ein langez maere mite",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "88|line 88",
-											"text" : "88 nv̂ h::et d::re aventivre site.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "88 nv̂ hoeret dirre aventivre site.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -740,7 +748,7 @@
 										{ 
 											"line" : "89|line 89",
 											"text" : "89 div lat iuch wizzen heide.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -748,7 +756,7 @@
 										{ 
 											"line" : "90|line 90",
 											"text" : "90 von libe und uon leide",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -756,7 +764,7 @@
 										{ 
 											"line" : "91|line 91",
 											"text" : "91 froͤvd und angest vert dabi.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -764,7 +772,7 @@
 										{ 
 											"line" : "92|line 92",
 											"text" : "92 nu lat min eines wesen dri.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -772,7 +780,7 @@
 										{ 
 											"line" : "93|line 93",
 											"text" : "93 Der ieslicher sunder phlege.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -780,7 +788,7 @@
 										{ 
 											"line" : "94|line 94",
 											"text" : "94 daz miner kvnste widerwege.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -788,7 +796,7 @@
 										{ 
 											"line" : "95|line 95",
 											"text" : "95 dar zvͦ gehorte wilder fvͦnt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -796,7 +804,7 @@
 										{ 
 											"line" : "96|line 96",
 											"text" : "96 ob si iv gerne teten kvͦnt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -804,7 +812,7 @@
 										{ 
 											"line" : "97|line 97",
 											"text" : "97 daz ich iv eine kuͦnden wil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -812,15 +820,15 @@
 										{ 
 											"line" : "98|line 98",
 											"text" : "98 si hettú arbeite vil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "99|line 99",
-											"text" : "99 Ein mere ih iv wil niwen.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "99 in mere ih iv wil niwen.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -828,7 +836,7 @@
 										{ 
 											"line" : "100|line 100",
 											"text" : "100 daz seit uon grozen trîwen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -836,7 +844,7 @@
 										{ 
 											"line" : "101|line 101",
 											"text" : "101 wiplichez wibes reht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -844,7 +852,7 @@
 										{ 
 											"line" : "102|line 102",
 											"text" : "102 un unt mannes manheit also sleht",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -852,7 +860,7 @@
 										{ 
 											"line" : "103|line 103",
 											"text" : "103 div sich gein herte nie gebovch.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -860,7 +868,7 @@
 										{ 
 											"line" : "104|line 104",
 											"text" : "104 sin herze in dar an niht betrovch",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -868,7 +876,7 @@
 										{ 
 											"line" : "105|line 105",
 											"text" : "105 er stahel swa er ze strite quam.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -876,7 +884,15 @@
 										{ 
 											"line" : "106|line 106",
 											"text" : "106 sin hant da sigelichen nam.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
+											"loc" : "co_fol_1r|1r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "N101",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1r|1r",
 											"inFront": "false"
 										},
@@ -884,7 +900,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "01 vil manegen lobelichen pris.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -892,7 +908,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 er chuͦne træchliche wis.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -900,7 +916,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 den helt ich alsus gruͦze.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -908,7 +924,7 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "04 er wibes ovgen suͦze",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -916,7 +932,7 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 vnd da bi wibes herzen suͦht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -924,7 +940,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 vor missewende ein wariv fluͦht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -932,7 +948,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "07 den ich hiezu han erkorn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -940,7 +956,7 @@
 										{ 
 											"line" : "8|line 8",
 											"text" : "08 er ist mershalp mershalp noch ungeborn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -948,7 +964,7 @@
 										{ 
 											"line" : "9|line 9",
 											"text" : "09 dem man dirre aventivre giht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -956,31 +972,31 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "10 un unt wunders vil des dran geschiht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "11|line 11",
-											"text" : "11 ie pflegetns noh als mans do pflach.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "11 iepflegetns noh als mans do pflach.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "12 swa lit un unt welich gerihte lach.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "12 swa lit un unt französiches gerihte lach.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "13|line 13",
-											"text" : "13 des pfliget ouch tîvscher erde ein ort.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "13 des pfliget ouch tîvscher erdeein ort.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -988,7 +1004,7 @@
 										{ 
 											"line" : "14|line 14",
 											"text" : "14 daz habt ir ane mich gehort.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -996,7 +1012,7 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "15 swer ie da pflac der lande.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1004,7 +1020,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "16 der gebot wol ane schande.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1012,7 +1028,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "17 daz ist ein warheit sunder wan.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1020,7 +1036,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "18 daz der aldeste bruͦder solde han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1028,7 +1044,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "19 sines vater ganzen erbeteil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1036,7 +1052,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "20 daz was der iungern unheil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1044,7 +1060,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "21 daz in der tôt die pflihte brach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1052,7 +1068,7 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "22 als in vater leben veriach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1060,7 +1076,7 @@
 										{ 
 											"line" : "23|line 23",
 											"text" : "23 da uor was ez gemeine.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1068,7 +1084,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "24 svs hat iz der alter eine.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1076,7 +1092,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "25 daz schvͦf idoch ein wise man.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1084,7 +1100,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "26 daz alter gvͦt solde han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1092,7 +1108,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "27 ivgent hat uil werdecheit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1100,7 +1116,7 @@
 										{ 
 											"line" : "28|line 28",
 											"text" : "28 daz alter sivften unde leit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1108,7 +1124,7 @@
 										{ 
 											"line" : "29|line 29",
 											"text" : "29 ez enwart nie niht als vnfruͦt",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1116,7 +1132,7 @@
 										{ 
 											"line" : "30|line 30",
 											"text" : "30 so alter und armvͦt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1124,7 +1140,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "31 kvͦnige. grauen. herzogen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1132,7 +1148,7 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "32 daz sag ich iv fur ungelogen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1140,7 +1156,7 @@
 										{ 
 											"line" : "33|line 33",
 											"text" : "33 daz di da hvͦbe enterbet sint.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1148,7 +1164,7 @@
 										{ 
 											"line" : "34|line 34",
 											"text" : "34 unz an daz elter kint.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1156,7 +1172,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "35 daz ist ein fremdiv zeche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1164,15 +1180,15 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "36 der chivsche und der vreche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "37|line 37",
-											"text" : "37 Gahmuretder wigant.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "37 Gahmuret der wigant. Gagmuret ze Anjou",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1180,7 +1196,7 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "38 verlós sus burge und lant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1188,7 +1204,7 @@
 										{ 
 											"line" : "39|line 39",
 											"text" : "39 da sin vater schône.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1196,7 +1212,7 @@
 										{ 
 											"line" : "40|line 40",
 											"text" : "40 truͦch sceptru sceptrum und die chrone.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1204,7 +1220,7 @@
 										{ 
 											"line" : "41|line 41",
 											"text" : "41 mit grozer kvͦneclicher chraft.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1212,7 +1228,7 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "42 unz er lac tot an riterschaft.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1220,7 +1236,7 @@
 										{ 
 											"line" : "43|line 43",
 											"text" : "43 Do clagete man in sere.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1228,7 +1244,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "44 die ganzen triwe und ere.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1236,7 +1252,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "45 braht er unz an sinen tót.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1244,7 +1260,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "46 sin elter svͦn fur sich gebot.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1252,7 +1268,7 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "47 den fvrsten uz sinem riche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1260,7 +1276,7 @@
 										{ 
 											"line" : "48|line 48",
 											"text" : "48 die quamen ritterliche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1268,7 +1284,7 @@
 										{ 
 											"line" : "49|line 49",
 											"text" : "49 wan si ze rehte solden han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1276,7 +1292,7 @@
 										{ 
 											"line" : "50|line 50",
 											"text" : "50 von im groz lehen sunder wán.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1284,7 +1300,7 @@
 										{ 
 											"line" : "51|line 51",
 											"text" : "51 Do si zehove waren komen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1292,7 +1308,7 @@
 										{ 
 											"line" : "52|line 52",
 											"text" : "52 und ir reht was vernomen",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1300,7 +1316,7 @@
 										{ 
 											"line" : "53|line 53",
 											"text" : "53 daz si ir lehen alle enpfîngen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1308,7 +1324,7 @@
 										{ 
 											"line" : "54|line 54",
 											"text" : "54 nv horet wi siz anegevingen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1316,7 +1332,7 @@
 										{ 
 											"line" : "55|line 55",
 											"text" : "55 si gerten als ir triwe riet.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1324,7 +1340,7 @@
 										{ 
 											"line" : "56|line 56",
 											"text" : "56 rich und arme gar div diet.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1332,15 +1348,15 @@
 										{ 
 											"line" : "57|line 57",
 											"text" : "57 einer chranchen erntslicher bete.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "58|line 58",
-											"text" : "58 daz der chvͦnech an gahmvrete.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "58 daz der chvͦnech an Gahmurete.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1348,7 +1364,7 @@
 										{ 
 											"line" : "59|line 59",
 											"text" : "59 bruderliche triwe mêrte.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1356,7 +1372,7 @@
 										{ 
 											"line" : "60|line 60",
 											"text" : "60 und sih selben êrte.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1364,7 +1380,7 @@
 										{ 
 											"line" : "61|line 61",
 											"text" : "61 daz er in niht gar verstîeze.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1372,7 +1388,7 @@
 										{ 
 											"line" : "62|line 62",
 											"text" : "62 und im sines landes liezen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1380,7 +1396,7 @@
 										{ 
 											"line" : "63|line 63",
 											"text" : "63 hant gemêlde daz man mohte sehen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1388,7 +1404,7 @@
 										{ 
 											"line" : "64|line 64",
 											"text" : "64 da von der herre mvͦse iehen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1396,7 +1412,7 @@
 										{ 
 											"line" : "65|line 65",
 											"text" : "65 sines namen und siner vriheit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1404,7 +1420,7 @@
 										{ 
 											"line" : "66|line 66",
 											"text" : "66 daz was dem kvnege niht zeleit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1412,7 +1428,7 @@
 										{ 
 											"line" : "67|line 67",
 											"text" : "67 er sprach ir kvnnet maze gern.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1420,7 +1436,7 @@
 										{ 
 											"line" : "68|line 68",
 											"text" : "68 ich wil ivch des und furbaz wern.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1428,23 +1444,23 @@
 										{ 
 											"line" : "69|line 69",
 											"text" : "69 wan nennet ir den bruͦder min.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "70|line 70",
-											"text" : "70 Gahmvret Anscivin.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "70 Gahmuret aus Anjou",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "71|line 71",
-											"text" : "71 Anscowe ist min lant.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "71 Anjou ist min lant.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1452,7 +1468,7 @@
 										{ 
 											"line" : "72|line 72",
 											"text" : "72 da wesen beide von genant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1460,7 +1476,7 @@
 										{ 
 											"line" : "73|line 73",
 											"text" : "73 Do sprach der kvͦnech hêre.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1468,7 +1484,7 @@
 										{ 
 											"line" : "74|line 74",
 											"text" : "74 min brvͦder der mach sich mêre.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1476,7 +1492,7 @@
 										{ 
 											"line" : "75|line 75",
 											"text" : "75 der steten hilfe an mich versehen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1484,7 +1500,7 @@
 										{ 
 											"line" : "76|line 76",
 											"text" : "76 denne ich so gahes welle iehen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1492,7 +1508,7 @@
 										{ 
 											"line" : "77|line 77",
 											"text" : "77 er sol min ingesinde sîn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1500,7 +1516,7 @@
 										{ 
 											"line" : "78|line 78",
 											"text" : "78 deiswar ich tvͦn iv allen schîn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1508,7 +1524,7 @@
 										{ 
 											"line" : "79|line 79",
 											"text" : "79 daz uns beide ein mvͦter truͦch.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1516,7 +1532,7 @@
 										{ 
 											"line" : "80|line 80",
 											"text" : "80 er hat wenik und ich genvͦch.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1524,7 +1540,7 @@
 										{ 
 											"line" : "81|line 81",
 											"text" : "81 daz sol im teilen so min hant",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1532,7 +1548,7 @@
 										{ 
 											"line" : "82|line 82",
 											"text" : "82 daz des min selde niht si pfant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1540,7 +1556,7 @@
 										{ 
 											"line" : "83|line 83",
 											"text" : "83 vor dem der gibt und nimt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1548,7 +1564,7 @@
 										{ 
 											"line" : "84|line 84",
 											"text" : "84 vͦf reht in beder der gezimt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1556,7 +1572,7 @@
 										{ 
 											"line" : "85|line 85",
 											"text" : "85 do die fvrsten riche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1564,7 +1580,7 @@
 										{ 
 											"line" : "86|line 86",
 											"text" : "86 vernamen al geliche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1572,7 +1588,7 @@
 										{ 
 											"line" : "87|line 87",
 											"text" : "87 daz ir herre triwen phlac.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1580,7 +1596,7 @@
 										{ 
 											"line" : "88|line 88",
 											"text" : "88 diz was in ein liber tac.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1588,15 +1604,15 @@
 										{ 
 											"line" : "89|line 89",
 											"text" : "89 ieslicher im svnder neich.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "90|line 90",
-											"text" : "90 Gahmvret niht langer sweich.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "90 Gahmuret niht langer sweich.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1604,7 +1620,7 @@
 										{ 
 											"line" : "91|line 91",
 											"text" : "91 der volge als im sin herze iach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1612,7 +1628,7 @@
 										{ 
 											"line" : "92|line 92",
 											"text" : "92 zem kvͦnege er gvͦtliche sprach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1620,7 +1636,7 @@
 										{ 
 											"line" : "93|line 93",
 											"text" : "93 herre unde brvͦder min.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1628,7 +1644,7 @@
 										{ 
 											"line" : "94|line 94",
 											"text" : "94 wolt ich ingesinde sin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1636,7 +1652,7 @@
 										{ 
 											"line" : "95|line 95",
 											"text" : "95 iwer oder decheines man.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1644,7 +1660,7 @@
 										{ 
 											"line" : "96|line 96",
 											"text" : "96 so het ich min gemach getan.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1652,7 +1668,7 @@
 										{ 
 											"line" : "97|line 97",
 											"text" : "97 nv pruͦvet dar nach minen pris.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1660,7 +1676,7 @@
 										{ 
 											"line" : "98|line 98",
 											"text" : "98 ir sit getriwe unde wis",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1668,7 +1684,7 @@
 										{ 
 											"line" : "99|line 99",
 											"text" : "99 vnd ratet als iz geziehe nvͦ.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1676,7 +1692,7 @@
 										{ 
 											"line" : "100|line 100",
 											"text" : "100 da grifet helfliche zvͦ.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1684,7 +1700,7 @@
 										{ 
 											"line" : "101|line 101",
 											"text" : "101 niht wan harnasch ich han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1692,7 +1708,7 @@
 										{ 
 											"line" : "102|line 102",
 											"text" : "102 het ich dar inne mêr getan.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1700,7 +1716,7 @@
 										{ 
 											"line" : "103|line 103",
 											"text" : "103 daz virrech lop mir brehte.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1708,15 +1724,15 @@
 										{ 
 											"line" : "104|line 104",
 											"text" : "104 etswa man min gedehte.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "105|line 105",
-											"text" : "105 Gahmvͦreth sprach ave san.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "105 Gahmuret sprach ave san. Gahmuret",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1724,7 +1740,7 @@
 										{ 
 											"line" : "106|line 106",
 											"text" : "106 sehzehen knappen ich han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1732,7 +1748,7 @@
 										{ 
 											"line" : "107|line 107",
 											"text" : "107 der sehse von iser sint.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1740,7 +1756,7 @@
 										{ 
 											"line" : "108|line 108",
 											"text" : "108 dar zvͦ gebt mir vier kint.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_1v|1v",
 											"inFront": "false"
 										},
@@ -1748,7 +1764,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "01 mit gvͦter zvht an hoher art",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1756,7 +1772,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 vor den wirt nimmer niht gespart.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1764,7 +1780,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 des ie beiagen mac min hant",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1772,7 +1788,7 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "04 ich wil keren in div lant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1780,7 +1796,7 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 ich han ouch é ein teil gevarn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1788,7 +1804,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 ob mich gelvcke wil bewarn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1796,7 +1812,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "07 so erwirbe ich guͦtes wibes grvͦz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1804,7 +1820,7 @@
 										{ 
 											"line" : "8|line 8",
 											"text" : "08 ob ich ir darnach dinen mvͦz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1812,7 +1828,7 @@
 										{ 
 											"line" : "9|line 9",
 											"text" : "09 vnd ob ich des wirdech bin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1820,7 +1836,7 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "10 so rêtet mir min bester sin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1828,7 +1844,7 @@
 										{ 
 											"line" : "11|line 11",
 											"text" : "11 daz ichs mit rehten triwen phlege.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1836,7 +1852,7 @@
 										{ 
 											"line" : "12|line 12",
 											"text" : "12 got wise mich der selden wege.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1844,7 +1860,7 @@
 										{ 
 											"line" : "13|line 13",
 											"text" : "13 wir fvren gesellecliche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1852,15 +1868,15 @@
 										{ 
 											"line" : "14|line 14",
 											"text" : "14 dennoch het iwer riche.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "15|line 15",
-											"text" : "15 unser vater Gandin.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "15 unser vater Gandin. Gandin von Anjou",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1868,7 +1884,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "16 manegen chvmberlichen pin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1876,7 +1892,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "17 wir bede dolten vmbe lîp.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1884,7 +1900,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "18 ir waret ritter unde dîp.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1892,7 +1908,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "19 ir chundet dinen unde heln.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1900,7 +1916,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "20 wan chvnde ouch ich nv minne steln.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1908,7 +1924,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "21 owe wan het ich iwer chvnst.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1916,15 +1932,15 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "22 vnd anderhalp die waren gunst.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "23|line 23",
-											"text" : "23 der kvͦnech svͦfzete unde sprach",
-											"tags" : "parzival_text|Parzival",
+											"text" : "23 der kvͦnech svͦfzete unde sprach d er Kuͯnig",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1932,7 +1948,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "24 owe daz ich dich ie gesach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1940,7 +1956,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "25 sit dvͦ mit schimflichen siten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1948,7 +1964,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "26 min ganzez herze hast versniten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1956,7 +1972,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "27 un unt tvst ob wir uns scheiden.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1964,7 +1980,7 @@
 										{ 
 											"line" : "28|line 28",
 											"text" : "28 min vater hat uns beiden.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1972,7 +1988,7 @@
 										{ 
 											"line" : "29|line 29",
 											"text" : "29 Gelazen gvͦtes harte vil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1980,7 +1996,7 @@
 										{ 
 											"line" : "30|line 30",
 											"text" : "30 des stoze ich dir gelichiv zil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1988,7 +2004,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "31 ich bin dir herzenlichen holt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -1996,7 +2012,7 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "32 lîht gesteine. rotez golt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2004,7 +2020,7 @@
 										{ 
 											"line" : "33|line 33",
 											"text" : "33 livte. wapen. ors. gewant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2012,7 +2028,7 @@
 										{ 
 											"line" : "34|line 34",
 											"text" : "34 des nim so vil von miner hant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2020,7 +2036,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "35 daz dv nah dinem willen varst.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2028,7 +2044,7 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "36 und dine mildecheit bewarst.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2036,23 +2052,23 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "37 din manheit ist uzerkorn.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "38|line 38",
-											"text" : "38 werestu von Gẏlstram geborn.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "38 werestu von Gylstram geborn. Gylstram",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "39|line 39",
-											"text" : "39 oder komen her von Ranculat.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "39 oder komen her von Ranculat. Ranculat",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2060,7 +2076,7 @@
 										{ 
 											"line" : "40|line 40",
 											"text" : "40 ich hete dich immer an der stat.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2068,7 +2084,7 @@
 										{ 
 											"line" : "41|line 41",
 											"text" : "41 als ich dich svs uil gerne han",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2076,15 +2092,15 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "42 du bist min brvͦder svnder wán.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "43|line 43",
-											"text" : "43 Herre ir lobt mich umbe nót.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "43 Herre ir lobt mich umbe nót. Gahmuret",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2092,7 +2108,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "44 sit iz iwer zvht gebot.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2100,7 +2116,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "45 dar nach tvt iwer helfe schin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2108,7 +2124,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "46 welt ir und div mvͦter min",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2116,7 +2132,7 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "47 mir teilen iwer varnde habe.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2124,7 +2140,7 @@
 										{ 
 											"line" : "48|line 48",
 											"text" : "48 so stîge ich vf und ninder abe.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2132,7 +2148,7 @@
 										{ 
 											"line" : "49|line 49",
 											"text" : "49 min herze idoch nach hôhe strebet.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2140,7 +2156,7 @@
 										{ 
 											"line" : "50|line 50",
 											"text" : "50 ineweiz warumbe ez alsus lebet.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2148,7 +2164,7 @@
 										{ 
 											"line" : "51|line 51",
 											"text" : "51 daz mir swillet sus min winster brvst.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2156,7 +2172,7 @@
 										{ 
 											"line" : "52|line 52",
 											"text" : "52 owe war iaget mich min gelvst.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2164,7 +2180,7 @@
 										{ 
 											"line" : "53|line 53",
 											"text" : "53 ich solz versvchen ob ich mach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2172,15 +2188,15 @@
 										{ 
 											"line" : "54|line 54",
 											"text" : "54 nv nahet min vrloͮbes tach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "55|line 55",
-											"text" : "55 Der kvͦnech in alles werte",
-											"tags" : "parzival_text|Parzival",
+											"text" : "55 Der kvͦnech in alles werte Der kuͯnig",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2188,7 +2204,7 @@
 										{ 
 											"line" : "56|line 56",
 											"text" : "56 mer denne er selbe gerte.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2196,7 +2212,7 @@
 										{ 
 											"line" : "57|line 57",
 											"text" : "57 fivnf ôrs erwelt vnd erkant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2204,7 +2220,7 @@
 										{ 
 											"line" : "58|line 58",
 											"text" : "58 de besten uber al sin lant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2212,7 +2228,7 @@
 										{ 
 											"line" : "59|line 59",
 											"text" : "59 kvͦne. starc. niht zelaz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2220,7 +2236,7 @@
 										{ 
 											"line" : "60|line 60",
 											"text" : "60 manec tiwer golt vaz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2228,7 +2244,7 @@
 										{ 
 											"line" : "61|line 61",
 											"text" : "61 vnd manegen guldinen clôz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2236,7 +2252,7 @@
 										{ 
 											"line" : "62|line 62",
 											"text" : "62 den kvͦnech wenec des verdrôz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2244,7 +2260,7 @@
 										{ 
 											"line" : "63|line 63",
 											"text" : "63 er en fvltes im vier sovmschrin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2252,7 +2268,7 @@
 										{ 
 											"line" : "64|line 64",
 											"text" : "64 gesteines mvse ouch vil dar in.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2260,7 +2276,7 @@
 										{ 
 											"line" : "65|line 65",
 											"text" : "65 Do si gefvllet lagen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2268,7 +2284,7 @@
 										{ 
 											"line" : "66|line 66",
 											"text" : "66 knappen di des pflagen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2276,7 +2292,7 @@
 										{ 
 											"line" : "67|line 67",
 											"text" : "67 waren wol gecleidet und geriten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2284,15 +2300,15 @@
 										{ 
 											"line" : "68|line 68",
 											"text" : "68 da newart iamer niht vermiten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "69|line 69",
-											"text" : "69 do er fvr sine mvter giench.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "69 do er fvr sine mvter giench. Kuͯnigin",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2300,23 +2316,23 @@
 										{ 
 											"line" : "70|line 70",
 											"text" : "70 vnd si in so vaste zv ir viench.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "71|line 71",
-											"text" : "71 filluroẏ Gandin. Fillu Roy Gandin",
-											"tags" : "parzival_text|Parzival",
+											"text" : "71 filluroẏ Gandin. Fillu Roy Gandin .i. dn kuͯng Gandins sun",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "72|line 72",
-											"text" : "72 wil wilt du niht langer bi mir sin.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "72 wilt du niht langer bi mir sin.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2324,7 +2340,7 @@
 										{ 
 											"line" : "73|line 73",
 											"text" : "73 sprach daz wipliche wip.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2332,7 +2348,7 @@
 										{ 
 											"line" : "74|line 74",
 											"text" : "74 owe nv trvͦch dich doch min lip.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2340,7 +2356,7 @@
 										{ 
 											"line" : "75|line 75",
 											"text" : "75 dv bist ovch Gandins kint.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2348,7 +2364,7 @@
 										{ 
 											"line" : "76|line 76",
 											"text" : "76 ist got an siner helfe blint.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2356,7 +2372,7 @@
 										{ 
 											"line" : "77|line 77",
 											"text" : "77 oder ist er dran betovbet.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2364,7 +2380,7 @@
 										{ 
 											"line" : "78|line 78",
 											"text" : "78 daz er mir niht gelovbet.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2372,7 +2388,7 @@
 										{ 
 											"line" : "79|line 79",
 											"text" : "79 sol ich nv niwen kvmber haben.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2380,7 +2396,7 @@
 										{ 
 											"line" : "80|line 80",
 											"text" : "80 ich han mines herzen craft begraben.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2388,7 +2404,7 @@
 										{ 
 											"line" : "81|line 81",
 											"text" : "81 di svͦze miner ougen",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2396,7 +2412,7 @@
 										{ 
 											"line" : "82|line 82",
 											"text" : "82 wil er mich furbaz rovben.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2404,7 +2420,7 @@
 										{ 
 											"line" : "83|line 83",
 											"text" : "83 und ist doch ein rihtêre.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2412,7 +2428,7 @@
 										{ 
 											"line" : "84|line 84",
 											"text" : "84 so liuget mir daz mere.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2420,7 +2436,7 @@
 										{ 
 											"line" : "85|line 85",
 											"text" : "85 als man von siner helfe saget",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2428,15 +2444,15 @@
 										{ 
 											"line" : "86|line 86",
 											"text" : "86 sit er an mir ist sus verzaget.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "87|line 87",
-											"text" : "87 o Do sprach der ivnge Ansoiuin.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "87 Do sprach der ivnge Ansoiuin. Gahmuret Ansowin",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2444,7 +2460,7 @@
 										{ 
 											"line" : "88|line 88",
 											"text" : "88 got trôste ivch frowe des vater min.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2452,7 +2468,7 @@
 										{ 
 											"line" : "89|line 89",
 											"text" : "89 den svln wir beidiv gerne clagen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2460,7 +2476,7 @@
 										{ 
 											"line" : "90|line 90",
 											"text" : "90 iv enmac niman von mir gesagen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2468,7 +2484,7 @@
 										{ 
 											"line" : "91|line 91",
 											"text" : "91 deheiniv clagelichiv leit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2476,7 +2492,7 @@
 										{ 
 											"line" : "92|line 92",
 											"text" : "92 ich var durch mine werdecheit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2484,7 +2500,7 @@
 										{ 
 											"line" : "93|line 93",
 											"text" : "93 nah ritterschaft in fremdiv lant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2492,7 +2508,7 @@
 										{ 
 											"line" : "94|line 94",
 											"text" : "94 frowe ez ist sus bewant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2500,7 +2516,7 @@
 										{ 
 											"line" : "95|line 95",
 											"text" : "95 Do sprach div kvͦneginne.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2508,7 +2524,7 @@
 										{ 
 											"line" : "96|line 96",
 											"text" : "96 sit dv nach hoher minne.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2516,7 +2532,7 @@
 										{ 
 											"line" : "97|line 97",
 											"text" : "97 wendest dinest und mvͦt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2524,7 +2540,7 @@
 										{ 
 											"line" : "98|line 98",
 											"text" : "98 liber svn la dir min guͦt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2532,7 +2548,7 @@
 										{ 
 											"line" : "99|line 99",
 											"text" : "99 vf di vart niht versmahen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2540,7 +2556,7 @@
 										{ 
 											"line" : "100|line 100",
 											"text" : "100 heiz von mir enpfahen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2548,7 +2564,7 @@
 										{ 
 											"line" : "101|line 101",
 											"text" : "101 dine kamerêre.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2556,7 +2572,7 @@
 										{ 
 											"line" : "102|line 102",
 											"text" : "102 vier sovmschrin swêre.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2564,7 +2580,7 @@
 										{ 
 											"line" : "103|line 103",
 											"text" : "103 da ligent inne phelle breit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2572,7 +2588,7 @@
 										{ 
 											"line" : "104|line 104",
 											"text" : "104 ganze di man nie versneit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2580,7 +2596,7 @@
 										{ 
 											"line" : "105|line 105",
 											"text" : "105 vnd manec tiwer samit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2588,7 +2604,7 @@
 										{ 
 											"line" : "106|line 106",
 											"text" : "106 svͦzer man la mich di zit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2596,7 +2612,7 @@
 										{ 
 											"line" : "107|line 107",
 											"text" : "107 horen wenne dv wider kvmest.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
@@ -2604,15 +2620,15 @@
 										{ 
 											"line" : "108|line 108",
 											"text" : "108 an minen frovden dv mir frvmest.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2r|2r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "1|line 1",
-											"text" : "01 Frowe des enweiz ich niht",
-											"tags" : "parzival_text|Parzival",
+											"text" : "01 Frowe des enweiz ich niht Gahmuret Anscewin",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2620,7 +2636,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 in welhem lande man mich siht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2628,7 +2644,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 wan swar ich von iv kére",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2636,7 +2652,7 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "04 ir habt nach ritters ére.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2644,7 +2660,7 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 iwer werdecheit an mir getan.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2652,7 +2668,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 ovch hat mich der kvͦnich lan.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2660,7 +2676,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "07 als im min dinest danken sol.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2668,7 +2684,7 @@
 										{ 
 											"line" : "8|line 8",
 											"text" : "08 ich getruͦwe iv des uil wol.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2676,7 +2692,7 @@
 										{ 
 											"line" : "9|line 9",
 											"text" : "09 daz ir in deste werder hat.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2684,7 +2700,7 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "10 swi halt mir mîn dinc ergât",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2692,15 +2708,15 @@
 										{ 
 											"line" : "11|line 11",
 											"text" : "11 Als uns div aventiure saget",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "12 Do helt he-*-t der helt vnverzaget.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "12 Do het der helt vnverzaget.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2708,7 +2724,7 @@
 										{ 
 											"line" : "13|line 13",
 											"text" : "13 enpfangen durch liebe chraft.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2716,7 +2732,7 @@
 										{ 
 											"line" : "14|line 14",
 											"text" : "14 unt dur wiplich geselleschaft.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2724,7 +2740,7 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "15 chleinôtes tvsent marke wert.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2732,7 +2748,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "16 swa noch ein ivde pfandes gert.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2740,7 +2756,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "17 er mohtez der fvr enphahen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2748,7 +2764,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "18 ez endorft im niht versmahen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2756,7 +2772,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "19 daz sande im ein sin frivdin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2764,7 +2780,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "20 an sinem dinste lac gewin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2772,7 +2788,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "21 der wibe minne und ir gruͦz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2780,7 +2796,7 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "22 doch wart im selten kvmbers bvͦz.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2788,7 +2804,7 @@
 										{ 
 											"line" : "23|line 23",
 											"text" : "23 vrloͮp nam der wigant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2796,7 +2812,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "24 mvͦter. bruder. noch des lant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2804,7 +2820,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "25 sin ovge nimmer mer erkós.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2812,7 +2828,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "26 dar an doch maneger vil verlós.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2820,7 +2836,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "27 der sich hete an im erkant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2828,7 +2844,7 @@
 										{ 
 											"line" : "28|line 28",
 											"text" : "28 é daz er were dan gewant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2836,7 +2852,7 @@
 										{ 
 											"line" : "29|line 29",
 											"text" : "29 mit deheinerslahte gvnste zil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2844,7 +2860,7 @@
 										{ 
 											"line" : "30|line 30",
 											"text" : "30 den wart von im gedanket vil.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2852,7 +2868,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "31 es dvͦhte in mére denne gnuͦc",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2860,15 +2876,15 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "32 durch sine zvht er nie gewͦc.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "33|line 33",
-											"text" : "33 daz siz teten vmbe reht.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "33 daz siz tete teten vmbe reht.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2876,7 +2892,7 @@
 										{ 
 											"line" : "34|line 34",
 											"text" : "34 sin mvͦt was ebener denne sleht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2884,7 +2900,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "35 swer selbe sagt wi werd er si.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2892,7 +2908,7 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "36 da ist lihte ein vngelovbe bi.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2900,7 +2916,7 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "37 ez solten die vmbesezen iehen",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2908,15 +2924,15 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "38 vnd ovch di heten gesehen",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "39|line 39",
-											"text" : "39 siniv werch da er fromde fremde were",
-											"tags" : "parzival_text|Parzival",
+											"text" : "39 siniv werch da er fremde were",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2924,15 +2940,15 @@
 										{ 
 											"line" : "40|line 40",
 											"text" : "40 so gelovpte manz mêre.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "41|line 41",
-											"text" : "41 [x]Ahmvͦret GAhmvͦret der site phlac.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "41 Gahmvͦret der site phlac.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2940,7 +2956,7 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "42 den rehtiv maze widerwac.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2948,7 +2964,7 @@
 										{ 
 											"line" : "43|line 43",
 											"text" : "43 und ander schanze encheine.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2956,7 +2972,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "44 sin rv̂men daz was chleine.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2964,7 +2980,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "45 groze ere er lidenliche leit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2972,7 +2988,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "46 der lose wille in gar vermeit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2980,7 +2996,7 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "47 doch wande der gefvͦge.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2988,7 +3004,7 @@
 										{ 
 											"line" : "48|line 48",
 											"text" : "48 daz niman chrone trvͦge.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -2996,7 +3012,7 @@
 										{ 
 											"line" : "49|line 49",
 											"text" : "49 chvͦnech. keiser keiserin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3004,7 +3020,7 @@
 										{ 
 											"line" : "50|line 50",
 											"text" : "50 des messenie er wolde sin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3012,7 +3028,7 @@
 										{ 
 											"line" : "51|line 51",
 											"text" : "51 niwan eines der die hoͤhsten hant",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3020,7 +3036,7 @@
 										{ 
 											"line" : "52|line 52",
 											"text" : "52 trvͦge vͦf erde vber elliv lant.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3028,7 +3044,7 @@
 										{ 
 											"line" : "53|line 53",
 											"text" : "53 der wille in sinem herzen lach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3036,7 +3052,7 @@
 										{ 
 											"line" : "54|line 54",
 											"text" : "54 im wart gesagt ze Baldach.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3044,7 +3060,7 @@
 										{ 
 											"line" : "55|line 55",
 											"text" : "55 were ein so gewaltic man.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3052,7 +3068,7 @@
 										{ 
 											"line" : "56|line 56",
 											"text" : "56 daz im der erde undertan",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3060,7 +3076,7 @@
 										{ 
 											"line" : "57|line 57",
 											"text" : "57 div zwei teil weren oder mér.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3068,15 +3084,15 @@
 										{ 
 											"line" : "58|line 58",
 											"text" : "58 sin namen heidinsch was so hér.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "59|line 59",
-											"text" : "59 daz man in hiez der Baruͦch",
-											"tags" : "parzival_text|Parzival",
+											"text" : "59 daz man in hiez der Baruc",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3084,7 +3100,7 @@
 										{ 
 											"line" : "60|line 60",
 											"text" : "60 er hete an krefte alsolhen zvͦch.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3092,15 +3108,15 @@
 										{ 
 											"line" : "61|line 61",
 											"text" : "61 vil kvͦnege waren sine man.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "62|line 62",
-											"text" : "62 mit chrontem libe undertan.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "62 mit chronte chrontem libe undertan.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3108,7 +3124,7 @@
 										{ 
 											"line" : "63|line 63",
 											"text" : "63 dez Barvͦch ambet hivte stét.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3116,7 +3132,7 @@
 										{ 
 											"line" : "64|line 64",
 											"text" : "64 seht wi man christen é begét.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3124,7 +3140,7 @@
 										{ 
 											"line" : "65|line 65",
 											"text" : "65 zerome als uns der tovf vergiht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3132,7 +3148,7 @@
 										{ 
 											"line" : "66|line 66",
 											"text" : "66 heidensch orden man dort siht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3140,7 +3156,7 @@
 										{ 
 											"line" : "67|line 67",
 											"text" : "67 ze Baldach nement si ir babest reht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3148,7 +3164,7 @@
 										{ 
 											"line" : "68|line 68",
 											"text" : "68 daz dunchet si ane krvmben sleht.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3156,7 +3172,7 @@
 										{ 
 											"line" : "69|line 69",
 											"text" : "69 der Barvͦch in fvr svnde.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3164,7 +3180,7 @@
 										{ 
 											"line" : "70|line 70",
 											"text" : "70 git wandels vrkvnde.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3172,7 +3188,7 @@
 										{ 
 											"line" : "71|line 71",
 											"text" : "71 Zwene brvder von Babilon.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3180,15 +3196,15 @@
 										{ 
 											"line" : "72|line 72",
 											"text" : "72 Pompeius und Jpomidon.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "73|line 73",
-											"text" : "73 den nam der Baruͦch ninivé.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "73 den nam der Barvͦch ninivé.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3196,7 +3212,7 @@
 										{ 
 											"line" : "74|line 74",
 											"text" : "74 daz was al ir vordern é.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3204,7 +3220,7 @@
 										{ 
 											"line" : "75|line 75",
 											"text" : "75 si taten wer mit chrefte schin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3212,7 +3228,7 @@
 										{ 
 											"line" : "76|line 76",
 											"text" : "76 dar chom der iunge Anscivin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3220,7 +3236,7 @@
 										{ 
 											"line" : "77|line 77",
 											"text" : "77 dem wart der Barvͦch vil holt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3228,7 +3244,7 @@
 										{ 
 											"line" : "78|line 78",
 											"text" : "78 ia nam nach dinste al da den solt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3236,7 +3252,7 @@
 										{ 
 											"line" : "79|line 79",
 											"text" : "79 Gahmvͦreth der werde man.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3244,15 +3260,15 @@
 										{ 
 											"line" : "80|line 80",
 											"text" : "80 nuͦ erlovbet im daz er muͦze han.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "81|line 81",
-											"text" : "81 ander wapen denne im Gaudîn.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "81 and ander wapen denne im Gaudîn.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3260,7 +3276,7 @@
 										{ 
 											"line" : "82|line 82",
 											"text" : "82 da vor gap der uater sin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3268,7 +3284,7 @@
 										{ 
 											"line" : "83|line 83",
 											"text" : "83 der herre phlac mit gernden siten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3276,7 +3292,7 @@
 										{ 
 											"line" : "84|line 84",
 											"text" : "84 vf sine kovertivre gesniten.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3284,7 +3300,7 @@
 										{ 
 											"line" : "85|line 85",
 											"text" : "85 æncher. liht hermin.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3292,7 +3308,7 @@
 										{ 
 											"line" : "86|line 86",
 											"text" : "86 da nach mvͦse ovch daz ander sin",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3300,7 +3316,7 @@
 										{ 
 											"line" : "87|line 87",
 											"text" : "87 vͦf sime schilte und an der wât.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3308,7 +3324,7 @@
 										{ 
 											"line" : "88|line 88",
 											"text" : "88 noch grvͦner denne ein smarát.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3316,7 +3332,7 @@
 										{ 
 											"line" : "89|line 89",
 											"text" : "89 was gepruvet sin gereite gar.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3324,7 +3340,7 @@
 										{ 
 											"line" : "90|line 90",
 											"text" : "90 und nach dem Achmardi var.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3332,7 +3348,7 @@
 										{ 
 											"line" : "91|line 91",
 											"text" : "91 daz ist ein sidin lachen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3340,7 +3356,7 @@
 										{ 
 											"line" : "92|line 92",
 											"text" : "92 dar zvͦ hiez er im machen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3348,7 +3364,7 @@
 										{ 
 											"line" : "93|line 93",
 											"text" : "93 wapenroch und kursit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3356,7 +3372,7 @@
 										{ 
 											"line" : "94|line 94",
 											"text" : "94 ez ist bezzer denne der samit.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3364,7 +3380,7 @@
 										{ 
 											"line" : "95|line 95",
 											"text" : "95 hermin ancher drvͦf genêt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3372,7 +3388,7 @@
 										{ 
 											"line" : "96|line 96",
 											"text" : "96 guldiniv seil dran gedrêt.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3380,7 +3396,7 @@
 										{ 
 											"line" : "97|line 97",
 											"text" : "97 sine anchere heten niht bekort.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3388,7 +3404,7 @@
 										{ 
 											"line" : "98|line 98",
 											"text" : "98 ganzes landes. noch landes ort.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3396,7 +3412,7 @@
 										{ 
 											"line" : "99|line 99",
 											"text" : "99 da ne waren si ninder in geslagen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3404,7 +3420,7 @@
 										{ 
 											"line" : "100|line 100",
 											"text" : "100 der herre mvͦse fvrbaz tragen.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3412,7 +3428,7 @@
 										{ 
 											"line" : "101|line 101",
 											"text" : "101 disen wapenlichen last.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3420,7 +3436,7 @@
 										{ 
 											"line" : "102|line 102",
 											"text" : "102 in manegiv lant der werde gast.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3428,15 +3444,15 @@
 										{ 
 											"line" : "103|line 103",
 											"text" : "103 Nach dem Ancher disiv mál.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "104|line 104",
-											"text" : "104 wander deheiner slahte twál.",
-											"tags" : "parzival_text|Parzival",
+											"text" : "104 wand wander deheiner slahte twál.",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3444,7 +3460,7 @@
 										{ 
 											"line" : "105|line 105",
 											"text" : "105 hete ninder noch gebite.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3452,7 +3468,7 @@
 										{ 
 											"line" : "106|line 106",
 											"text" : "106 wie vil er lande dúrch rite",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3460,7 +3476,7 @@
 										{ 
 											"line" : "107|line 107",
 											"text" : "107 vnd in schiffen vmbe fv̂re.",
-											"tags" : "parzival_text|Parzival",
+											"tags" : "cod_sanga_857 parzival_text|Parzival",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3468,7 +3484,7 @@
 										{ 
 											"line" : "108|line 108",
 											"text" : "108 ob ich iv danach swͦre.  ",
-											"tags" : "parzival_text nibelungen_text|Parzival Die Nibelugen",
+											"tags" : "cod_sanga_857 parzival_text nibelungen_text|Parzival Nibelungenlied",
 											"loc" : "co_fol_2v|2v",
 											"inFront": "false"
 										},
@@ -3476,7 +3492,7 @@
 										{ 
 											"line" : "no line info|no line info",
 											"text" : "Der NibelungenNot ",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3484,7 +3500,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "01 En Bvrgonden ein vil edel",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3492,7 +3508,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 magedin. daz in allen lan",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3500,7 +3516,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 den niht schoners mohte sin.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3508,7 +3524,7 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "04 Chriemhilt geheizen si wart",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3516,7 +3532,7 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 ein scoͤne wip. dar vmbe",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3524,7 +3540,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 mvͦsen degene vil verliesen den lip.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3532,7 +3548,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "07 Ir pflagen drîe kvnege edel vnd rich. Gvͤnther",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3540,7 +3556,7 @@
 										{ 
 											"line" : "8|line 8",
 											"text" : "08 her vnde Gernot. di rechen lobelich. vn vnd Giselher",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3548,7 +3564,7 @@
 										{ 
 											"line" : "9|line 9",
 											"text" : "09 her d der ivnge ein vͦz erwelter degn. div froͮ",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3556,7 +3572,7 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "10 we was ir swester. di fvͤrsten hetens in ir",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3564,7 +3580,7 @@
 										{ 
 											"line" : "11|line 11",
 											"text" : "11 pflægn. Di herren waren milte. von",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3572,7 +3588,7 @@
 										{ 
 											"line" : "12|line 12",
 											"text" : "12 arde hohe erborn.mit chraft vnmâzen chvͤ",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3580,7 +3596,7 @@
 										{ 
 											"line" : "13|line 13",
 											"text" : "13 ne. di rechen vͦz erchorn.da zen Bvrgon",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3588,7 +3604,7 @@
 										{ 
 											"line" : "14|line 14",
 											"text" : "14 den so was ir lant genant. si frvmten star",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3596,7 +3612,7 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "15 chiv wnder sit in Etzelen lant. Ze",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3604,7 +3620,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "16 Wormeze bi dem Rîne si wonten mit ir",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3612,7 +3628,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "17 chraft. in diente vo von ir landen. vil stolziv",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3620,7 +3636,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "18 ritterscaft.mit lobelichen eren. vnz an ir",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3628,7 +3644,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "19 endes zit.si erstvrben sit iæmerliche. vo von",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3636,7 +3652,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "20 zweier edelen frowen nit. Ein richiv",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3644,7 +3660,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "21 kvneginne froͮ Vͦte ir mvͦter hiez. ir vat vater",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3652,7 +3668,7 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "22 d der hiez Danchrat d der in div erbe liez. sit",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3660,7 +3676,7 @@
 										{ 
 											"line" : "23|line 23",
 											"text" : "23 nach sime lebene ein ellens richer man. d der",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3668,7 +3684,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "24 ovch in siner ivgende grozer eren vil ge",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3676,7 +3692,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "25 wan. Die drîe kvnege waren als ich",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3684,7 +3700,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "26 gesaget han. vo von vil hohem ellen in waren",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3692,7 +3708,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "27 vndertan. ovch di besten rechen von den",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3700,7 +3716,7 @@
 										{ 
 											"line" : "28|line 28",
 											"text" : "28 man hat gesagt. starch vn vnd vil chvͤne in",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3708,7 +3724,7 @@
 										{ 
 											"line" : "29|line 29",
 											"text" : "29 scarpfen striten vnverzagt. Daz was",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3716,7 +3732,7 @@
 										{ 
 											"line" : "30|line 30",
 											"text" : "30 von Tronege Hagene vn vnd ovch d der brvͦd brvͦder sin.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3724,7 +3740,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "31 Danchwart d der vil snelle vo von Metzzen Ortewin.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3732,7 +3748,7 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "32 di zwene marcgraven Gere vnd Ekkewart",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3740,7 +3756,7 @@
 										{ 
 											"line" : "33|line 33",
 											"text" : "33 wart. Volker von Alzei  mit ganzem",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3748,7 +3764,7 @@
 										{ 
 											"line" : "34|line 34",
 											"text" : "34 ellen wol bewart. Rvͦmolt der chvchen meister",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3756,7 +3772,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "35 ein tiwͦerlicher degn. Sindolt",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3764,7 +3780,7 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "36 vn vnd Hvͦnolt dise herren mvͦsen pflegen. des",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3772,7 +3788,7 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "37 hoves vnt d der eren d der drîer kvnege man. si",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3780,7 +3796,7 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "38 heten noch manegen rechen des ich genen",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3788,7 +3804,7 @@
 										{ 
 											"line" : "39|line 39",
 											"text" : "39 nen niene chan. Danchwart d der was",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3796,7 +3812,7 @@
 										{ 
 											"line" : "40|line 40",
 											"text" : "40 marscalch do was d der neve sin. trvhsæze des",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3804,7 +3820,7 @@
 										{ 
 											"line" : "41|line 41",
 											"text" : "41 kvneges von Metzzen Oͤrtewin. Sindolt d der",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3812,7 +3828,7 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "42 was scenche ein vͦz er welter degn. Hvͦnolt",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3820,7 +3836,7 @@
 										{ 
 											"line" : "43|line 43",
 											"text" : "43 nolt was chamerære si chvnden hoher eren",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3828,7 +3844,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "44 pflegn. Von des hoves chrefte vn vnd vo von",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3836,7 +3852,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "45 ir wîten chraft.vo von ir vil hohen werdech",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3844,7 +3860,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "46 eit vn vnd vo von ir ritterscaft.der di herren pfla",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3852,7 +3868,7 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "47 gen mit vroͮden all ir lebn. des enchvnd enchvnde",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3860,7 +3876,7 @@
 										{ 
 											"line" : "48|line 48",
 											"text" : "48 iv ze ware niemen gar ein ende gebn.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3868,7 +3884,7 @@
 										{ 
 											"line" : "49|line 49",
 											"text" : "49 IN disen hohen eren troͮmte Chriemhilde.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3876,7 +3892,7 @@
 										{ 
 											"line" : "50|line 50",
 											"text" : "50 wie si zvge einen Valchen. starch",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3884,7 +3900,7 @@
 										{ 
 											"line" : "51|line 51",
 											"text" : "51 scoͤn vn vnd wilde. den ir zwene Aren er",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3892,7 +3908,7 @@
 										{ 
 											"line" : "52|line 52",
 											"text" : "52 chrvmmen daz si daz mvͦste sehn. ir en",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3900,7 +3916,7 @@
 										{ 
 											"line" : "53|line 53",
 											"text" : "53 chvnde in dirre werlde leid leider nimm nimmer gescehn.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3908,7 +3924,7 @@
 										{ 
 											"line" : "54|line 54",
 											"text" : "54 Den troͮm si do sagete ir mvͦter Vͦten. sine",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3916,7 +3932,7 @@
 										{ 
 											"line" : "55|line 55",
 											"text" : "55 chvndes niht besceiden baz d der gvͦten. der",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3924,7 +3940,7 @@
 										{ 
 											"line" : "56|line 56",
 											"text" : "56 Valche den dv zivhest. daz ist ein edel",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3932,7 +3948,7 @@
 										{ 
 											"line" : "57|line 57",
 											"text" : "57 man. ine welle got behvͤten. dv mvͦst in",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3940,7 +3956,7 @@
 										{ 
 											"line" : "58|line 58",
 											"text" : "58 sciere vloren han. Waz saget ir",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3948,7 +3964,7 @@
 										{ 
 											"line" : "59|line 59",
 											"text" : "59 mir vo von manne. vil liebiv mvͦter min. ane",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3956,7 +3972,7 @@
 										{ 
 											"line" : "60|line 60",
 											"text" : "60 rechen minne. so wil ich imm immer sin.svs scoͤn",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3964,7 +3980,7 @@
 										{ 
 											"line" : "61|line 61",
 											"text" : "61 ich wil beliben. vnz an minen tot. daz",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3972,15 +3988,15 @@
 										{ 
 											"line" : "62|line 62",
 											"text" : "62 ich vo von mannes minne. sol gewinnen nimm nimmer",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "63|line 63",
-											"text" : "63 not. [[ie rede la]]Nv versprich",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"text" : "63 not. [[ie rede la]] Nv versprich",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3988,7 +4004,7 @@
 										{ 
 											"line" : "64|line 64",
 											"text" : "64 ez niht zesere. spch sprach aber ir mvͦter do. soltv",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -3996,7 +4012,7 @@
 										{ 
 											"line" : "65|line 65",
 											"text" : "65 imm immer hercenliche zer werlde werden vro.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4004,7 +4020,7 @@
 										{ 
 											"line" : "66|line 66",
 											"text" : "66 daz gesciht vo von mannes minne. dv wirst",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4012,7 +4028,7 @@
 										{ 
 											"line" : "67|line 67",
 											"text" : "67 ein scoͤne wip. ob dir noch got gefvͤget.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4020,7 +4036,7 @@
 										{ 
 											"line" : "68|line 68",
 											"text" : "68 eins rehte gvͦten ritters lip. Di rede lat",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4028,7 +4044,7 @@
 										{ 
 											"line" : "69|line 69",
 											"text" : "69 beliben. sprach si frowe min. ez ist an mane",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4036,7 +4052,7 @@
 										{ 
 											"line" : "70|line 70",
 											"text" : "70 gen wiben. vil diche worden scin. wie liebe",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4044,7 +4060,7 @@
 										{ 
 											"line" : "71|line 71",
 											"text" : "71 mit leide ze ivngest lonen chan. ich sol si",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4052,7 +4068,7 @@
 										{ 
 											"line" : "72|line 72",
 											"text" : "72 miden beide. sone chan mir nimm nimmer missegan.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4060,7 +4076,7 @@
 										{ 
 											"line" : "73|line 73",
 											"text" : "73 Chriemhilt in ir mvͦte. sich minne gar be",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4068,7 +4084,7 @@
 										{ 
 											"line" : "74|line 74",
 											"text" : "74 wach. sit lebte div vil gvͦte. vil manegen",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4076,7 +4092,7 @@
 										{ 
 											"line" : "75|line 75",
 											"text" : "75 lieben tach. daz sine wesse niemen den mi",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4084,7 +4100,7 @@
 										{ 
 											"line" : "76|line 76",
 											"text" : "76 nnen wolde ir lip. sit wart si mit eren.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4092,7 +4108,7 @@
 										{ 
 											"line" : "77|line 77",
 											"text" : "77 eins vil chvͤnen rechen wip. Der was",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4100,7 +4116,7 @@
 										{ 
 											"line" : "78|line 78",
 											"text" : "78 d der selbe Valche. den si in ir troͮme sach.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4108,7 +4124,7 @@
 										{ 
 											"line" : "79|line 79",
 											"text" : "79 den ir besciet ir mvͦter. wi sere si daz",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4116,7 +4132,7 @@
 										{ 
 											"line" : "80|line 80",
 											"text" : "80 rach. an ir næhsten mâgen. die in slvͦgen",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4124,7 +4140,7 @@
 										{ 
 											"line" : "81|line 81",
 											"text" : "81 sint. dvrch sin eines sterben. starp vil mane",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4132,7 +4148,7 @@
 										{ 
 											"line" : "82|line 82",
 											"text" : "82 ger mvͦter kint.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4140,7 +4156,7 @@
 										{ 
 											"line" : "83|line 83",
 											"text" : "83 Do wͦhs in Niderlanden. eins vil",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4148,7 +4164,7 @@
 										{ 
 											"line" : "84|line 84",
 											"text" : "84 edelen kvneges kint. des vater",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4156,7 +4172,7 @@
 										{ 
 											"line" : "85|line 85",
 											"text" : "85 d der hiez Sigemvnt. sin mvͦter",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4164,7 +4180,7 @@
 										{ 
 											"line" : "86|line 86",
 											"text" : "86 Sigelint. in einer rîchen bvͤrge.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4172,7 +4188,7 @@
 										{ 
 											"line" : "87|line 87",
 											"text" : "87 witen wol bechant. nidene bi dem Rine",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4180,7 +4196,7 @@
 										{ 
 											"line" : "88|line 88",
 											"text" : "88 div was ze Xanten genant. Siegfried",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4188,7 +4204,7 @@
 										{ 
 											"line" : "89|line 89",
 											"text" : "89 was geheizen. der snelle degen gvͦt. er ver",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4196,7 +4212,7 @@
 										{ 
 											"line" : "90|line 90",
 											"text" : "90 svͦchte vil der riche dvrch ellenthaften mvͦt.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4204,7 +4220,7 @@
 										{ 
 											"line" : "91|line 91",
 											"text" : "91 dvrh sines libes sterche er reit in menegiv",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4212,7 +4228,7 @@
 										{ 
 											"line" : "92|line 92",
 											"text" : "92 lant. hey waz er sneller degene sit cen",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4220,7 +4236,7 @@
 										{ 
 											"line" : "93|line 93",
 											"text" : "93 bvrgonden vant. In sinen besten ziten",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4228,7 +4244,7 @@
 										{ 
 											"line" : "94|line 94",
 											"text" : "94 bi sinen ivngen tagen. man mohte michel",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4236,7 +4252,7 @@
 										{ 
 											"line" : "95|line 95",
 											"text" : "95 wnder von Siveride sagen. waz eren an",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4244,7 +4260,7 @@
 										{ 
 											"line" : "96|line 96",
 											"text" : "96 im wͤchse vn vnd wi scoͤne was sin lip. sit he",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4252,7 +4268,7 @@
 										{ 
 											"line" : "97|line 97",
 											"text" : "97 ten in ce minne div vil wætlichen wip.",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4260,7 +4276,7 @@
 										{ 
 											"line" : "98|line 98",
 											"text" : "98 Man zoch in mit dem vlize als im daz wol",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4268,7 +4284,7 @@
 										{ 
 											"line" : "99|line 99",
 											"text" : "99 gezam. von sin selbes mvͦte waz tvgende",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4276,7 +4292,7 @@
 										{ 
 											"line" : "100|line 100",
 											"text" : "100 er an sich nam. des wrden sit gezieret",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4284,7 +4300,7 @@
 										{ 
 											"line" : "101|line 101",
 											"text" : "101 sines vat vater lant. daz man in ze allen dingn",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4292,7 +4308,7 @@
 										{ 
 											"line" : "102|line 102",
 											"text" : "102 so rehte herlichen vant. ER was nv so",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
@@ -4300,15 +4316,15 @@
 										{ 
 											"line" : "103|line 103",
 											"text" : "103 gewachsen daz er ze hove reit. di livte",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "104|line 104",
-											"text" : "104 in sahen gerne manech froͮwe vnd manech",
-											"tags" : "nibelungen_text|Die Nibelugen",
+											"text" : "104 in sahen gerne manech froͮwe vnd manech ",
+											"tags" : "cod_sanga_857 nibelungen_text|Nibelungenlied",
 											"loc" : "co_fol_117r|117r",
 											"inFront": "false"
 										},
