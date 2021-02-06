@@ -141,13 +141,13 @@
             <!-- IT: Percorso al file xml contenente lo schema viscoll.
               Se si usa una risorsa online, inserire il percorso completo (ex. http://www.ilmiosito.it/schemaViscoll.xml).
               Altrimenti copiare il file nella cartella data/input_data/text e
-              inserire qui solo percorso relativo a partire da quella cartella. --><xsl:param name="viscoll_scheme_path" select="'text/viscoll/VB-quireStructure.xml'"/><!-- EN: Path to xml file containing viscoll images list.
+              inserire qui solo percorso relativo a partire da quella cartella. --><xsl:param name="viscoll_scheme_path" select="'text/viscoll/Co_Sa_857-quireStructure.xml'"/><!-- EN: Path to xml file containing viscoll images list.
                 If you need to use an online resource, put the entire path (e.g: http://www.mysite.com/viscollImagelist.xml) here.
                 Otherwise put the file in data/input_data/text folder and just put the relative path starting from that folder here. -->
               <!-- IT: Percorso al file xml contenente la lista delle immagini necessaria al corretto funzionamento di viscoll.
                 Se si usa una risorsa online, inserire il percorso completo (ex. http://www.ilmiosito.it/viscollImagelist.xml).
                 Altrimenti copiare il file nella cartella data/input_data/text
-                e inserire qui solo percorso relativo a partire da quella cartella. --><xsl:param name="viscoll_image_list_path" select="'text/viscoll/VB_14-15-imageList.xml'"/><!-- EN: Show/Hide Edition level selector in interface -->
+                e inserire qui solo percorso relativo a partire da quella cartella. --><xsl:param name="viscoll_image_list_path" select="'text/viscoll/Co_Sa_857-imageList.xml'"/><!-- EN: Show/Hide Edition level selector in interface -->
         <!-- IT: Mostra/Nascondi selettore Livello/i Edizione nell'interfaccia web -->
         <!-- default: true() --><xsl:param name="edition_level_selector" select="true()"/><!-- IT: Choose page selector position -->
           <!-- IT: Scegli posizione Selettore pagina -->

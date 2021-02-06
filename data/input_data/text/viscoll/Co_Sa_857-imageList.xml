@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<imageList>
+    <imageRV>
+        <image val="0r" url="../../../input_data/images/single/co_fol_000r.jpg">0r</image>
+        <image val="0v" url="../../../input_data/images/single/co_fol_000v.jpg">0v</image>       
+    </imageRV>
+    <imageRV>
+        <image val="1r" url="../../../input_data/images/single/co_fol_1r.jpg">1r</image>
+        <image val="1v" url="../../../input_data/images/single/co_fol_1v.jpg">1v</image>       
+    </imageRV>
+    <imageRV>
+        <image val="2r" url="../../../input_data/images/single/co_fol_2r.jpg">x</image>
+        <image val="2v" url="../../../input_data/images/single/co_fol_2v.jpg">x</image>       
+    </imageRV>
+    <imageRV>
+        <image val="3r" url="../../../input_data/images/single/co_fol_3r.jpg">101r</image>
+        <image val="3v" url="../../../input_data/images/single/co_fol_3v.jpg">101v</image>       
+    </imageRV>
+    <imageRV>
+        <image val="4r" url="../../../input_data/images/single/co_fol_4v.jpg">102r</image>
+        <image val="4v" url="../../../input_data/images/single/co_fol_4v.jpg">102v</image>       
+    </imageRV>
+    <imageRV>
+        <image val="5r" url="../../../input_data/images/single/co_fol_5r.jpg">103r</image>
+        <image val="5v" url="../../../input_data/images/single/co_fol_5v.jpg">103v</image>       
+    </imageRV>
+    <imageRV>
+        <image val="117r" url="../../../input_data/images/single/co_fol_117r.jpg">x</image>
+        <image val="117v" url="../../../input_data/images/single/co_fol_117v.jpg">x</image>       
+    </imageRV>
+</imageList>
