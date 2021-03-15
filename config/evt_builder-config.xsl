@@ -122,7 +122,7 @@
           <!-- IT: Mostra/Nascondi pulsante Txt/Img Link nell'interfaccia web -->
           <!-- default: true() --><xsl:param name="txtimg_link_button" select="true()"/><!-- EN: Show/Hide Hotspot Button in interface -->
             <!-- IT: Mostra/Nascondi pulsante Hotspot nell'interfaccia web -->
-            <!-- default: true() --><xsl:param name="hs_button" select="true()"/><!-- EN: Show/Hide Magnifier Button in interface -->
+            <!-- default: true() --><xsl:param name="hs_button" select="false()"/><!-- EN: Show/Hide Magnifier Button in interface -->
         <!-- IT: Mostra/Nascondi pulsante Lente di ingrandimento nell'interfaccia web -->
         <!-- default: true() --><xsl:param name="mag_button" select="true()"/><!-- EN: Show/Hide Thumbnails Button in interface -->
         <!-- IT: Mostra/Nascondi pulsante Thumbnails nell'interfaccia web -->

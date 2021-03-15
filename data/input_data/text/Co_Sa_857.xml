@@ -146,7 +146,7 @@
                 <listPerson>
                     <person xml:id="Parzival">
                         <persName>Parzival</persName>
-                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Parzival">Parzival</ref> auf Wikipedia.</note>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Parzival">Parzival</ref> auf Wikipedia oder im <ref target="http://epenhandschrift.bubblfy.com/parzival/">Informationsportal</ref>.</note>
                     </person>
                     <person xml:id="Gott">
                         <persName>Gott</persName>
@@ -240,7 +240,11 @@
                     </person>
                     <person xml:id="Siegfried">
                         <persName>Siegfried</persName>
-                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Siegfried_der_Drachentöter">Siegfried</ref> auf Wikipedia.</note>
+                        <note>Mehr zu <ref target="https://de.wikipedia.org/wiki/Siegfried_der_Drachentöter">Siegfried</ref> auf Wikipedia oder dem <ref target="http://epenhandschrift.bubblfy.com/siegfried/">Informationsportal</ref>.</note>
+                    </person>
+                    <person>
+                        <persName>Brünhild</persName>
+                        <note>Mehr zu Brünhild auf <ref target="https://de.wikipedia.org/wiki/Brünhild">Wikipedia</ref>oder im <ref target="http://epenhandschrift.bubblfy.com/bruenhild/">Informationsportal</ref>.</note>
                     </person>
                 </listPerson>
                 <listPlace>
